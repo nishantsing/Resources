@@ -116,7 +116,7 @@
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 
 #### AWS
-    - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
+- [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 
 ## Deployment
 -[Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
@@ -136,7 +136,7 @@
 - [How does a browser work    Engineering side](https://youtu.be/5rLFYtXHo9s)
 - [How node JS works   Engineering side](https://youtu.be/ooBxSg1Cl1w)
 
-## Udemy
+## Udemy / Courses
 1. GitHub Actions - The Complete Guide
 1. JavaScript The Advanced Concepts
 1. The Coding Interview Bootcamp Algorithms + Data Structures
@@ -148,16 +148,16 @@
 3. JavaScript Algorithms and Data Structures Masterclass
 3. The Node.js Master Class – No Frameworks, No NPM(Basics)
 4. JavaScript - Marathon Interview Questions Series 2023
-Java Programming Masterclass updated to Java 17
-Java Data Structures & Algorithms + LEETCODE Exercises
-Next.js Dev to Deployment(Traversy)
-Next.js & React - The Complete Guide (incl. Two Paths!)
-Complete Machine Learning & Data Science Bootcamp 2023
-Machine Learning A-Z AI, Python & R + ChatGPT Bonus 2023
-React - The Complete Guide 2023 (incl. React Router & Redux)
-The Complete Junior to Senior Web Developer Roadmap (2018) - Andrei Neagoie
-Complete Machine Learning & Data Science Bootcamp 2022
-100 Days of Code The Complete Python Pro Bootcamp for 2022
-CSS Demystified Start writing CSS with confidence
-JavaScript Simplified
-Next.js Projects - 4 NextJS 13 projects (Instagram, Google.)
+5. Java Programming Masterclass updated to Java 17
+5. Java Data Structures & Algorithms + LEETCODE Exercises
+5. Next.js Dev to Deployment(Traversy)
+5. Next.js & React - The Complete Guide (incl. Two Paths!)
+5. Complete Machine Learning & Data Science Bootcamp 2023
+5. Machine Learning A-Z AI, Python & R + ChatGPT Bonus 2023
+5. React - The Complete Guide 2023 (incl. React Router & Redux)
+5. The Complete Junior to Senior Web Developer Roadmap (2018) - Andrei Neagoie
+5. Complete Machine Learning & Data Science Bootcamp 2022
+5. 100 Days of Code The Complete Python Pro Bootcamp for 2022
+5. CSS Demystified Start writing CSS with confidence
+5. JavaScript Simplified
+5. Next.js Projects - 4 NextJS 13 projects (Instagram, Google.)
