@@ -48,12 +48,12 @@
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
 
 #### CSS
-    - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
+- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 #### ShadCN
-    - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
+- [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 
 #### Nextjs
-    - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
+- [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 
 ## FullStack
 #### Flask
