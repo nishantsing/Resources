@@ -40,7 +40,7 @@
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://youtu.be/0UvA7zvwsmg)
 
 #### React
--[React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
+- [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
     - React State Management
     - Redux Toolkit
     - Context API
