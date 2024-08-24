@@ -30,3 +30,9 @@
 - Excalidraw - drawing your mind
 - Eraser - DB diagrams
 - Notion - Notes app  
+
+## Frontend Deployment
+- Netlify, Vercel, Github Pages
+
+## Full Stack Deployment
+- Render, Railway, Cyclic, Heroku(paid)
