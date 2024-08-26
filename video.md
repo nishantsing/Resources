@@ -67,6 +67,7 @@
 #### Nextjs
   - [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
   - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
+  - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
   - GraphQL
       - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
   - Prisma
