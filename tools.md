@@ -7,7 +7,7 @@
 - Drizzle, prisma, supabase, appwrite, Redis, MongoDB(mongoose)
 
 ## Animation/ Graphs
-- framer motion, recharts, luicide-react
+- framer motion, recharts, luicide-react, auto animate, swappy(drag nd drop)
 
 ## AI tools
 - ollama(llama3) a software to run llms locally, langchain(tool to connect to local model)
@@ -36,3 +36,8 @@
 
 ## Full Stack Deployment
 - Render, Railway, Cyclic, Heroku(paid)
+- docker, kubernetes
+
+## CI/CD
+- jenkins, kaffka
+
