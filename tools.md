@@ -44,3 +44,15 @@
 ## CI/CD
 - jenkins, kaffka
 
+## AI Tools
+- Claude AI - unable artifacts to create code and publish a live link, or drop some design to create it.
+- Poppy AI - copy paste yt videos/ website links and connect to chats to talk specific questions related to those videos.
+- Github copilot, copilot chat in VSCode extension - Ctrl + I, Ctrl + Shift I (for explanation) @workspace
+- Resume AI - resume
+- Loom - enhancing video recording experiences
+- Speechify - text to speech
+- Figma - design with AI
+- Arc Browser - chrome based extension
+- SUNO - Create a song
+- Gamma AI - custom developer portfolio or ppts
+- Cursor - Code Editor
