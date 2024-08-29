@@ -23,7 +23,7 @@
 - yargs, axios,
 
 ## VScode Extensions
-- codeium
+- AI Extensions:codeium, cody, github copilot
 
 ## NPM packages
 - yargs, prompts
