@@ -3,6 +3,9 @@
 ## UI Tools
 - Bootstrap, Shadcn, tailwind, Daisy UI, Chakra UI, Material UI
 
+## UI/ UX Design
+- Figma, Axure RP(paid)
+
 ## Database
 - Drizzle, prisma, supabase, appwrite, Redis, MongoDB(mongoose)
 
@@ -16,16 +19,16 @@
 ## Server creation in node
 - scoket.io, mongoose, cookie-parser, cors, multer, dotenv, bcrypt, express, cloudinary, jsonwebtoken, zod, mongoose-aggregate-paginate-v2
 
-## random
+## Random
 - yargs, axios,
 
 ## VScode Extensions
 - codeium
 
-## npm packages
+## NPM packages
 - yargs, prompts
 
-## sites
+## Sites
 - Obsidian - notes app - having own chat bot - community plugins BMO Chatbot
 - Excalidraw - drawing your mind
 - Eraser - DB diagrams
