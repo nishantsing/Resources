@@ -56,3 +56,10 @@
 - SUNO - Create a song
 - Gamma AI - custom developer portfolio or ppts
 - Cursor - Code Editor
+
+## Build to learn
+- [build your own x](https://github.com/codecrafters-io/build-your-own-x)
+- [coderbyte](https://coderbyte.com/challenges)
+- [roadmap](https://roadmap.sh/backend/projects)
+- [Edabit](https://edabit.com/challenges/javascript)
+- [Frontend Mentor](https://www.frontendmentor.io/)
