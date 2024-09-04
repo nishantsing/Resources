@@ -12,9 +12,23 @@
 ## Animation/ Graphs
 - framer motion, recharts, luicide-react, auto animate, swappy(drag nd drop)
 
+## Best AI Assistant
+- Codeium
+
 ## AI tools
 - ollama(llama3) a software to run llms locally, langchain(tool to connect to local model)
 - python - nltk, pandas, numpy, scikit-learn, matplotlib, tensorflow, keras, pyttsx3, speech recognition module, ollama, langchain, pytorch
+- Claude AI - unable artifacts to create code and publish a live link, or drop some design to create it.
+- Poppy AI - copy paste yt videos/ website links and connect to chats to talk specific questions related to those videos.
+- Github copilot, copilot chat in VSCode extension - Ctrl + I, Ctrl + Shift I (for explanation) @workspace
+- Resume AI - resume
+- Loom - enhancing video recording experiences
+- Speechify - text to speech
+- Figma - design with AI
+- Arc Browser - chrome based extension
+- SUNO - Create a song
+- Gamma AI - custom developer portfolio or ppts
+- Cursor - Code Editor
 
 ## Server creation in node
 - scoket.io, mongoose, cookie-parser, cors, multer, dotenv, bcrypt, express, cloudinary, jsonwebtoken, zod, mongoose-aggregate-paginate-v2
@@ -44,18 +58,6 @@
 ## CI/CD
 - jenkins, kaffka
 
-## AI Tools
-- Claude AI - unable artifacts to create code and publish a live link, or drop some design to create it.
-- Poppy AI - copy paste yt videos/ website links and connect to chats to talk specific questions related to those videos.
-- Github copilot, copilot chat in VSCode extension - Ctrl + I, Ctrl + Shift I (for explanation) @workspace
-- Resume AI - resume
-- Loom - enhancing video recording experiences
-- Speechify - text to speech
-- Figma - design with AI
-- Arc Browser - chrome based extension
-- SUNO - Create a song
-- Gamma AI - custom developer portfolio or ppts
-- Cursor - Code Editor
 
 ## Build to learn
 - [build your own x](https://github.com/codecrafters-io/build-your-own-x)
