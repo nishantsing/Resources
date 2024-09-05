@@ -50,6 +50,7 @@
     - Context API
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
+        - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
 
 #### ShadCN
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
