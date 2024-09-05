@@ -22,6 +22,7 @@
 - Codeium
 
 ## AI tools
+- [llama Coder Together AI](https://llamacoder.together.ai/)
 - ollama(llama3) a software to run llms locally, langchain(tool to connect to local model)
 - python - nltk, pandas, numpy, scikit-learn, matplotlib, tensorflow, keras, pyttsx3, speech recognition module, ollama, langchain, pytorch
 - Claude AI - unable artifacts to create code and publish a live link, or drop some design to create it.
