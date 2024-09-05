@@ -41,6 +41,7 @@
 
 #### CSS
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
+- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 
 #### React
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
@@ -50,8 +51,6 @@
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
 
-#### CSS
-- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 #### ShadCN
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 
@@ -125,6 +124,7 @@
 ## Web Scrapping
 - [I built a web scraper to find the BIGGEST deals to flip on Amazon $$$](https://youtu.be/2hSC2HaPJDA)
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
+- [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
 
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
