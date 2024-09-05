@@ -70,7 +70,7 @@
 #### Nextjs
   - [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
   - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
-  - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
+  - [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
   - GraphQL
       - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
   - Prisma
@@ -81,6 +81,8 @@
    
 #### Reactjs
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
+  - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
+  - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
 
 ## Backend
 
@@ -111,6 +113,8 @@
 - [Build Real Time Chat Rooms With Node.js And Socket.io](https://youtu.be/UymGJnv-WsE)
 - [How To Create A Messaging App With Socket.io And React](https://youtu.be/tBr-PybP_9c)
 - [How To Create A Video Chat App With WebRTC](https://youtu.be/DvlyzDZDEq4)
+- [Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript](https://youtu.be/gCwHi-UFSdg)
+- [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
 ## System Design
 - [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
@@ -126,7 +130,8 @@
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 
 ## Deployment
--[Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
+- [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
+- [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
 
 ## Testing
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
@@ -168,3 +173,19 @@
 5. CSS Demystified Start writing CSS with confidence
 5. JavaScript Simplified
 5. Next.js Projects - 4 NextJS 13 projects (Instagram, Google.)
+
+## Projects
+
+#### Music SaaS
+- [Coding a SAAS platform in 6 hours - NextJS, Tailwind, Prisma, Postgres](https://youtu.be/GhH1QWY6BDc)
+
+#### Drug Research
+- [Build and Deploy A Drug Research Platform with Next.js14 ,Typescript, Tailwind & NVIDIA AI Models](https://youtu.be/8tGG_AzLdRI)
+
+#### AI Image Editor
+- [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
+
+
+#### Portfolio
+- [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://youtu.be/hSi_x29bBmE)
+
