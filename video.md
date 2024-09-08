@@ -190,3 +190,8 @@
 #### Portfolio
 - [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://youtu.be/hSi_x29bBmE)
 
+#### Automation Builder
+- [SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun](https://youtu.be/XkOXNlHJP6M)
+
+#### Parking Application
+- [Parking Application: Full-Stack Monorepo with Next.js, NestJS, GraphQL, REST, Prisma, Mui & Tailwind](https://youtu.be/iOWWmfMRqs0)
