@@ -109,6 +109,11 @@
 ## Cloud
 
 ## Chat App
+
+#### Python
+- [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
+
+#### Node
 - [Build a Real Time Chat App With Node.js And Socket.io](https://youtu.be/rxzOqP9YwmM)
 - [Build Real Time Chat Rooms With Node.js And Socket.io](https://youtu.be/UymGJnv-WsE)
 - [How To Create A Messaging App With Socket.io And React](https://youtu.be/tBr-PybP_9c)
@@ -143,6 +148,10 @@
 ## Hacking Commands
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
 - [monitor all your stuff RIGHT NOW!!](https://youtu.be/-2yzXSIuC8o)
+
+## Languages
+#### RUST
+- [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 
 ## How it works
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
@@ -195,3 +204,8 @@
 
 #### Parking Application
 - [Parking Application: Full-Stack Monorepo with Next.js, NestJS, GraphQL, REST, Prisma, Mui & Tailwind](https://youtu.be/iOWWmfMRqs0)
+
+
+### Project Clones
+
+- [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
