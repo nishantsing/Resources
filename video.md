@@ -2,6 +2,10 @@
 
   - Gemini
       - [1 HOUR - Learn the Gemini API and build a multi-turn chat bot!](https://youtu.be/xv9UbWp_Frs)
+
+  - LiveKit
+      - [Python AI Voice Assistant & Agent](https://youtu.be/DNWLIAK4BUY)
+   
    
   - OctoAI
       - [How to build a PDF summarizer using AI - React JS Next.js](https://youtu.be/OIYevBOSMxY)
@@ -29,11 +33,21 @@
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSAOne Course #1](https://youtu.be/N89PN_uyelU?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
+
+## System Design
+
+#### Caleb
+    - [Introduction to System Design - MVC and Three-Tier Architecture](https://youtu.be/0e7yQ43bUtg)
+    - [Essential System Design Concepts You Should Know - System Design Tutorial](https://youtu.be/uxskKNcsFLU)
+    - [Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4)
+
 ## Design
 
 #### Figma
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
+
+
 
 ## Frontend
 
@@ -139,6 +153,9 @@
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
 - [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
 
+## Power BI
+- [Power BI for Beginners: The Ultimate Guide (2024)](https://youtu.be/KUNK2rqfTyU)
+
 ## Testing
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
 
@@ -148,6 +165,7 @@
 ## Hacking Commands
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
 - [monitor all your stuff RIGHT NOW!!](https://youtu.be/-2yzXSIuC8o)
+- [Every Hacking Technique Explained As FAST As Possible!](https://youtu.be/eG1pdw_TOYE)
 
 ## Languages
 #### RUST
@@ -157,6 +175,9 @@
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
 - [How does a browser work    Engineering side](https://youtu.be/5rLFYtXHo9s)
 - [How node JS works   Engineering side](https://youtu.be/ooBxSg1Cl1w)
+
+## Stock Market
+- [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
 
 ## Udemy / Courses
 1. GitHub Actions - The Complete Guide
@@ -186,6 +207,9 @@
 
 ## Projects
 
+#### Kids story generator
+- [Build & Deploy Full Stack Nextjs AI Kids Story generator SAAS App Using React, NextUI, Typescript](https://youtu.be/bxhDP-e4NDA)
+
 #### Music SaaS
 - [Coding a SAAS platform in 6 hours - NextJS, Tailwind, Prisma, Postgres](https://youtu.be/GhH1QWY6BDc)
 
@@ -205,6 +229,8 @@
 #### Parking Application
 - [Parking Application: Full-Stack Monorepo with Next.js, NestJS, GraphQL, REST, Prisma, Mui & Tailwind](https://youtu.be/iOWWmfMRqs0)
 
+#### Waste Management
+- [Build and Deploy a Waste Management App with Next.js ,Typescript, TailwindCSS & Gemini AI](https://youtu.be/dS95PJntXxQ)
 
 ### Project Clones
 
