@@ -28,6 +28,12 @@
    
   - Deployment
       - [Docker + GenAI   Deploying AI Apps](https://youtu.be/Y9YbCvzAwas)
+   
+
+## ML
+
+- [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
+- [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 
 ## DSA
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
@@ -40,6 +46,9 @@
     - [Introduction to System Design - MVC and Three-Tier Architecture](https://youtu.be/0e7yQ43bUtg)
     - [Essential System Design Concepts You Should Know - System Design Tutorial](https://youtu.be/uxskKNcsFLU)
     - [Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4)
+
+#### Gaurav sen
+    - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 
 ## Design
 
@@ -85,6 +94,7 @@
   - [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
   - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
   - [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
+  - [User onboarding with NextJs, Neon, Clerk, and Upstash](https://youtu.be/pYCCEgzpJBE)
   - GraphQL
       - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
   - Prisma
@@ -97,6 +107,7 @@
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
+  - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
 
 ## Backend
 
@@ -135,6 +146,10 @@
 - [Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript](https://youtu.be/gCwHi-UFSdg)
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
+#### Next
+
+- [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
+
 ## System Design
 - [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
 - [System Design of a Delivery System like Zomato with @KeertiPurswani](https://youtu.be/nHh3DnjnPig)
@@ -171,6 +186,12 @@
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 
+#### TypeScript
+- [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
+
+#### JS
+- [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
+
 ## How it works
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
 - [How does a browser work    Engineering side](https://youtu.be/5rLFYtXHo9s)
@@ -178,6 +199,10 @@
 
 ## Stock Market
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
+
+## Random
+
+- [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
 
 ## Udemy / Courses
 1. GitHub Actions - The Complete Guide
@@ -232,6 +257,10 @@
 #### Waste Management
 - [Build and Deploy a Waste Management App with Next.js ,Typescript, TailwindCSS & Gemini AI](https://youtu.be/dS95PJntXxQ)
 
+#### 4 Projects
+- [23 HOURS Free Coding Bootcamp - Build 4 Awesome Projects](https://youtu.be/MDZC8VDZnV8)
+
 ### Project Clones
 
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
+- [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
