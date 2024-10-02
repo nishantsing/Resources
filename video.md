@@ -167,6 +167,7 @@
 ## Deployment
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
 - [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
+- [Host your Github Connected Website on AWS Amplify Hosting in Minutes | Amazon Web Services](https://youtu.be/hYxUemQRf3k)
 
 ## Power BI
 - [Power BI for Beginners: The Ultimate Guide (2024)](https://youtu.be/KUNK2rqfTyU)
