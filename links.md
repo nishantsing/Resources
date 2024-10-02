@@ -15,3 +15,5 @@
 - [System Design](https://github.com/donnemartin/system-design-primer)
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
