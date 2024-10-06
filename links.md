@@ -17,3 +17,4 @@
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
