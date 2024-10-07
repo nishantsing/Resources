@@ -39,6 +39,7 @@
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSAOne Course #1](https://youtu.be/N89PN_uyelU?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
+- [Data Structures and Algorithms (DSA) in Java 2024](https://youtu.be/4_HOnhB64Dg)
 
 ## System Design
 
