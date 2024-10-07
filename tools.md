@@ -2,6 +2,7 @@
 
 ## Coding Editors
 - VSCode
+    - [VSCode Features Python Devs NEED To Know](https://youtu.be/F60iJ3xxgtg)
 
 ## Online Editors
 - [Replit](https://replit.com/)
