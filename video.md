@@ -103,6 +103,9 @@
       - [How To Build A Next.js Coupon System Like A Senior Developer](https://youtu.be/qpApvVd_dCw)
       - [Full App Build - Dev to Deployment - Next.js, Prisma, Neon & Clerk](https://youtu.be/I6DCo5RwHBE)
    
+  - Appwrite
+      - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
+   
 #### Reactjs
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
