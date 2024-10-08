@@ -18,3 +18,4 @@
 - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
