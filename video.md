@@ -29,7 +29,7 @@
   - Deployment
       - [Docker + GenAI   Deploying AI Apps](https://youtu.be/Y9YbCvzAwas)
    
-
+ - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
 ## ML
 
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
