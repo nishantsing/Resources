@@ -73,3 +73,11 @@
 - [roadmap](https://roadmap.sh/backend/projects)
 - [Edabit](https://edabit.com/challenges/javascript)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+
+
+## Stocks
+- [Latest companies order](https://www.bseindia.com/corporates/ann.html)
+      - Category company update, sub category Award of order
+- [Stock Discusiion Community](https://forum.valuepickr.com/)
+- [Trading Economics](https://tradingeconomics.com/)
+- [Trendlyne](https://trendlyne.com/features/)
