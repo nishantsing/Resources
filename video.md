@@ -66,6 +66,7 @@
 #### CSS
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
+- [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
 
 #### React
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
@@ -262,6 +263,9 @@
 #### Waste Management
 - [Build and Deploy a Waste Management App with Next.js ,Typescript, TailwindCSS & Gemini AI](https://youtu.be/dS95PJntXxQ)
 
+#### Social Media Content Generator SaaS
+- [Build and Deploy a Social Media Content Generator SaaS with Next.js 14, Typescript, & Gemini AI](https://youtu.be/BP92C0eF_2M)
+
 #### 4 Projects
 - [23 HOURS Free Coding Bootcamp - Build 4 Awesome Projects](https://youtu.be/MDZC8VDZnV8)
 
@@ -269,3 +273,4 @@
 
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
+- [Build a Full Stack Tinder Clone - Node, Express, Tailwind - Full Tutorial 2024](https://youtu.be/o-XOBJRNeqk)
