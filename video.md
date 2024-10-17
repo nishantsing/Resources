@@ -97,6 +97,7 @@
   - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
   - [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
   - [User onboarding with NextJs, Neon, Clerk, and Upstash](https://youtu.be/pYCCEgzpJBE)
+  - [Build a Full Stack AI SaaS Platform With Nextjs, React, Tailwind, Express](https://youtu.be/4qdQ7kE80SY)
   - GraphQL
       - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
   - Prisma
