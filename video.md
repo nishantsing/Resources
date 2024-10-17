@@ -168,6 +168,10 @@
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
 
+
+## Cron Job
+- [CRON Job & How you can ? 🔥| JavaScript | Node JS Automation](https://youtu.be/t00r4XwT4Mo)
+
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 
@@ -276,3 +280,4 @@
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
 - [Build a Full Stack Tinder Clone - Node, Express, Tailwind - Full Tutorial 2024](https://youtu.be/o-XOBJRNeqk)
+- [Build a Full-Stack Facebook Clone | MERN Stack (React Js,Next.js, Node.js, Zustand, MongoDB )](https://youtu.be/pObqrLNq5K4)
