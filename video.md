@@ -136,6 +136,7 @@
 
 ## Mobile Development
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
+- [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
 
 ## Cloud
 
