@@ -10,6 +10,9 @@
 ### DSA
 - [Neetcode](https://neetcode.io/)
 
+### Courses
+- [Scrimba](https://v2.scrimba.com/home)
+
 
 ### Github Repos
 - [System Design](https://github.com/donnemartin/system-design-primer)
