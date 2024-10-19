@@ -47,6 +47,7 @@
     - [Introduction to System Design - MVC and Three-Tier Architecture](https://youtu.be/0e7yQ43bUtg)
     - [Essential System Design Concepts You Should Know - System Design Tutorial](https://youtu.be/uxskKNcsFLU)
     - [Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4)
+    - [Horizontal and Vertical Scaling (How to Scale Your Application) - System Design](https://youtu.be/XqzoUlmJrB4)
 
 #### Gaurav sen
     - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
