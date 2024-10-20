@@ -35,6 +35,10 @@
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 
+#### JS
+- [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
+- [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
+
 ## DSA
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -69,6 +73,9 @@
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 - [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
+
+#### Astro
+- [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
@@ -135,6 +142,9 @@
 - [Automate Google Sheets With Python - Google Sheets API Tutorial](https://youtu.be/zCEJurLGFRk)
 - [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
 - [Local First from Scratch - How to make a web app with local data](https://youtu.be/Qoqh9Mdmk80)
+
+### Folder Structure
+- [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
