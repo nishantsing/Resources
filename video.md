@@ -63,6 +63,7 @@
 ## Frontend
 
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://youtu.be/0UvA7zvwsmg)
+- [Streamlit Mini Course - Make Websites With ONLY Python](https://youtu.be/o8p7uQCGD0U)
 
 #### CSS
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
