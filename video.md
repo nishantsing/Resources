@@ -182,6 +182,7 @@
 - [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
 - [Host your Github Connected Website on AWS Amplify Hosting in Minutes | Amazon Web Services](https://youtu.be/hYxUemQRf3k)
 - [How to Deploy MERN Stack App | Complete Guide with Render, Vercel | Deploy Website In 10 Minutes](https://youtu.be/S2WhxW8xkHw)
+- [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
 
 ## Power BI
 - [Power BI for Beginners: The Ultimate Guide (2024)](https://youtu.be/KUNK2rqfTyU)
