@@ -180,6 +180,7 @@
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
 - [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
 - [Host your Github Connected Website on AWS Amplify Hosting in Minutes | Amazon Web Services](https://youtu.be/hYxUemQRf3k)
+- [How to Deploy MERN Stack App | Complete Guide with Render, Vercel | Deploy Website In 10 Minutes](https://youtu.be/S2WhxW8xkHw)
 
 ## Power BI
 - [Power BI for Beginners: The Ultimate Guide (2024)](https://youtu.be/KUNK2rqfTyU)
@@ -281,4 +282,5 @@
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
 - [Build a Full Stack Tinder Clone - Node, Express, Tailwind - Full Tutorial 2024](https://youtu.be/o-XOBJRNeqk)
-- [Build a Full-Stack Facebook Clone | MERN Stack (React Js,Next.js, Node.js, Zustand, MongoDB )](https://youtu.be/pObqrLNq5K4)
+- [Build a Full-Stack Facebook Clone | MERN Stack (React Js,Next.js, Node.js, Zustand, MongoDB - 1 )](https://youtu.be/pObqrLNq5K4)
+- [Build a Full-Stack Facebook Clone with MERN Stack! Master Node.js, Express, MongoDB (Part -2)](https://youtu.be/X9w0lXExVls)
