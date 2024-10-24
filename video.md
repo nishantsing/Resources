@@ -275,6 +275,9 @@
 #### AI Image Editor
 - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
 
+#### AI Interior Design Generator
+- [ Build & Deploy Full Stack Next.js AI Interior Design Generator App | React, Tailwind CSS Tutorial](https://youtu.be/8gtO-J69mIE)
+
 #### Parity Deals SaaS
 - [How To Build A $1,000,000 SaaS In 7 Hours](https://youtu.be/pWV-8PW1l2A)
 
