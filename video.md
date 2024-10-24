@@ -126,6 +126,9 @@
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
 
+#### Stripe
+- [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
+
 ## Backend
 
 #### Express
@@ -272,6 +275,8 @@
 #### AI Image Editor
 - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
 
+#### Parity Deals SaaS
+- [How To Build A $1,000,000 SaaS In 7 Hours](https://youtu.be/pWV-8PW1l2A)
 
 #### Portfolio
 - [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://youtu.be/hSi_x29bBmE)
@@ -298,3 +303,4 @@
 - [Build a Full Stack Tinder Clone - Node, Express, Tailwind - Full Tutorial 2024](https://youtu.be/o-XOBJRNeqk)
 - [Build a Full-Stack Facebook Clone | MERN Stack (React Js,Next.js, Node.js, Zustand, MongoDB - 1 )](https://youtu.be/pObqrLNq5K4)
 - [Build a Full-Stack Facebook Clone with MERN Stack! Master Node.js, Express, MongoDB (Part -2)](https://youtu.be/X9w0lXExVls)
+- [AI SAAS Realtime Video Sharing + Desktop App: AWS, Cloudfront, Nextjs, Electron, Express, Socket.io](https://youtu.be/3R63m4sTpKo)
