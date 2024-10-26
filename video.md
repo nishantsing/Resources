@@ -160,6 +160,9 @@
 ## Game Development
 - [14 Hours of Python Game Development - from Beginner to Advanced](https://youtu.be/RuTmd4g5K8Q)
 
+## Home Automation
+- [home automation](https://youtu.be/k02P5nghmfs)
+
 ## Chat App
 
 #### Python
@@ -174,6 +177,7 @@
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
 #### Next
+- [Next.js 15 Breakdown (Everything You Need To Know)](https://youtu.be/fqabW3WRUbw)
 - [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
 - [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
 
