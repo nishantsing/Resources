@@ -1,4 +1,5 @@
 ## AI
+- [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
 
   - Gemini
       - [1 HOUR - Learn the Gemini API and build a multi-turn chat bot!](https://youtu.be/xv9UbWp_Frs)
@@ -17,6 +18,7 @@
       - [ADVANCED Python AI Agent Tutorial - Using RAG](https://youtu.be/ul0QsodYct4)
       - [Build a Full RAG Based AI App Including Deployment In Under 20 Minutes](https://youtu.be/C0HwZipOqXI)
       - [Building An Exciting Stock Market Twitter Sentiment App    Next.js Singlestore AI](https://youtu.be/596u3BsOB2s)
+      - [Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI](https://youtu.be/d-VKYF4Zow0)
   
   - LangChain
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
@@ -29,11 +31,15 @@
   - Deployment
       - [Docker + GenAI   Deploying AI Apps](https://youtu.be/Y9YbCvzAwas)
    
+  - Transformer.js
+      - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
+   
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
 ## ML
 
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
+- [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
 
 #### JS
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
@@ -54,6 +60,7 @@
 - [Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4)
 - [Horizontal and Vertical Scaling (How to Scale Your Application) - System Design](https://youtu.be/XqzoUlmJrB4)
 - [How to Scale Your App to Global Levels - System Design](https://youtu.be/syAUXNxAiHs)
+- [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://youtu.be/t5WPGMXOtds)
 
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
@@ -64,7 +71,11 @@
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
 
+#### Senior devs
 
+- [How To Use Libraries Like A Senior Dev](https://youtu.be/_aqtgF1xM-o)
+- [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
+- [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
 
 ## Frontend
 
@@ -75,6 +86,7 @@
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 - [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
+- [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
 
 #### Astro
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
@@ -95,6 +107,8 @@
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 
 ## FullStack
+
+- [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
 #### Flask
   - [JavaScript and Python - Build and Deploy a Full Stack Web App](https://youtu.be/tWHXaSC2T_s)
 #### Django
@@ -104,6 +118,7 @@
   - [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://youtu.be/c-QsfbznSXI)
 
 #### Nextjs
+  - [Next.js 15 Full-Stack Course For Beginners (12 Apps in 37 Hours | 2024)](https://youtu.be/cso7-4oAPNQ)
   - [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
   - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
   - [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
@@ -125,6 +140,7 @@
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
+  - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
 
 #### Stripe
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
@@ -167,6 +183,11 @@
 
 #### Python
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
+- [Build a Python AI Image Generator in 15 Minutes (Free & Local)](https://youtu.be/-X_d2AVXVkQ)
+
+#### GO
+
+- [Learn Go With This ONE Project](https://youtu.be/0ySoir3qBuM)
 
 #### Node
 - [Build a Real Time Chat App With Node.js And Socket.io](https://youtu.be/rxzOqP9YwmM)
@@ -193,8 +214,17 @@
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
 
 
+## Open Source
+- [Contributing To Open Source – Beginner's Guide](https://youtu.be/mklEhT_RLos)
+
+## Automation
+- [Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)](https://youtu.be/rBEQL2tC2xY)
+
 ## Cron Job
 - [CRON Job & How you can ? 🔥| JavaScript | Node JS Automation](https://youtu.be/t00r4XwT4Mo)
+
+## Chrome extension
+- [I Built an AI Chrome Extension in 30 Minutes](https://youtu.be/_IM-YT1xfUc)
 
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
@@ -215,10 +245,12 @@
 ## OS
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 
-## Hacking Commands
+## Hacking
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
 - [monitor all your stuff RIGHT NOW!!](https://youtu.be/-2yzXSIuC8o)
 - [Every Hacking Technique Explained As FAST As Possible!](https://youtu.be/eG1pdw_TOYE)
+- [my local, AI Voice Assistant (I replaced Alexa!!)](https://youtu.be/XvbVePuP7NY)
+- [Build Your Own Wi-Fi Hacking Tool (ESP32 Marauder)](https://youtu.be/lcokJQMivwY)
 
 ## Languages
 #### RUST
@@ -229,6 +261,10 @@
 
 #### JS
 - [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
+- [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
+
+#### Flutter
+- [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
 
 ## How it works
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
@@ -239,8 +275,8 @@
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
 
 ## Random
-
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
+- [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
 
 ## Udemy / Courses
 1. GitHub Actions - The Complete Guide
@@ -270,6 +306,9 @@
 
 ## Projects
 
+#### Full stack AI app
+- [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
+
 #### Kids story generator
 - [Build & Deploy Full Stack Nextjs AI Kids Story generator SAAS App Using React, NextUI, Typescript](https://youtu.be/bxhDP-e4NDA)
 
@@ -288,8 +327,14 @@
 #### Parity Deals SaaS
 - [How To Build A $1,000,000 SaaS In 7 Hours](https://youtu.be/pWV-8PW1l2A)
 
+#### Hair Analysis Web App
+- [Build a Full Stack MERN AI Hair Anaysis Web App with React, TypeScript,Node,TensorFlow,Clerk, Stripe](https://youtu.be/CBDk35wY4_c)
+
 #### Portfolio
 - [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://youtu.be/hSi_x29bBmE)
+
+#### Saas scrapper
+- [Full stack SaaS ScrapeFlow: NextJs course with React, Typescript , React-Flow, Prisma, ReactQuery](https://youtu.be/RkwbGuL-dzo)
 
 #### Automation Builder
 - [SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun](https://youtu.be/XkOXNlHJP6M)
@@ -306,6 +351,9 @@
 #### 4 Projects
 - [23 HOURS Free Coding Bootcamp - Build 4 Awesome Projects](https://youtu.be/MDZC8VDZnV8)
 
+#### Dating app
+- [Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App](https://youtu.be/JTNBJHba_sE)
+
 ### Project Clones
 
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
@@ -314,3 +362,4 @@
 - [Build a Full-Stack Facebook Clone | MERN Stack (React Js,Next.js, Node.js, Zustand, MongoDB - 1 )](https://youtu.be/pObqrLNq5K4)
 - [Build a Full-Stack Facebook Clone with MERN Stack! Master Node.js, Express, MongoDB (Part -2)](https://youtu.be/X9w0lXExVls)
 - [AI SAAS Realtime Video Sharing + Desktop App: AWS, Cloudfront, Nextjs, Electron, Express, Socket.io](https://youtu.be/3R63m4sTpKo)
+- [Advanced Spotify Clone: Build & Deploy a MERN Stack Spotify Application with React.js](https://youtu.be/4sbklcQ0EXc)
