@@ -45,6 +45,9 @@
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 
+###### State Management
+- [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
+
 ## DSA
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -109,8 +112,14 @@
 ## FullStack
 
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
+  
 #### Flask
   - [JavaScript and Python - Build and Deploy a Full Stack Web App](https://youtu.be/tWHXaSC2T_s)
+
+#### FastAPI
+  - [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
+
+    
 #### Django
   - [Python + JavaScript - Portfolio Web App Tutorial](https://youtu.be/e-VTui5-hRE)
   - [Python + JavaScript - Full Stack App Tutorial](https://youtu.be/PppslXOR7TA)
@@ -136,6 +145,7 @@
       - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
    
 #### Reactjs
+  - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
@@ -180,10 +190,12 @@
 - [home automation](https://youtu.be/k02P5nghmfs)
 
 ## Chat App
+- [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
 
 #### Python
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
 - [Build a Python AI Image Generator in 15 Minutes (Free & Local)](https://youtu.be/-X_d2AVXVkQ)
+
 
 #### GO
 
@@ -323,6 +335,9 @@
 
 #### AI Interior Design Generator
 - [ Build & Deploy Full Stack Next.js AI Interior Design Generator App | React, Tailwind CSS Tutorial](https://youtu.be/8gtO-J69mIE)
+
+#### Blog
+- [ReactJS Project: Build a Blog Application with News Integration | React Blog App Tutorial](https://youtu.be/awC7FuGqfHM)
 
 #### Parity Deals SaaS
 - [How To Build A $1,000,000 SaaS In 7 Hours](https://youtu.be/pWV-8PW1l2A)
