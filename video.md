@@ -145,6 +145,7 @@
       - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
    
 #### Reactjs
+  - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
   - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
