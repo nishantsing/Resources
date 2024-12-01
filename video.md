@@ -96,6 +96,7 @@
 
 #### React
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
+- [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
     - React State Management
     - Redux Toolkit
     - Context API
