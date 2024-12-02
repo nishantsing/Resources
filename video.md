@@ -381,3 +381,4 @@
 - [AI SAAS Realtime Video Sharing + Desktop App: AWS, Cloudfront, Nextjs, Electron, Express, Socket.io](https://youtu.be/3R63m4sTpKo)
 - [Advanced Spotify Clone: Build & Deploy a MERN Stack Spotify Application with React.js](https://youtu.be/4sbklcQ0EXc)
 - [Build an Uber Clone App with MERN Stack | Complete 11 Hour Masterclass (2025)](https://youtu.be/4qyBjxPlEZo)
+- [Manychat Clone - Nextjs, Tailwind, Instagram API, Relume, Prisma, Webhooks (Cash Prize Challenge)](https://youtu.be/iaxekGfUzvk)
