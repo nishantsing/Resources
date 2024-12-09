@@ -23,6 +23,9 @@
   - LangChain
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
+  - LangGraph
+      - [Build Advanced AI Agents Quickly: LangGraph Studio Tutorial](https://youtu.be/8kuT80PTaGI)
+   
   - Astra DB
       - [JavaScript AI Course - no Python!   MongooseJS Astra DB](https://youtu.be/5ZLmcDi30YI)
   - Fabric
@@ -67,6 +70,7 @@
 
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
+- [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
 
 ## Design
 
@@ -153,6 +157,9 @@
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
   - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
+
+####### State Management React
+- [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
 
 #### Stripe
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
@@ -365,6 +372,9 @@
 #### Social Media Content Generator SaaS
 - [Build and Deploy a Social Media Content Generator SaaS with Next.js 14, Typescript, & Gemini AI](https://youtu.be/BP92C0eF_2M)
 
+#### Code Editor
+- [Build a SaaS Code Editor with Next.js 15 - Full Stack VSCode](https://youtu.be/fGkRQgf6Scw)
+
 #### 4 Projects
 - [23 HOURS Free Coding Bootcamp - Build 4 Awesome Projects](https://youtu.be/MDZC8VDZnV8)
 
@@ -382,3 +392,8 @@
 - [Advanced Spotify Clone: Build & Deploy a MERN Stack Spotify Application with React.js](https://youtu.be/4sbklcQ0EXc)
 - [Build an Uber Clone App with MERN Stack | Complete 11 Hour Masterclass (2025)](https://youtu.be/4qyBjxPlEZo)
 - [Manychat Clone - Nextjs, Tailwind, Instagram API, Relume, Prisma, Webhooks (Cash Prize Challenge)](https://youtu.be/iaxekGfUzvk)
+
+#### AI Project
+
+- [How I built an AI Teacher with Vector Databases and ChatGPT](https://youtu.be/Z3uWleYwOQA)
+- [How I Used AI to Bring Sci-Fi’s Smartest Book to Life](https://youtu.be/6KG0b3GSD9o)
