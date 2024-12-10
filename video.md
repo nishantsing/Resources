@@ -298,6 +298,7 @@
 ## Random
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
 - [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
+- [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
 ## Udemy / Courses
 1. GitHub Actions - The Complete Guide
