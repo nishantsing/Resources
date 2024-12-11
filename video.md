@@ -51,6 +51,11 @@
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
+
+## CSS
+- [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
+- [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
+
 ## DSA
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
