@@ -76,6 +76,7 @@
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
+- [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
 
 ## Design
 
