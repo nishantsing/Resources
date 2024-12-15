@@ -38,6 +38,11 @@
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
    
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
+
+## Neural Networks
+- [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
+
+  
 ## ML
 
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
@@ -164,7 +169,7 @@
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
   - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
 
-####### State Management React
+###### State Management React
 - [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
 
 #### Stripe
