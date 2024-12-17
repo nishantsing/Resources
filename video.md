@@ -105,6 +105,7 @@
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 - [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
 - [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
+- [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
 
 #### Astro
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
