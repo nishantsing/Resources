@@ -1,5 +1,9 @@
 ## AI
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
+- [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
+
+  - AI Agents
+      - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
 
   - Gemini
       - [1 HOUR - Learn the Gemini API and build a multi-turn chat bot!](https://youtu.be/xv9UbWp_Frs)
@@ -52,6 +56,7 @@
 #### JS
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
+- [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
 
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
@@ -112,7 +117,7 @@
 
 #### React
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
-- [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
+- [THE BIGGEST REACT.JS COURSE ON THE INTERNET  PART 1](https://youtu.be/qnwFpjIqsrA)
     - React State Management
     - Redux Toolkit
     - Context API
@@ -201,6 +206,8 @@
 ## Mobile Development
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
 - [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
+- [ Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
+- [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 
 ## Cloud
 
