@@ -53,14 +53,16 @@
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
 
-#### JS
+## W3
+- [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
+
+## JS
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
 
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
-
 
 ## CSS
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
@@ -213,6 +215,7 @@
 
 ## Game Development
 - [14 Hours of Python Game Development - from Beginner to Advanced](https://youtu.be/RuTmd4g5K8Q)
+- [Learn JavaScript to Make Games + Kaplay Library Course](https://youtu.be/KHxX0CgMGs4)
 
 ## Home Automation
 - [home automation](https://youtu.be/k02P5nghmfs)
