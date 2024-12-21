@@ -294,6 +294,7 @@
 - [Every Hacking Technique Explained As FAST As Possible!](https://youtu.be/eG1pdw_TOYE)
 - [my local, AI Voice Assistant (I replaced Alexa!!)](https://youtu.be/XvbVePuP7NY)
 - [Build Your Own Wi-Fi Hacking Tool (ESP32 Marauder)](https://youtu.be/lcokJQMivwY)
+- [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 
 ## Languages
 #### RUST
