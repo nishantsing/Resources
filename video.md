@@ -53,6 +53,10 @@
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
 
+
+##### Projects
+- [Sentiment Analysis Code Sample](https://youtu.be/4SJv8YxGho4)
+
 ## W3
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
