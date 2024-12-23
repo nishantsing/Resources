@@ -356,6 +356,7 @@
 5. CSS Demystified Start writing CSS with confidence
 5. JavaScript Simplified
 5. Next.js Projects - 4 NextJS 13 projects (Instagram, Google.)
+6. Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL & Prisma
 
 ## Projects
 
