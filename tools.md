@@ -73,6 +73,10 @@
 - [roadmap](https://roadmap.sh/backend/projects)
 - [Edabit](https://edabit.com/challenges/javascript)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Python](https://automatetheboringstuff.com/)
+- [Codex](https://www.codedex.io/react/09-hot-takes-pt-1)
+- [CSS Battle](https://cssbattle.dev/)
+- 
 
 
 ## Stocks
