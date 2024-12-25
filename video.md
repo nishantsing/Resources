@@ -230,6 +230,7 @@
 
 ## Chat App
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
+- [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
 
 #### Python
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
