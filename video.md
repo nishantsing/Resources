@@ -1,6 +1,7 @@
 ## AI
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
+- [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
 
   - AI Agents
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
