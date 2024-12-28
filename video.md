@@ -266,6 +266,8 @@
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
 
+## Web3
+- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)
 
 ## Open Source
 - [Contributing To Open Source – Beginner's Guide](https://youtu.be/mklEhT_RLos)
