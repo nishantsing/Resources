@@ -195,6 +195,7 @@
 - [Complete backend series | Launch](https://youtu.be/nhmMx-ys_zQ?list=PLRAV69dS1uWSl459HU5liKv8q4iZ44xBq)
 - [Express JS Full Course](https://youtu.be/nH9E25nkk3I)
 - [SQLite3 in Node with better-sqlite3](https://youtu.be/IooIXYf0PIo)
+- [Zero to Hero EXPRESS Backend MASTERCLASS in 5 Hours | 2025](https://youtu.be/AR6aUOnd9Co)
 
 #### Postman
 - [Api Design Crash Course](https://youtu.be/FPM1v4g1b4s)
@@ -271,6 +272,9 @@
 
 ## Open Source
 - [Contributing To Open Source – Beginner's Guide](https://youtu.be/mklEhT_RLos)
+
+## Data Analytics
+- [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
 
 ## Automation
 - [Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)](https://youtu.be/rBEQL2tC2xY)
