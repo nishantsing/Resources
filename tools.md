@@ -76,7 +76,7 @@
 - [Python](https://automatetheboringstuff.com/)
 - [Codex](https://www.codedex.io/react/09-hot-takes-pt-1)
 - [CSS Battle](https://cssbattle.dev/)
-- 
+- [Code Crafters](https://codecrafters.io/)
 
 
 ## Stocks
