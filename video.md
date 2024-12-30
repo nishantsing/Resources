@@ -368,6 +368,12 @@
 
 ## Projects
 
+#### YT Playlists
+- [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
+- [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
+- [Link Shortner React Firebase App - Desi Codes](https://youtu.be/mf0fz3K3k48?list=PLmA3URVkjqnm7n31fUF7VDhWXjeEaZK2l)
+- [Nextjs full stack project tutorial - Tube Guruji](https://youtu.be/eMplIjZ80Zs?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt)
+
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
 
