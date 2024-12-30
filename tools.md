@@ -78,6 +78,10 @@
 - [CSS Battle](https://cssbattle.dev/)
 - [Code Crafters](https://codecrafters.io/)
 
+## Cheat sheet
+- [30 Seconds of code](https://www.30secondsofcode.org/)
+- [Quick ref](https://quickref.me/index.html#google_vignette)
+
 
 ## Stocks
 - [Latest companies order](https://www.bseindia.com/corporates/ann.html)
