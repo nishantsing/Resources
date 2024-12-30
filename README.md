@@ -11,3 +11,8 @@
 ## Windows
 - winget upgrade - how many software needs update
 - winget upgrade --all - will update.
+
+
+## Github
+
+- open repo press . to open it in vscode.
