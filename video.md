@@ -220,6 +220,7 @@
 - [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
 - [ Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
+- [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
 
 ## Cloud
 
@@ -427,6 +428,9 @@
 
 #### Dating app
 - [Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App](https://youtu.be/JTNBJHba_sE)
+
+#### Social Media
+- [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
 
