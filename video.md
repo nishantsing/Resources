@@ -78,6 +78,7 @@
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSAOne Course #1](https://youtu.be/N89PN_uyelU?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 - [Data Structures and Algorithms (DSA) in Java 2024](https://youtu.be/4_HOnhB64Dg)
+- [Data Structures and Algorithms Crash Course](https://youtu.be/Ndvm7Ge4pic)
 
 ## System Design
 
@@ -372,7 +373,7 @@
 
 ## Projects
 
-#### YT Playlists
+#### YT Projects Playlists 
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 - [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
 - [Link Shortner React Firebase App - Desi Codes](https://youtu.be/mf0fz3K3k48?list=PLmA3URVkjqnm7n31fUF7VDhWXjeEaZK2l)
