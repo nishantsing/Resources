@@ -395,6 +395,12 @@
 #### AI Image Editor
 - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
 
+#### AI Trip Planner
+- [Full-Stack AI Trip Planner: React, Gemini AI, Firebase & TailwindCSS](https://youtu.be/f_7grfh9TxU)
+
+#### AI Short Video Generator
+- [ Build NextJs AI Sort Video Generator Using React.Js, Tailwind, AI, Clerk, Neon | 🎥 Full Stack App](https://youtu.be/eMplIjZ80Zs)
+
 #### AI Interior Design Generator
 - [ Build & Deploy Full Stack Next.js AI Interior Design Generator App | React, Tailwind CSS Tutorial](https://youtu.be/8gtO-J69mIE)
 
@@ -448,6 +454,8 @@
 - [Advanced Spotify Clone: Build & Deploy a MERN Stack Spotify Application with React.js](https://youtu.be/4sbklcQ0EXc)
 - [Build an Uber Clone App with MERN Stack | Complete 11 Hour Masterclass (2025)](https://youtu.be/4qyBjxPlEZo)
 - [Manychat Clone - Nextjs, Tailwind, Instagram API, Relume, Prisma, Webhooks (Cash Prize Challenge)](https://youtu.be/iaxekGfUzvk)
+- [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://youtu.be/ADJKbuayubE)
+- [Build & Deploy NextJs Eraser.io App Clone | Full Stack React App | Convex, Typescript, Tailwind Css](https://youtu.be/sxn2GPQjJgc)
 
 #### AI Project
 
