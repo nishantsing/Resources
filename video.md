@@ -191,6 +191,9 @@
 
 ## Backend
 
+- [Node JS Full Course 2024 | Complete Backend Development Course | Part 1](https://youtu.be/MIJt9H69QVc)
+- [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2](https://youtu.be/_f7h6xQXiLA)
+
 #### Express
 - [Complete backend series | Launch](https://youtu.be/nhmMx-ys_zQ?list=PLRAV69dS1uWSl459HU5liKv8q4iZ44xBq)
 - [Express JS Full Course](https://youtu.be/nH9E25nkk3I)
@@ -374,6 +377,7 @@
 - [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
 - [Link Shortner React Firebase App - Desi Codes](https://youtu.be/mf0fz3K3k48?list=PLmA3URVkjqnm7n31fUF7VDhWXjeEaZK2l)
 - [Nextjs full stack project tutorial - Tube Guruji](https://youtu.be/eMplIjZ80Zs?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt)
+- [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
