@@ -77,6 +77,8 @@
 - [Codex](https://www.codedex.io/react/09-hot-takes-pt-1)
 - [CSS Battle](https://cssbattle.dev/)
 - [Code Crafters](https://codecrafters.io/)
+- [Learn JS](https://learnjavascript.online/)
+- [Scrima Interactive Courses](https://scrimba.com/home)
 
 ## Cheat sheet
 - [30 Seconds of code](https://www.30secondsofcode.org/)
