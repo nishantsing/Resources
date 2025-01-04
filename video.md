@@ -90,6 +90,7 @@
 - [Horizontal and Vertical Scaling (How to Scale Your Application) - System Design](https://youtu.be/XqzoUlmJrB4)
 - [How to Scale Your App to Global Levels - System Design](https://youtu.be/syAUXNxAiHs)
 - [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://youtu.be/t5WPGMXOtds)
+- [Replication and Sharding - System Design](https://youtu.be/oh8GvLf45t0)
 
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
