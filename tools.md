@@ -79,6 +79,7 @@
 - [Code Crafters](https://codecrafters.io/)
 - [Learn JS](https://learnjavascript.online/)
 - [Scrima Interactive Courses](https://scrimba.com/home)
+- [Coddy Tech](https://coddy.tech/)
 
 ## Cheat sheet
 - [30 Seconds of code](https://www.30secondsofcode.org/)
