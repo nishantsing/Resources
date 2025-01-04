@@ -23,3 +23,4 @@
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Persmission System](https://github.com/WebDevSimplified/permission-system)
+- [Developer Portfolio Ideas](https://github.com/emmabostian/developer-portfolios)
