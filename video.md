@@ -393,6 +393,9 @@
 #### Drug Research
 - [Build and Deploy A Drug Research Platform with Next.js14 ,Typescript, Tailwind & NVIDIA AI Models](https://youtu.be/8tGG_AzLdRI)
 
+#### AI Logo Maker
+- [Build an AI Logo Maker with Next.js, React, Gemini API & Hugging Face](https://youtu.be/VjimQ-VEIiE)
+
 #### AI Image Editor
 - [Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions](https://youtu.be/vH2lUJw9r0k)
 
