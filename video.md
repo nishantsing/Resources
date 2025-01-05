@@ -384,6 +384,9 @@
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
 
+#### Online store
+- [Build an online store with Imagekit and razorpay](https://youtu.be/6cXpjtc36XE)
+
 #### Kids story generator
 - [Build & Deploy Full Stack Nextjs AI Kids Story generator SAAS App Using React, NextUI, Typescript](https://youtu.be/bxhDP-e4NDA)
 
