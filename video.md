@@ -373,6 +373,7 @@
 6. Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL & Prisma
 
 ## Projects
+- [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
 
 #### YT Projects Playlists 
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
