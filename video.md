@@ -145,6 +145,7 @@
 
 #### Nextjs
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
+- [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 
 ## FullStack
 
@@ -469,6 +470,7 @@
 - [Manychat Clone - Nextjs, Tailwind, Instagram API, Relume, Prisma, Webhooks (Cash Prize Challenge)](https://youtu.be/iaxekGfUzvk)
 - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://youtu.be/ADJKbuayubE)
 - [Build & Deploy NextJs Eraser.io App Clone | Full Stack React App | Convex, Typescript, Tailwind Css](https://youtu.be/sxn2GPQjJgc)
+- [Bolt.New Clone with Next.js, React, TailwindCSS & AI - Full Stack SAAS App Tutorial | Convex](https://youtu.be/fh1s6UbzJ7k)
 
 #### AI Project
 
