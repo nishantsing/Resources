@@ -17,6 +17,7 @@
       - [How to build a PDF summarizer using AI - React JS Next.js](https://youtu.be/OIYevBOSMxY)
   
   - Ollama
+      - [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://youtu.be/UtSSMs6ObqY)
   
   - RAG / Vector
       - [2 Hours to build a Star Wars AI RAGbot! (Super Simple!!)](https://youtu.be/1URfAeIRWm0)
@@ -54,7 +55,9 @@
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
 
-
+##### Git and Github
+- [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
+  
 ##### Projects
 - [Sentiment Analysis Code Sample](https://youtu.be/4SJv8YxGho4)
 
