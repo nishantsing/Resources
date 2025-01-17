@@ -24,3 +24,7 @@
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Persmission System](https://github.com/WebDevSimplified/permission-system)
 - [Developer Portfolio Ideas](https://github.com/emmabostian/developer-portfolios)
+
+###### React
+- [awesome-react](https://github.com/toptaldev92/awesome-react)
+- [React Medium](https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n)
