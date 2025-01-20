@@ -5,6 +5,9 @@
 
   - AI Agents
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
+   
+  - Gen AI
+      - [GenAI Essentials – Full Course for Beginners](https://youtu.be/nJ25yl34Uqw)
 
   - Gemini
       - [1 HOUR - Learn the Gemini API and build a multi-turn chat bot!](https://youtu.be/xv9UbWp_Frs)
@@ -214,6 +217,9 @@
 #### Postman
 - [Api Design Crash Course](https://youtu.be/FPM1v4g1b4s)
 
+#### Serverless Function
+- [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API](https://youtu.be/V0P3Opf-zUs)
+
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
     - AppWrite
@@ -390,6 +396,7 @@
 - [Link Shortner React Firebase App - Desi Codes](https://youtu.be/mf0fz3K3k48?list=PLmA3URVkjqnm7n31fUF7VDhWXjeEaZK2l)
 - [Nextjs full stack project tutorial - Tube Guruji](https://youtu.be/eMplIjZ80Zs?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt)
 - [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
+- [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
