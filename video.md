@@ -80,6 +80,7 @@
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 
 ## DSA
+- [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSAOne Course #1](https://youtu.be/N89PN_uyelU?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
@@ -421,6 +422,9 @@
 
 #### AI Trip Planner
 - [Full-Stack AI Trip Planner: React, Gemini AI, Firebase & TailwindCSS](https://youtu.be/f_7grfh9TxU)
+
+#### AI Email Template Builder
+- [Build an AI Email Template Builder App with Next.js, React, TailwindCSS & AI | Convex](https://youtu.be/hCSX5zSb3b4)
 
 #### AI Short Video Generator
 - [ Build NextJs AI Sort Video Generator Using React.Js, Tailwind, AI, Clerk, Neon | 🎥 Full Stack App](https://youtu.be/eMplIjZ80Zs)
