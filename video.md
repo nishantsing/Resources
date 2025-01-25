@@ -291,6 +291,7 @@
 - [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
 
 ## Web Scrapping
+- [Web Scraping 101: A Million Dollar SaaS Idea](https://youtu.be/oyIQenEvWN8)
 - [I built a web scraper to find the BIGGEST deals to flip on Amazon $$$](https://youtu.be/2hSC2HaPJDA)
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
@@ -404,6 +405,7 @@
 - [Nextjs full stack project tutorial - Tube Guruji](https://youtu.be/eMplIjZ80Zs?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt)
 - [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
 - [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
+- [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
