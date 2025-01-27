@@ -260,6 +260,7 @@
 #### Python
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
 - [Build a Python AI Image Generator in 15 Minutes (Free & Local)](https://youtu.be/-X_d2AVXVkQ)
+- [9 HOURS of Python Projects - From Beginner to Advanced](https://youtu.be/NpmFbWO6HPU)
 
 
 #### GO
