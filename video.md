@@ -161,6 +161,7 @@
 ## FullStack
 
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
+- [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://youtu.be/OAyQ3Wyyzfg)
   
 #### Flask
   - [JavaScript and Python - Build and Deploy a Full Stack Web App](https://youtu.be/tWHXaSC2T_s)
@@ -341,6 +342,7 @@
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 
 ## Hacking
+- [Hacker's Roadmap 2025 (how to get started in IT)](https://youtu.be/5xWnmUEi1Qw)
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
 - [monitor all your stuff RIGHT NOW!!](https://youtu.be/-2yzXSIuC8o)
 - [Every Hacking Technique Explained As FAST As Possible!](https://youtu.be/eG1pdw_TOYE)
