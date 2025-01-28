@@ -6,6 +6,9 @@
   - AI Agents
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
    
+  - AWS Sagemaker
+      - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
+   
   - Gen AI
       - [GenAI Essentials – Full Course for Beginners](https://youtu.be/nJ25yl34Uqw)
 
