@@ -285,8 +285,11 @@
 
 ## Microservices
 
-## YT Playlist 
+#### YT Playlist 
 - [Lets start Microservices Tutorial Series #1](https://youtu.be/QrPvGdpcjXo?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D)
+
+## Devops
+- [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
 
 ## System Design
 - [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
