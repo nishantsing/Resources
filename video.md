@@ -370,6 +370,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
 ## Udemy / Courses
+1. AI Engineering Bootcamp: Build, Train and Deploy Models with AWS SageMaker
 1. GitHub Actions - The Complete Guide
 1. JavaScript The Advanced Concepts
 1. The Coding Interview Bootcamp Algorithms + Data Structures
