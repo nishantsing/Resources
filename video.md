@@ -5,6 +5,7 @@
 
   - AI Agents
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
+      - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
    
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -319,8 +320,9 @@
 ## Cron Job
 - [CRON Job & How you can ? 🔥| JavaScript | Node JS Automation](https://youtu.be/t00r4XwT4Mo)
 
-## Chrome extension
+## Create extension
 - [I Built an AI Chrome Extension in 30 Minutes](https://youtu.be/_IM-YT1xfUc)
+- [I built a DeepSeek R1 powered VS Code extension](https://youtu.be/clJCDHml2cA)
 
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
@@ -416,6 +418,9 @@
 - [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
 - [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
+
+#### AI Project maker
+- [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
