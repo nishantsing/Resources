@@ -146,6 +146,9 @@
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
         - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
+     
+#### React Animation
+- [Framer Motion Tutorial – Master React Animations (Beginner to Advanced)](https://youtu.be/JALCoY9MQg8)
 
 #### React Admin
 - [React Admin Crash Course 2025](https://youtu.be/PyaSnpXssks)
