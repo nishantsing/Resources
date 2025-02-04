@@ -390,6 +390,7 @@
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
 - [How does a browser work    Engineering side](https://youtu.be/5rLFYtXHo9s)
 - [How node JS works   Engineering side](https://youtu.be/ooBxSg1Cl1w)
+- [Behind the scene details of Jupyter notebooks](https://youtu.be/Xi8OWDrzKRA)
 
 ## Stock Market
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
