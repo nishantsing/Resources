@@ -162,6 +162,18 @@
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 
+###### Next Important Parts Back To Front
+- [Build a Full stack ReelsPro project with NextJS and Imagekit](https://youtu.be/G9VbtcsPKT0?list=PLu71SKxNbfoBwut0coTT46oHz8q6xl2tO)
+1. DB connection
+2. Designing Models
+3. Register User and Testing with PostMan
+4. NextAuth / Auth / Clerk (OAuth, passport, JWT, Session)
+5. FileHandling
+6. Frontend Guide
+
+###### State Management
+- [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
+
 ## FullStack
 
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
