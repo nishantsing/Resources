@@ -72,9 +72,13 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## JS
+
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
+
+###### Interview Qns
+- [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
 
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
@@ -278,6 +282,7 @@
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
 
 #### Python
+- [I Learned Python By Building These Projects - Tutorial for Beginners](https://youtu.be/ehD6tdxmjDU)
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
 - [Build a Python AI Image Generator in 15 Minutes (Free & Local)](https://youtu.be/-X_d2AVXVkQ)
 - [9 HOURS of Python Projects - From Beginner to Advanced](https://youtu.be/NpmFbWO6HPU)
