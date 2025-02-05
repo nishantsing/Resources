@@ -182,6 +182,10 @@
 
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
 - [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://youtu.be/OAyQ3Wyyzfg)
+
+
+#### PERN Stack
+- [PERN Stack Course: Build a Product Store with Postgres & React](https://youtu.be/lx3YJj0nJVk)
   
 #### Flask
   - [JavaScript and Python - Build and Deploy a Full Stack Web App](https://youtu.be/tWHXaSC2T_s)
