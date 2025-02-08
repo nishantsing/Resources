@@ -308,6 +308,7 @@
 - [Next.js 15 Breakdown (Everything You Need To Know)](https://youtu.be/fqabW3WRUbw)
 - [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
 - [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
+- [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
 
 ## Microservices
 
@@ -446,6 +447,9 @@
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
+
+#### AI Presentation Builder
+- [AI Presentation Builder (PART 1/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/kKa-AtjsmXQ)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
