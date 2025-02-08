@@ -167,7 +167,7 @@
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 
 ###### Next Important Parts Back To Front
-- [Build a Full stack ReelsPro project with NextJS and Imagekit](https://youtu.be/G9VbtcsPKT0?list=PLu71SKxNbfoBwut0coTT46oHz8q6xl2tO)
+- [Build a full stack Project | Reels Pro Paltform | NextJS | Imagekit](https://youtu.be/mM9WYPevSMY)
 1. DB connection
 2. Designing Models
 3. Register User and Testing with PostMan
