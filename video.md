@@ -235,6 +235,7 @@
 
 ## Backend
 
+- [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
 - [Node JS Full Course 2024 | Complete Backend Development Course | Part 1](https://youtu.be/MIJt9H69QVc)
 - [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2](https://youtu.be/_f7h6xQXiLA)
 
