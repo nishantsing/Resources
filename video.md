@@ -88,6 +88,7 @@
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 
 ## DSA
+- [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -306,6 +307,7 @@
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
 #### Next
+- [Appointment booking app with NextJs, Neon, Clerk & Cal.com](https://youtu.be/vmNpfgbIo3I)
 - [Next.js 15 Breakdown (Everything You Need To Know)](https://youtu.be/fqabW3WRUbw)
 - [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
 - [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
@@ -466,6 +468,9 @@
 
 #### Drug Research
 - [Build and Deploy A Drug Research Platform with Next.js14 ,Typescript, Tailwind & NVIDIA AI Models](https://youtu.be/8tGG_AzLdRI)
+
+#### AI Code Reviewer
+- [AI-Powered Code Reviewer | Complete MERN Stack Project](https://youtu.be/J-S-zdfyCDo)
 
 #### AI Logo Maker
 - [Build an AI Logo Maker with Next.js, React, Gemini API & Hugging Face](https://youtu.be/VjimQ-VEIiE)
