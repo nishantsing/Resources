@@ -532,6 +532,7 @@
 
 ### Project Clones
 
+- [Let's build Google Drive of the future!! Next.js Cloudinary](https://youtu.be/v5GE4OUNwXs)
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
 - [Build a Full Stack Tinder Clone - Node, Express, Tailwind - Full Tutorial 2024](https://youtu.be/o-XOBJRNeqk)
