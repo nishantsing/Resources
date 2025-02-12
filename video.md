@@ -288,6 +288,7 @@
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
 
 #### Python
+- [Python Full Course for Beginners [2025]](https://youtu.be/K5KVEU3aaeQ)
 - [I Learned Python By Building These Projects - Tutorial for Beginners](https://youtu.be/ehD6tdxmjDU)
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
 - [Build a Python AI Image Generator in 15 Minutes (Free & Local)](https://youtu.be/-X_d2AVXVkQ)
