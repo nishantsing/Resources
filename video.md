@@ -454,6 +454,7 @@
 
 #### AI Presentation Builder
 - [AI Presentation Builder (PART 1/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/kKa-AtjsmXQ)
+- [AI Presentation Builder (PART 2/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/9qNFnppDB_c)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
