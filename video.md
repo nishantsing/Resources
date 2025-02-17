@@ -243,6 +243,7 @@
 - [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2](https://youtu.be/_f7h6xQXiLA)
 
 #### Express
+- [Let's Master the PAGINATION 🔥| Api Pagination | React Pagination](https://youtu.be/4NQmYtfR4Q4)
 - [Complete backend series | Launch](https://youtu.be/nhmMx-ys_zQ?list=PLRAV69dS1uWSl459HU5liKv8q4iZ44xBq)
 - [Express JS Full Course](https://youtu.be/nH9E25nkk3I)
 - [SQLite3 in Node with better-sqlite3](https://youtu.be/IooIXYf0PIo)
