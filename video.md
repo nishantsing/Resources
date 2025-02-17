@@ -73,6 +73,7 @@
 
 ## JS
 
+- [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
@@ -107,6 +108,7 @@
 - [How to Scale Your App to Global Levels - System Design](https://youtu.be/syAUXNxAiHs)
 - [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://youtu.be/t5WPGMXOtds)
 - [Replication and Sharding - System Design](https://youtu.be/oh8GvLf45t0)
+- [Intro to NoSQL Databases - System Design](https://youtu.be/FRqrZGB8NBs)
 
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
