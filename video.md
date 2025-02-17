@@ -455,6 +455,9 @@
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
+#### AI short video geneartor
+- [Build AI YouTube Shorts Video Generator with Next.js, React, Tailwind CSS, Convex](https://youtu.be/uBgFPmieR6M)
+
 #### AI Presentation Builder
 - [AI Presentation Builder (PART 1/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/kKa-AtjsmXQ)
 - [AI Presentation Builder (PART 2/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/9qNFnppDB_c)
