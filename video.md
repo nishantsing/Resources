@@ -413,6 +413,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
 ## Udemy / Courses
+1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - best to buy
 1. AI Engineering Bootcamp: Build, Train and Deploy Models with AWS SageMaker
 1. GitHub Actions - The Complete Guide
 1. JavaScript The Advanced Concepts
