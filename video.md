@@ -352,12 +352,16 @@
 ## Cron Job
 - [CRON Job & How you can ? 🔥| JavaScript | Node JS Automation](https://youtu.be/t00r4XwT4Mo)
 
+## Cloud Computing
+- [Cloud Computing Explained: The Most Important Concepts To Know](https://youtu.be/ZaA0kNm18pE)
+
 ## Create extension
 - [I Built an AI Chrome Extension in 30 Minutes](https://youtu.be/_IM-YT1xfUc)
 - [I built a DeepSeek R1 powered VS Code extension](https://youtu.be/clJCDHml2cA)
 
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
+- [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 
 ## Deployment
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
