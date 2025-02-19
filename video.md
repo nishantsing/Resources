@@ -34,6 +34,7 @@
       - [Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI](https://youtu.be/d-VKYF4Zow0)
   
   - LangChain
+      - [HuggingFace + Langchain | Run 1,000s of FREE AI Models Locally](https://youtu.be/1h6lfzJ0wZw)
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
   - LangGraph
