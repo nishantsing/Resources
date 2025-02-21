@@ -360,6 +360,7 @@
 ## Create extension
 - [I Built an AI Chrome Extension in 30 Minutes](https://youtu.be/_IM-YT1xfUc)
 - [I built a DeepSeek R1 powered VS Code extension](https://youtu.be/clJCDHml2cA)
+- [How to build your own Chrome extension and customize your web experience](https://youtu.be/wpGhIoGiDok)
 
 #### AWS
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
