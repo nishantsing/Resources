@@ -6,6 +6,7 @@
   - AI Agents
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
       - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
+      - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
    
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
