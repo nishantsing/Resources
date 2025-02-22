@@ -64,6 +64,10 @@
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
 
+## DS
+
+- [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
+
 ##### Git and Github
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
   
