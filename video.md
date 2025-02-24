@@ -280,6 +280,7 @@
 
 ## Mobile Development
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
+- [React Native Course | Build Full Stack React Native App | College Campus Event App | Expo Router](https://youtu.be/FJm3eKT9L9s)
 - [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
 - [ Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
