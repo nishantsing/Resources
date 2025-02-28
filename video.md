@@ -244,6 +244,9 @@
 #### Stripe
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
 
+#### Authentication
+- [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
+
 ## Backend
 
 - [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
@@ -279,6 +282,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
 - [React Native Course | Build Full Stack React Native App | College Campus Event App | Expo Router](https://youtu.be/FJm3eKT9L9s)
 - [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
@@ -318,6 +322,9 @@
 - [How To Create A Video Chat App With WebRTC](https://youtu.be/DvlyzDZDEq4)
 - [Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript](https://youtu.be/gCwHi-UFSdg)
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
+
+#### Spring Boot
+- [Spring Boot Tutorial for Beginners - Your First Spring Boot Application](https://youtu.be/gJrjgg1KVL4)
 
 #### Next
 - [Appointment booking app with NextJs, Neon, Clerk & Cal.com](https://youtu.be/vmNpfgbIo3I)
