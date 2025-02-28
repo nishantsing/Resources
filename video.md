@@ -79,8 +79,12 @@
 ## W3
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
+## Python
+- [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
+
 ## JS
 
+- [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
 - [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
