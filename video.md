@@ -52,6 +52,7 @@
    
   - Transformer.js
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
+      - [Vision Transformer from Scratch Tutorial](https://youtu.be/4XgDdxpXHEQ)
    
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
 
