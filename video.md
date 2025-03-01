@@ -406,6 +406,7 @@
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 
 ## Hacking
+- [You're going to get Hacked in 2025](https://youtu.be/CxTMHw-M0Yg)
 - [Hacker's Roadmap 2025 (how to get started in IT)](https://youtu.be/5xWnmUEi1Qw)
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
 - [monitor all your stuff RIGHT NOW!!](https://youtu.be/-2yzXSIuC8o)
