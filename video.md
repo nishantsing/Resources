@@ -81,6 +81,7 @@
 
 ## Python
 - [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
+- [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
 
 ## JS
 
