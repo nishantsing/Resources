@@ -157,6 +157,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
 - [THE BIGGEST REACT.JS COURSE ON THE INTERNET  PART 1](https://youtu.be/qnwFpjIqsrA)
