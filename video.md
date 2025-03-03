@@ -393,11 +393,14 @@
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 
 ## Deployment
+
+- [The Only Docker Tutorial You Need To Get Started](https://youtu.be/DQdB7wFEygo)
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
 - [Learn web deployment in just 1 video](https://youtu.be/VT099T4Feb0)
 - [Host your Github Connected Website on AWS Amplify Hosting in Minutes | Amazon Web Services](https://youtu.be/hYxUemQRf3k)
 - [How to Deploy MERN Stack App | Complete Guide with Render, Vercel | Deploy Website In 10 Minutes](https://youtu.be/S2WhxW8xkHw)
 - [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
+
 
 ## Power BI
 - [Power BI for Beginners: The Ultimate Guide (2024)](https://youtu.be/KUNK2rqfTyU)
