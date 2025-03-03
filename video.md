@@ -290,6 +290,7 @@
 
 ## Mobile Development
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
+- [The Ultimate React Native Course in 2025](https://youtu.be/wbj-DuaL748)
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
 - [React Native Course | Build Full Stack React Native App | College Campus Event App | Expo Router](https://youtu.be/FJm3eKT9L9s)
 - [I made a website that makes mobile apps using AI (Docker, Bun, VSCode, ASGs)](https://youtu.be/wLGrhL8V038)
@@ -499,6 +500,9 @@
 #### AI Presentation Builder
 - [AI Presentation Builder (PART 1/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/kKa-AtjsmXQ)
 - [AI Presentation Builder (PART 2/2) - Nextjs 15, OpenAI, LemonSqueezy, Prisma, Clerk, Neon](https://youtu.be/9qNFnppDB_c)
+
+#### AI Assistant
+- [Build AI Personal Assistant Using Nextjs, React, Convex and Eden AI | Full Stack SAAS App](https://youtu.be/mvpMEOQ7Ykk)
 
 #### Full stack AI app
 - [Build a Full Stack Al App](https://youtu.be/tJMxXUK27tw)
