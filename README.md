@@ -17,3 +17,6 @@
 
 - open repo press . to open it in vscode or change url github.com to github.dev
 - open repo edit url instead of github type gitingest.
+
+## localhost
+- [What REALLY Happens When You Type Localhost?](https://youtu.be/PwNJXUdMkVY)
