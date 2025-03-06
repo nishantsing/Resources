@@ -412,6 +412,9 @@
 ## OS
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 
+## GSOC
+- [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
+
 ## Hacking
 - [You're going to get Hacked in 2025](https://youtu.be/CxTMHw-M0Yg)
 - [Hacker's Roadmap 2025 (how to get started in IT)](https://youtu.be/5xWnmUEi1Qw)
