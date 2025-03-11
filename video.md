@@ -8,6 +8,7 @@
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
       - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
+      - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
    
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -290,6 +291,9 @@
 
 ## Mobile Development
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
+- [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
+- [React Native Project | Build Full Stack React Native App with Expo, & Strapi | AI Recipe Generator](https://youtu.be/pW2Pso4fw5g)
+- 
 - [The Ultimate React Native Course in 2025](https://youtu.be/wbj-DuaL748)
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
 - [React Native Course | Build Full Stack React Native App | College Campus Event App | Expo Router](https://youtu.be/FJm3eKT9L9s)
@@ -411,6 +415,7 @@
 
 ## OS
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
+- [They built an OS in JS](https://youtu.be/EeonWxtPM_4)
 
 ## GSOC
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
