@@ -347,6 +347,7 @@
 
 #### Spring Boot
 - [Spring Boot Tutorial for Beginners - Your First Spring Boot Application](https://youtu.be/gJrjgg1KVL4)
+- [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
 
 #### Next
 - [Appointment booking app with NextJs, Neon, Clerk & Cal.com](https://youtu.be/vmNpfgbIo3I)
