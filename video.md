@@ -5,6 +5,7 @@
 - [AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
 
   - AI Agents
+      - [Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)](https://youtu.be/zGkVKix_CRU)
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
       - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
@@ -81,6 +82,7 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## Python
+- [How to Prepare for a Python Interview: A Complete Guide](https://youtu.be/BeqlRl5dV_8)
 - [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
 
@@ -168,7 +170,11 @@
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
         - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
-     
+
+
+
+#### Three.js
+- [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
 #### React Animation
 - [Framer Motion Tutorial – Master React Animations (Beginner to Advanced)](https://youtu.be/JALCoY9MQg8)
 
@@ -202,6 +208,8 @@
 - [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://youtu.be/OAyQ3Wyyzfg)
 
 
+#### MERN Stack
+- [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 #### PERN Stack
 - [PERN Stack Course: Build a Product Store with Postgres & React](https://youtu.be/lx3YJj0nJVk)
   
@@ -290,6 +298,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js](https://youtu.be/o3IqOrXtxm8)
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
 - [React Native Project | Build Full Stack React Native App with Expo, & Strapi | AI Recipe Generator](https://youtu.be/pW2Pso4fw5g)
@@ -394,6 +403,7 @@
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 
 #### AWS
+- [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 
@@ -489,6 +499,7 @@
 
 ## Projects
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
+- [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
 #### YT Projects Playlists 
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
