@@ -151,6 +151,7 @@
 #### CSS
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
+- [The Ultimate Guide to Tailwind CSS](https://youtu.be/g03Yldh9Nkw)
 - [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
 - [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
 - [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
@@ -614,6 +615,7 @@
 - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://youtu.be/ADJKbuayubE)
 - [Build & Deploy NextJs Eraser.io App Clone | Full Stack React App | Convex, Typescript, Tailwind Css](https://youtu.be/sxn2GPQjJgc)
 - [Bolt.New Clone with Next.js, React, TailwindCSS & AI - Full Stack SAAS App Tutorial | Convex](https://youtu.be/fh1s6UbzJ7k)
+- [Build a Full Stack Canva Clone 2.0 with Next.js, React & Convex, ImageKit.io](https://youtu.be/vjWyqs7eBP4)
 
 #### AI Project
 
