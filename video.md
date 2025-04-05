@@ -323,6 +323,7 @@
 - [home automation](https://youtu.be/k02P5nghmfs)
 
 ## Chat App
+- [Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript, Open AI, Stream & Neon Database](https://youtu.be/VR3p7almo_c)
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
 
