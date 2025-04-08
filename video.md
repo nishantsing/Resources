@@ -82,6 +82,7 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## Python
+- [Python for Beginners - Build 35 Resume Projects](https://youtu.be/mMzwOZQJIcE)
 - [How to Prepare for a Python Interview: A Complete Guide](https://youtu.be/BeqlRl5dV_8)
 - [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
@@ -401,6 +402,7 @@
 - [I built a DeepSeek R1 powered VS Code extension](https://youtu.be/clJCDHml2cA)
 - [How to build your own Chrome extension and customize your web experience](https://youtu.be/wpGhIoGiDok)
 - [Customize your browser with Chrome Extensions](https://youtu.be/r2qpopEQ_SI)
+- [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
@@ -515,6 +517,9 @@
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
+
+#### AI Recruiter
+- [Build & Deploy AI Recruiter Voice Agent Using Next.js, React, Vapi, Supabase | Full Tutorial](https://youtu.be/zcYM_Gqoph4)
 
 #### AI short video geneartor
 - [Build AI YouTube Shorts Video Generator with Next.js, React, Tailwind CSS, Convex](https://youtu.be/uBgFPmieR6M)
