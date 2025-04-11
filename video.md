@@ -191,6 +191,7 @@
 #### Nextjs
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
+- [Build AI-Powered Apps with Next.js: Real-World LLM Integration | iJS](https://youtu.be/gTsnsfKB-XM)
 
 ###### Next Important Parts Back To Front
 - [Build a full stack Project | Reels Pro Paltform | NextJS | Imagekit](https://youtu.be/mM9WYPevSMY)
