@@ -10,6 +10,7 @@
       - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
+      - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
    
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
