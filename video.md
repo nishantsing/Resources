@@ -62,6 +62,10 @@
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 
+
+## MCP Server
+- [Build Anything With a CUSTOM MCP Server - Python Tutorial](https://youtu.be/-8k9lGpGQ6g)
+
   
 ## ML
 
