@@ -56,7 +56,8 @@
   - Transformer.js
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
       - [Vision Transformer from Scratch Tutorial](https://youtu.be/4XgDdxpXHEQ)
-   
+
+      
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
 
 ## Neural Networks
@@ -64,6 +65,7 @@
 
 
 ## MCP Server
+- [All You Need To Know About Model Context Protocol(MCP)](https://youtu.be/-UQ6OZywZ2I)
 - [Build Anything With a CUSTOM MCP Server - Python Tutorial](https://youtu.be/-8k9lGpGQ6g)
 
   
@@ -413,6 +415,9 @@
 ## Debugging
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 
+## Networking
+- [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
+
 #### AWS
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
@@ -523,6 +528,12 @@
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
+
+#### AI Fitness Trainer
+- [Build and Deploy Your Own AI Fitness Trainer with Next.js - Full Course](https://youtu.be/BCufdom7xgY)
+
+#### AI Diet planner
+- [Build React Native Full Stack App using Expo, Convex | AI Diet Planner App | Full Course](https://youtu.be/UgLN9O930vE)
 
 #### AI Recruiter
 - [Build & Deploy AI Recruiter Voice Agent Using Next.js, React, Vapi, Supabase | Full Tutorial](https://youtu.be/zcYM_Gqoph4)
