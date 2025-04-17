@@ -59,13 +59,16 @@
 
       
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
+ - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
 
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 
 
 ## MCP Server
-- [All You Need To Know About Model Context Protocol(MCP)](https://youtu.be/-UQ6OZywZ2I)
+- [All You Need To Know About Model Context Protocol(MCP) - 1](https://youtu.be/-UQ6OZywZ2I)
+- [Build AI Assistant With MCP Servers And Tools Using LangChain And Groq - 2](https://youtu.be/BG4F3b5QpjM)
+- [Live Build Agentic AI Chatbot Using LangGraph - 3](https://youtu.be/HCSPIH3I-vc)
 - [Build Anything With a CUSTOM MCP Server - Python Tutorial](https://youtu.be/-8k9lGpGQ6g)
 
   
@@ -166,10 +169,12 @@
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 
 #### Astro
+- [Lesson 1 — Introduction to Astro](https://youtu.be/HZ4pCYg9Rws)
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
+- [How I Recreated TanStack Router From Scratch](https://youtu.be/b7uUWoS1Zro)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
 - [THE BIGGEST REACT.JS COURSE ON THE INTERNET  PART 1](https://youtu.be/qnwFpjIqsrA)
@@ -308,6 +313,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [Complete React Native Tutorial #1 - Introduction & Setup (Expo)](https://youtu.be/J2j1yk-34OY)
 - [MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js](https://youtu.be/o3IqOrXtxm8)
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
@@ -357,7 +363,8 @@
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
 #### Spring Boot
-- [Spring Boot Tutorial for Beginners - Your First Spring Boot Application](https://youtu.be/gJrjgg1KVL4)
+- [Spring Boot Tutorial for Beginners - Your First Spring Boot Application - 1](https://youtu.be/gJrjgg1KVL4)
+- [Build REST APIs with Spring Boot - 2](https://youtu.be/EWd3_I4X32g)
 - [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
 
 #### Next
@@ -404,6 +411,7 @@
 
 ## Cloud Computing
 - [Cloud Computing Explained: The Most Important Concepts To Know](https://youtu.be/ZaA0kNm18pE)
+
 
 ## Create extension
 - [I Built an AI Chrome Extension in 30 Minutes](https://youtu.be/_IM-YT1xfUc)
