@@ -60,12 +60,14 @@
       
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
+ - [Run ChatGPT on Your Computer - WebLLM Explained](https://youtu.be/xEUbfrDvhSs)
 
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 
 
 ## MCP Server
+- [I Created INSANE AI Agents with MCP Server](https://youtu.be/Q50jSglX0hA)
 - [All You Need To Know About Model Context Protocol(MCP) - 1](https://youtu.be/-UQ6OZywZ2I)
 - [Build AI Assistant With MCP Servers And Tools Using LangChain And Groq - 2](https://youtu.be/BG4F3b5QpjM)
 - [Live Build Agentic AI Chatbot Using LangGraph - 3](https://youtu.be/HCSPIH3I-vc)
@@ -96,6 +98,7 @@
 - [How to Prepare for a Python Interview: A Complete Guide](https://youtu.be/BeqlRl5dV_8)
 - [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
+- [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
 
 ## JS
 
@@ -455,6 +458,7 @@
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
 ## Hacking
+- [Session Hijacking: How Cookies Can Become Your Worst Enemy](https://youtu.be/fZyNS-9CF4s)
 - [You're going to get Hacked in 2025](https://youtu.be/CxTMHw-M0Yg)
 - [Hacker's Roadmap 2025 (how to get started in IT)](https://youtu.be/5xWnmUEi1Qw)
 - [60 Hacking Commands You NEED to Know](https://youtu.be/gL4j-a-g9pA)
