@@ -420,6 +420,7 @@
 - [Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)](https://youtu.be/rBEQL2tC2xY)
 
 ## Cron Job
+- [Every Senior Developer Needs To Know This!](https://youtu.be/0S48TFrm4UE)
 - [CRON Job & How you can ? 🔥| JavaScript | Node JS Automation](https://youtu.be/t00r4XwT4Mo)
 
 ## Cloud Computing
