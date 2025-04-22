@@ -67,6 +67,7 @@
 
 
 ## MCP Server
+- [Built a Stock Trading Bot Using MCP Servers + Claude AI](https://youtu.be/1iJ34tTjwwo)
 - [I Created INSANE AI Agents with MCP Server](https://youtu.be/Q50jSglX0hA)
 - [All You Need To Know About Model Context Protocol(MCP) - 1](https://youtu.be/-UQ6OZywZ2I)
 - [Build AI Assistant With MCP Servers And Tools Using LangChain And Groq - 2](https://youtu.be/BG4F3b5QpjM)
@@ -79,6 +80,15 @@
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
+
+## Discord bot
+- [How to Build a Discord Bot With Python - Full Tutorial 2025+](https://youtu.be/YD_N6Ffoojw)
+
+## Speech recognition
+- [Automatic speech recognition using Whisper in NextJs](https://youtu.be/bjgaDZrbYN0)
+
+## Object Detection
+- [Build Object Detection Using Free Open-source AI Models](https://youtu.be/1YrMsBiTEBo)
 
 ## DS
 
