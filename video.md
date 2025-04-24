@@ -648,7 +648,7 @@
 - [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
-
+- [Build a MERN Stack Resume Builder | React, Node.js, MongoDB, Express | Full-Stack Project](https://youtu.be/q3u_fpkjLk8)
 - [Let's build Google Drive of the future!! Next.js Cloudinary](https://youtu.be/v5GE4OUNwXs)
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
