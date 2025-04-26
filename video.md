@@ -276,6 +276,7 @@
    
 #### Reactjs
   - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
+  - [Build and Deploy a Full Stack React Admin Dashboard for a Travel Agency | React Router v7](https://youtu.be/xZ1ba-RLrjo)
   - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
   - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
   - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
@@ -649,6 +650,7 @@
 
 ### Project Clones
 - [Build a MERN Stack Resume Builder | React, Node.js, MongoDB, Express | Full-Stack Project](https://youtu.be/q3u_fpkjLk8)
+- [Droply | A dropbox inspired full stack project with NextJS, Postgres, Clerk and ImageKit](https://youtu.be/4NWgSTZNdn0)
 - [Let's build Google Drive of the future!! Next.js Cloudinary](https://youtu.be/v5GE4OUNwXs)
 - [Build a Linkedin Clone with React and Node.js | Full Stack Tutorial](https://youtu.be/Ycg48pVp3SU)
 - [Build a Full Stack Next.js App with Google Calendar - TypeScript, Drizzle, ShadCN, Tailwind](https://youtu.be/0Oacr8VrnNk)
