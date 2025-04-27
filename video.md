@@ -358,6 +358,9 @@
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
 
+## Real Time Communication
+- [Long polling, server sent Events and Web Sockets | Real time communication jargons in Hindi](https://youtu.be/_CCyMWSZNU4)
+
 #### Python
 - [Python Full Course for Beginners [2025]](https://youtu.be/K5KVEU3aaeQ)
 - [I Learned Python By Building These Projects - Tutorial for Beginners](https://youtu.be/ehD6tdxmjDU)
