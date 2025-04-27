@@ -76,7 +76,8 @@
 
   
 ## ML
-
+- [Build Object Detection Using Free Open-source AI Models](https://youtu.be/1YrMsBiTEBo)
+- [Automatic speech recognition using Whisper in NextJs](https://youtu.be/bjgaDZrbYN0)
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
