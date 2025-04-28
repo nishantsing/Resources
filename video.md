@@ -329,6 +329,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [The easiest way to build apps... Seriously.](https://youtu.be/qT1wWUCodC8)
 - [Complete React Native Tutorial #1 - Introduction & Setup (Expo)](https://youtu.be/J2j1yk-34OY)
 - [MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js](https://youtu.be/o3IqOrXtxm8)
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
