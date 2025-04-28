@@ -563,6 +563,9 @@
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
+#### AI Videos Ad Generator App
+- [Build and Deploy an AI Video Ads Generator App | Next.js, React, Akool AI, Convex Full Tutorial](https://youtu.be/9dGg1KzWsRA)
+
 #### AI Fitness Trainer
 - [Build and Deploy Your Own AI Fitness Trainer with Next.js - Full Course](https://youtu.be/BCufdom7xgY)
 
