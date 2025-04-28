@@ -1,4 +1,5 @@
 ## AI
+- [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
