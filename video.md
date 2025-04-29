@@ -241,6 +241,7 @@
 
 #### MERN Stack
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
+- [MERN Stack Project: Video Calling Realtime Chat App & Social App](https://youtu.be/ZuwigEmwsTM)
 #### PERN Stack
 - [PERN Stack Course: Build a Product Store with Postgres & React](https://youtu.be/lx3YJj0nJVk)
   
