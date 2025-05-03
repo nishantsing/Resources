@@ -551,6 +551,7 @@
 6. Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL & Prisma
 
 ## Projects
+- [4 Programming Projects for Employment in 2025](https://youtu.be/9TDtDCXTtPM)
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
 - [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
