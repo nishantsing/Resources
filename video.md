@@ -4,6 +4,7 @@
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
 - [AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
+- [Best Frameworks To Learn For Building AI Agents And Agentic AI](https://youtu.be/YoqH1XbeC10)
 
   - AI Agents
       - [Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)](https://youtu.be/zGkVKix_CRU)
@@ -552,6 +553,7 @@
 
 ## Projects
 - [4 Programming Projects for Employment in 2025](https://youtu.be/9TDtDCXTtPM)
+- [9 Project Ideas to Build in 2025 | AI, DeFi, Web 3 and Full stack](https://youtu.be/pXJ2qoGU88g)
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
 - [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
