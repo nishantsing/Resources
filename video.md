@@ -154,6 +154,8 @@
 - [Replication and Sharding - System Design](https://youtu.be/oh8GvLf45t0)
 - [Intro to NoSQL Databases - System Design](https://youtu.be/FRqrZGB8NBs)
 
+- [Stock Trading App System Design Interview | Meta System Design](https://youtu.be/a5rABvMQ53U)
+
 #### Gaurav sen
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
@@ -667,6 +669,7 @@
 - [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
+- [Build & Deploy a Perplexity AI Clone with Next.js, React,Tailwind Css Inngest | Full Stack AI App](https://youtu.be/VSrcC0y0umc)
 - [Build a MERN Stack Resume Builder | React, Node.js, MongoDB, Express | Full-Stack Project](https://youtu.be/q3u_fpkjLk8)
 - [Droply | A dropbox inspired full stack project with NextJS, Postgres, Clerk and ImageKit](https://youtu.be/4NWgSTZNdn0)
 - [Let's build Google Drive of the future!! Next.js Cloudinary](https://youtu.be/v5GE4OUNwXs)
