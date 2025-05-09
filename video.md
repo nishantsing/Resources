@@ -192,6 +192,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [Create a GTA 6 Website with React.js | Full Tutorial for Beginners](https://youtu.be/tccIAsqFgG0)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [How I Recreated TanStack Router From Scratch](https://youtu.be/b7uUWoS1Zro)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
