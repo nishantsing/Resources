@@ -5,6 +5,7 @@
 - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
 - [AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
 - [Best Frameworks To Learn For Building AI Agents And Agentic AI](https://youtu.be/YoqH1XbeC10)
+- [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
       - [Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)](https://youtu.be/zGkVKix_CRU)
@@ -368,6 +369,9 @@
 
 ## Real Time Communication
 - [Long polling, server sent Events and Web Sockets | Real time communication jargons in Hindi](https://youtu.be/_CCyMWSZNU4)
+  
+## Screen Recorder App
+- [Build and Deploy a Full Stack Screen Recording & Video Sharing Platform | Next.js, Better Auth](https://youtu.be/honnJp7-cCU)
 
 #### Python
 - [Python Full Course for Beginners [2025]](https://youtu.be/K5KVEU3aaeQ)
@@ -408,6 +412,11 @@
 
 ## Devops
 - [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
+- [Jenkins for Beginners](https://youtu.be/1LE1llhafOE)
+
+#### Github Actions(CI/ CD Automation similar to Jenkins)
+- [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=LEARNNOWPLANS)
+
 
 ## System Design
 - [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
@@ -420,6 +429,7 @@
 - [I built a web scraper to find the BIGGEST deals to flip on Amazon $$$](https://youtu.be/2hSC2HaPJDA)
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
+- [How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents](https://youtu.be/6DXuadyaJ4g)
 
 ## Web3
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)
@@ -527,6 +537,7 @@
 
 ## Udemy / Courses
 1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - best to buy
+1. Complete Agentic AI Bootcamp With LangGraph And LangChain
 1. AI Engineering Bootcamp: Build, Train and Deploy Models with AWS SageMaker
 1. GitHub Actions - The Complete Guide
 1. JavaScript The Advanced Concepts
