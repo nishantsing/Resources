@@ -223,6 +223,7 @@
 
 #### Nextjs
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
+- [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build AI-Powered Apps with Next.js: Real-World LLM Integration | iJS](https://youtu.be/gTsnsfKB-XM)
 
@@ -579,6 +580,7 @@
 - [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
 - [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
+- [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
