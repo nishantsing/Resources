@@ -588,6 +588,9 @@
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
+#### AI Online learning platform
+- [Build & Deploy an AI Online Learning Platform Using NextJs, React, Clerk, Neon, Drizzle ORM](https://youtu.be/utInDVvTbWg)
+
 #### SAAS Webinar - AI Sales Agent
 - [SaaS Webinar Platform With AI Sales Agents - Nextjs 15, Vapi AI, Hostinger, Clerk, Stream, Neon](https://youtu.be/ZVJlD2-qOQE)
 
