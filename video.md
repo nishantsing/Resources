@@ -536,6 +536,9 @@
 - [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
+## Low / No Code
+- [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
+
 ## Udemy / Courses
 1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - best to buy
 1. Complete Agentic AI Bootcamp With LangGraph And LangChain
