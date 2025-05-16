@@ -481,6 +481,7 @@
 - [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
 
 ## Production
+- [Build a Production-Ready MERN Stack Project | URL Shortener](https://youtu.be/ENmBjeLImt4)
 - [Must Know PRODUCTION - PRACTICES for every Developers 🔥| Coder BB | Node JS](https://youtu.be/OVp16VmkFxQ)
 
 
