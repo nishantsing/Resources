@@ -363,6 +363,12 @@
 ## Home Automation
 - [home automation](https://youtu.be/k02P5nghmfs)
 
+## VSCode Shortcuts
+- [63 VSCode Keyboard Shortcuts I Use Daily](https://youtu.be/AvJmpPFoZTg)
+
+## Vite
+- [Vite Crash Course – Frontend Build Tool](https://youtu.be/do62-z3z6FM)
+
 ## Chat App
 - [Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript, Open AI, Stream & Neon Database](https://youtu.be/VR3p7almo_c)
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
