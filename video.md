@@ -246,6 +246,7 @@
 
 
 #### MERN Stack
+- [MERN Stack Tutorial for Beginners - Deployment Included](https://youtu.be/Ea9rrRj9e0Y)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [MERN Stack Project: Video Calling Realtime Chat App & Social App](https://youtu.be/ZuwigEmwsTM)
 #### PERN Stack
