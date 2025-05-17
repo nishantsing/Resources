@@ -1,5 +1,6 @@
 ## AI
 - [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
+- [How I built an AI Teacher with Vector Databases and ChatGPT](https://www.youtube.com/watch?v=Z3uWleYwOQA&list=PLMCXHnjXnTnt-aA0yHoa6QcVdQ0Mu3g9j&index=1&pp=iAQB)
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
@@ -506,6 +507,7 @@
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
 ## Hacking
+- [Meet Bjorn, the Easy to Build Hacking Tool!](https://youtu.be/1rKBnZx243o)
 - [Session Hijacking: How Cookies Can Become Your Worst Enemy](https://youtu.be/fZyNS-9CF4s)
 - [You're going to get Hacked in 2025](https://youtu.be/CxTMHw-M0Yg)
 - [Hacker's Roadmap 2025 (how to get started in IT)](https://youtu.be/5xWnmUEi1Qw)
@@ -538,6 +540,7 @@
 
 ## Stock Market
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
+- [Stock Market Course in Hindi 2025 (Absolutely FREE ✅) | Investing for Beginners](https://youtu.be/uzJFWYbYfIc)
 
 ## Random
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
