@@ -501,6 +501,7 @@
 
 ## OS
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
+- [37 Linux Commands you NEED to Know](https://youtu.be/6P-vjgPx9ww)
 - [They built an OS in JS](https://youtu.be/EeonWxtPM_4)
 
 ## GSOC
