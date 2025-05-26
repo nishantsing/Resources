@@ -194,6 +194,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
 - [Create a GTA 6 Website with React.js | Full Tutorial for Beginners](https://youtu.be/tccIAsqFgG0)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [How I Recreated TanStack Router From Scratch](https://youtu.be/b7uUWoS1Zro)
@@ -339,6 +340,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [Build a Full Stack Mobile Application with React Native & Expo - Beginner Friendly](https://youtu.be/vk13GJi4Vd0)
 - [The easiest way to build apps... Seriously.](https://youtu.be/qT1wWUCodC8)
 - [Complete React Native Tutorial #1 - Introduction & Setup (Expo)](https://youtu.be/J2j1yk-34OY)
 - [MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js](https://youtu.be/o3IqOrXtxm8)
