@@ -1,3 +1,7 @@
+## Resume
+- [Worst resume mistakes that will end your Interview chances](https://youtu.be/AM_PIK6UkEY)
+
+
 ## AI
 - [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
 - [How I built an AI Teacher with Vector Databases and ChatGPT](https://www.youtube.com/watch?v=Z3uWleYwOQA&list=PLMCXHnjXnTnt-aA0yHoa6QcVdQ0Mu3g9j&index=1&pp=iAQB)
