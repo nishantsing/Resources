@@ -174,7 +174,7 @@
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
 
 #### Senior devs
-
+- [How To Handle Internationalization Like A Senior Dev](https://youtu.be/VbZVx13b2oY)
 - [How To Use Libraries Like A Senior Dev](https://youtu.be/_aqtgF1xM-o)
 - [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
