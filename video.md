@@ -290,6 +290,10 @@
   - Appwrite
       - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
    
+
+###### Build Saas
+- [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
+   
 #### Reactjs
   - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
   - [Build and Deploy a Full Stack React Admin Dashboard for a Travel Agency | React Router v7](https://youtu.be/xZ1ba-RLrjo)
