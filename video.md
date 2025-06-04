@@ -535,6 +535,7 @@
 
 #### TypeScript
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
+- [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
 
 #### JS
 - [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
@@ -609,6 +610,9 @@
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
+
+#### AI Career Coach
+- [Build & Deploy AI Career Coach Agent | Full Stack Next.js App with React, Clerk, Neon, Inngest](https://youtu.be/p3H3FmeyKUM)
 
 #### AI Online learning platform
 - [Build & Deploy an AI Online Learning Platform Using NextJs, React, Clerk, Neon, Drizzle ORM](https://youtu.be/utInDVvTbWg)
