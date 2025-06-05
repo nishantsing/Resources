@@ -103,6 +103,9 @@
 
 - [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
 
+## A to Z Web Development Beginner
+- [How to Create Anything With AI — Beginner’s Guide to AI Development](https://youtu.be/fx-nD4V80fU)
+
 ##### Git and Github
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
   
@@ -118,6 +121,7 @@
 - [Python Full Course for Beginners 2025](https://youtu.be/K5KVEU3aaeQ)
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
 - [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
+- [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 
 ## JS
 
@@ -247,6 +251,7 @@
 
 ## FullStack
 
+- [Full Stack AI Agent course with inngest and Gemini](https://youtu.be/OtJV9SCyfuE)
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
 - [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://youtu.be/OAyQ3Wyyzfg)
 
@@ -561,6 +566,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
 ## Low / No Code
+- [How To Make A No Code Website - Wix](https://youtu.be/Tddp13RINEM)
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
 
 ## Udemy / Courses
