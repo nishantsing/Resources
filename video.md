@@ -510,6 +510,7 @@
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
 
 ## OS
+- [Linux 101 Crash Course For Beginners: Learn Linux Fundamentals!](https://youtu.be/w9Zz_myULjc)
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 - [37 Linux Commands you NEED to Know](https://youtu.be/6P-vjgPx9ww)
 - [They built an OS in JS](https://youtu.be/EeonWxtPM_4)
