@@ -13,6 +13,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [Python Advanced AI Agent Tutorial - LangGraph, LangChain, Firecrawl & More!](https://youtu.be/xekw62yQu14)
       - [Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)](https://youtu.be/zGkVKix_CRU)
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
       - [Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend](https://youtu.be/Ew7fOQpkKBw)
@@ -64,6 +65,9 @@
   - Transformer.js
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
       - [Vision Transformer from Scratch Tutorial](https://youtu.be/4XgDdxpXHEQ)
+   
+  - Assistant
+      - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
       
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
@@ -79,6 +83,7 @@
 
 
 ## MCP Server
+- [Build MCP Servers With Tools From Scratch With Langchain](https://youtu.be/ASRCJK2aWk0)
 - [Built a Stock Trading Bot Using MCP Servers + Claude AI](https://youtu.be/1iJ34tTjwwo)
 - [I Created INSANE AI Agents with MCP Server](https://youtu.be/Q50jSglX0hA)
 - [All You Need To Know About Model Context Protocol(MCP) - 1](https://youtu.be/-UQ6OZywZ2I)
@@ -128,7 +133,7 @@
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 
 ## JS
-
+- [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
 - [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
 - [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
@@ -182,6 +187,7 @@
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
 
 #### Senior devs
+- [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
 - [How To Handle Internationalization Like A Senior Dev](https://youtu.be/VbZVx13b2oY)
 - [How To Use Libraries Like A Senior Dev](https://youtu.be/_aqtgF1xM-o)
 - [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
@@ -357,6 +363,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [Build a Full Stack Mobile App with React Native & Expo - React Native Tutorial](https://youtu.be/fLIl6jypzkI)
 - [Build a Full Stack Mobile Application with React Native & Expo - Beginner Friendly](https://youtu.be/vk13GJi4Vd0)
 - [The easiest way to build apps... Seriously.](https://youtu.be/qT1wWUCodC8)
 - [Complete React Native Tutorial #1 - Introduction & Setup (Expo)](https://youtu.be/J2j1yk-34OY)
@@ -563,6 +570,9 @@
 ## Stock Market
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
 - [Stock Market Course in Hindi 2025 (Absolutely FREE ✅) | Investing for Beginners](https://youtu.be/uzJFWYbYfIc)
+
+## AI Products
+- [How I Made a Viral Ad in 2 Minutes With AI! | Topview.Ai](https://youtu.be/ZF1MqYxfXSw)
 
 ## Random
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
