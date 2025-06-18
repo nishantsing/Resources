@@ -70,6 +70,10 @@
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
  - [Run ChatGPT on Your Computer - WebLLM Explained](https://youtu.be/xEUbfrDvhSs)
 
+
+## LLM's 
+- [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
+
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 
