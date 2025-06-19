@@ -632,6 +632,9 @@
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
+#### AI Medical agent
+- [Build & Deploy AI Medical Voice Agent with Next.js | React, TypeScript, AssemblyAI | HealthCare](https://youtu.be/zjwj21wzs4U)
+
 #### AI Career Coach
 - [Build & Deploy AI Career Coach Agent | Full Stack Next.js App with React, Clerk, Neon, Inngest](https://youtu.be/p3H3FmeyKUM)
 
