@@ -13,6 +13,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [What are AI Agents. Let's build one](https://youtu.be/qsO5jVrzoas)
       - [Python Advanced AI Agent Tutorial - LangGraph, LangChain, Firecrawl & More!](https://youtu.be/xekw62yQu14)
       - [Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)](https://youtu.be/zGkVKix_CRU)
       - [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://youtu.be/QmUsG_3wHPg)
@@ -104,6 +105,7 @@
 
 ## Speech recognition
 - [Automatic speech recognition using Whisper in NextJs](https://youtu.be/bjgaDZrbYN0)
+- [Make Your Website Talk! I gave my blog audio with AI voice ](https://youtu.be/bfS98Ku-Suw)
 
 ## Object Detection
 - [Build Object Detection Using Free Open-source AI Models](https://youtu.be/1YrMsBiTEBo)
