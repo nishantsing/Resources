@@ -53,6 +53,8 @@
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
   - LangGraph
+ 
+      - [Agentic AI With Langgraph And MCP Crash Course-Part 1](https://youtu.be/dIb-DujRNEo)
       - [Build Advanced AI Agents Quickly: LangGraph Studio Tutorial](https://youtu.be/8kuT80PTaGI)
    
   - Astra DB
