@@ -55,6 +55,7 @@
   - LangGraph
  
       - [Agentic AI With Langgraph And MCP Crash Course-Part 1](https://youtu.be/dIb-DujRNEo)
+      - [Projects You Should Build For Gen AI And Agentic AI Roles](https://youtu.be/abppwF3MCG0)
       - [Build Advanced AI Agents Quickly: LangGraph Studio Tutorial](https://youtu.be/8kuT80PTaGI)
    
   - Astra DB
