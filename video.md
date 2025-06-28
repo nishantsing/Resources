@@ -40,6 +40,7 @@
   
   - Ollama
       - [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://youtu.be/UtSSMs6ObqY)
+      - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
       - [2 Hours to build a Star Wars AI RAGbot! (Super Simple!!)](https://youtu.be/1URfAeIRWm0)
