@@ -96,6 +96,7 @@
 - [All You Need To Know About Model Context Protocol(MCP) - 1](https://youtu.be/-UQ6OZywZ2I)
 - [Build AI Assistant With MCP Servers And Tools Using LangChain And Groq - 2](https://youtu.be/BG4F3b5QpjM)
 - [Live Build Agentic AI Chatbot Using LangGraph - 3](https://youtu.be/HCSPIH3I-vc)
+- [Day3 - End to End Agentic AI Project](https://youtu.be/TmLkR2qil2U)
 - [Build Anything With a CUSTOM MCP Server - Python Tutorial](https://youtu.be/-8k9lGpGQ6g)
 
   
