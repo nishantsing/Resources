@@ -142,6 +142,7 @@
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 
 ## JS
+- [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
 - [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
 - [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
 - [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
