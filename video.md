@@ -642,6 +642,9 @@
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
+#### AI Youtube tool
+- [Build & Deploy AI SaaS App with Next.js, React, Inngest, BrightData | Build YouTube AI Tools](https://youtu.be/6niOEjus2Vg)
+
 #### AI Medical agent
 - [Build & Deploy AI Medical Voice Agent with Next.js | React, TypeScript, AssemblyAI | HealthCare](https://youtu.be/zjwj21wzs4U)
 
