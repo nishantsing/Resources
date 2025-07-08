@@ -14,6 +14,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [What is n8n. Fastest and easiest self deployment too](https://youtu.be/AxxAb99y-c0)
       - [Building Arxiv Paper Finder using Microsoft Autogen](https://youtu.be/3-L4nKkU0vU)
       - [What are AI Agents. Let's build one](https://youtu.be/qsO5jVrzoas)
       - [Python Advanced AI Agent Tutorial - LangGraph, LangChain, Firecrawl & More!](https://youtu.be/xekw62yQu14)
