@@ -591,6 +591,8 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 
 ## Low / No Code
+- [Top 10 No Code Tools of 2025](https://youtu.be/_blJ-YfOW44)
+- [The NEW Way To Build Fully Functional Apps With No Code (mobile & web) | Rocket.new](https://youtu.be/FDaMRtEsPGQ)
 - [How To Make A No Code Website - Wix](https://youtu.be/Tddp13RINEM)
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
 
