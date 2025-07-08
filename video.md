@@ -3,6 +3,7 @@
 
 
 ## AI
+- [LangChain vs LangGraph vs LangSmith](https://youtu.be/vJOGC8QJZJQ)
 - [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
 - [How I built an AI Teacher with Vector Databases and ChatGPT](https://www.youtube.com/watch?v=Z3uWleYwOQA&list=PLMCXHnjXnTnt-aA0yHoa6QcVdQ0Mu3g9j&index=1&pp=iAQB)
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
