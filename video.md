@@ -251,6 +251,7 @@
 #### ShadCN
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 - [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
+- [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
 
 #### Nextjs
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
