@@ -589,6 +589,7 @@
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
 - [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
+- [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
 ## Low / No Code
 - [Top 10 No Code Tools of 2025](https://youtu.be/_blJ-YfOW44)
