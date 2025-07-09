@@ -435,6 +435,7 @@
 - [Learn Go With This ONE Project](https://youtu.be/0ySoir3qBuM)
 
 #### Node
+- [Node quietly became surprisingly good...2025](https://youtu.be/7CHgOWPx2WA)
 - [Build a Real Time Chat App With Node.js And Socket.io](https://youtu.be/rxzOqP9YwmM)
 - [Build Real Time Chat Rooms With Node.js And Socket.io](https://youtu.be/UymGJnv-WsE)
 - [How To Create A Messaging App With Socket.io And React](https://youtu.be/tBr-PybP_9c)
