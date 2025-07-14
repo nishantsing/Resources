@@ -167,6 +167,7 @@
 ## DSA
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
+- [Stop Grinding LeetCode: Learn How to Actually Solve Coding Interviews (FAANG Edition)](https://youtu.be/BhDv-Rv59tg)
 - [Recursion for Technical Interviews – Full Course](https://youtu.be/NIqTEUeBXGE)
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!](https://youtu.be/rZ41y93P2Qo?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -414,6 +415,7 @@
 - [Vite Crash Course – Frontend Build Tool](https://youtu.be/do62-z3z6FM)
 
 ## Chat App
+- [Building a Scalable Realtime app (Node.js, Websockets, Live coding, Assignments)](https://youtu.be/CqWF2fZJ_p0)
 - [Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript, Open AI, Stream & Neon Database](https://youtu.be/VR3p7almo_c)
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
@@ -604,7 +606,8 @@
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
 
 ## Udemy / Courses
-1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - best to buy
+1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - Burak Orkmez - best to buy
+1. [Modern React From The Beginning](https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=REACTNOW) - Travery Media - Latest
 1. Complete Agentic AI Bootcamp With LangGraph And LangChain
 1. AI Engineering Bootcamp: Build, Train and Deploy Models with AWS SageMaker
 1. GitHub Actions - The Complete Guide
