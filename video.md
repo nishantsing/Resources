@@ -93,6 +93,7 @@
 
 
 ## MCP Server
+- [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
 - [MCP Explained | What, Why and How](https://youtu.be/1FqiNnOsrgM)
 - [Build MCP Servers With Tools From Scratch With Langchain](https://youtu.be/ASRCJK2aWk0)
 - [Built a Stock Trading Bot Using MCP Servers + Claude AI](https://youtu.be/1iJ34tTjwwo)
