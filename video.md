@@ -30,6 +30,7 @@
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
    
   - Gen AI
+      - [Generative AI Full Course (2025) | Generative AI Course FREE | Intellipaat](https://youtu.be/JQEwPa5FStM)
       - [GenAI Essentials – Full Course for Beginners](https://youtu.be/nJ25yl34Uqw)
 
   - Gemini
@@ -147,6 +148,7 @@
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 
 ## JS
+- [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
 - [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
 - [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
 - [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
@@ -228,6 +230,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [React.js Setup from Scratch to Production 🔥 | Complete Guide (2025)](https://youtu.be/uCfDsfmYXYA)
 - [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
 - [Create a GTA 6 Website with React.js | Full Tutorial for Beginners](https://youtu.be/tccIAsqFgG0)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
@@ -345,6 +348,7 @@
 
 #### Authentication
 - [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
+- [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
 
 ## Backend
 
@@ -353,6 +357,7 @@
 - [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2](https://youtu.be/_f7h6xQXiLA)
 
 #### Express
+- [End To End Node JS Production Setup 🚀 | Backend | Mongo DB | Express JS | Coder BB](https://youtu.be/txPIJR8lTVI)
 - [Let's Master the PAGINATION 🔥| Api Pagination | React Pagination](https://youtu.be/4NQmYtfR4Q4)
 - [Complete backend series | Launch](https://youtu.be/nhmMx-ys_zQ?list=PLRAV69dS1uWSl459HU5liKv8q4iZ44xBq)
 - [Express JS Full Course](https://youtu.be/nH9E25nkk3I)
