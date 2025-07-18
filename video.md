@@ -657,12 +657,35 @@
 - [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
+- [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
+
+#### JS Masterty Good projects
+
+- [Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://youtu.be/6biMWgD6_JY)
+- [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
+- [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
+- [Build Your First Mobile Application | React Native Real Estate App](https://youtu.be/CzJQEstIiEI)
+- [Build and Deploy a Unique 3D Web Developer Portfolio with React, Three JS & GSAP](https://youtu.be/E-fdPfRxkzQ)
+- [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
+- [Build and Deploy a Full Stack React Admin Dashboard with Tables, Charts and Real Data](https://youtu.be/xZ1ba-RLrjo)
+- [Build a Full Stack Food Delivery App in React Native with Scalable Database Architecture](https://youtu.be/LKrX390fJMw)
+- [Build 3 Full-Stack Web Apps That Will Land You a Dev Job (12-Hour Full Course)](https://youtu.be/8vIDZO_w7lY)
+- [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
+- [Build and Deploy a Full Stack Screen Recording & Video Sharing Platform | Next.js, Better Auth](https://youtu.be/honnJp7-cCU)
+- [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
+- [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
+- [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
+- []()
+
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
 
 #### AI Youtube tool
 - [Build & Deploy AI SaaS App with Next.js, React, Inngest, BrightData | Build YouTube AI Tools](https://youtu.be/6niOEjus2Vg)
+
+#### AI Resume Analyzer
+- [Build an Enterprise Ready AI Powered Applicant Tracking System](https://youtu.be/iYOz165wGkQ)
 
 #### AI Medical agent
 - [Build & Deploy AI Medical Voice Agent with Next.js | React, TypeScript, AssemblyAI | HealthCare](https://youtu.be/zjwj21wzs4U)
