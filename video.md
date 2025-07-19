@@ -203,6 +203,7 @@
 #### Figma
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
+- [Design a Layout for the Figma MCP Server - SideBling](https://youtu.be/RDWBtuUHMc8)
 
 #### Senior devs
 - [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
@@ -710,6 +711,9 @@
 
 #### AI Recruiter
 - [Build & Deploy AI Recruiter Voice Agent Using Next.js, React, Vapi, Supabase | Full Tutorial](https://youtu.be/zcYM_Gqoph4)
+
+#### AI music assistant
+- [Build Your Own AI Music Assistant | Auth0 Next.js 15 Tutorial](https://youtu.be/X3ChIZDCRgA)
 
 #### AI short video geneartor
 - [Build AI YouTube Shorts Video Generator with Next.js, React, Tailwind CSS, Convex](https://youtu.be/uBgFPmieR6M)
