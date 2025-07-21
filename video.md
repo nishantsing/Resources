@@ -44,6 +44,7 @@
       - [How to build a PDF summarizer using AI - React JS Next.js](https://youtu.be/OIYevBOSMxY)
   
   - Ollama
+      - [The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial](https://youtu.be/GOgfQxDPaDw)
       - [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://youtu.be/UtSSMs6ObqY)
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
