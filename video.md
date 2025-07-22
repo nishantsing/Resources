@@ -259,6 +259,7 @@
 
 
 #### ShadCN
+- [Shadcn Isn’t Just a Library Anymore… Here’s How to 10x Your UI](https://youtu.be/V8rGgwQ-VJ0)
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 - [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
 - [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
