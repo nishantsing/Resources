@@ -204,7 +204,7 @@
 #### Figma
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
-- [Design a Layout for the Figma MCP Server - SideBling](https://youtu.be/RDWBtuUHMc8)
+- [FULL PRODUCT DESIGN COURSE (FREE) - SideBling](https://youtu.be/g0QzRi9cKC0?list=PL0lNJEnwfVVOtkC5b_2ukwfEuzEpmGevk)
 
 #### Senior devs
 - [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
