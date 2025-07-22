@@ -652,6 +652,7 @@
 - [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
 #### YT Projects Playlists 
+- [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0?list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 - [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
 - [Link Shortner React Firebase App - Desi Codes](https://youtu.be/mf0fz3K3k48?list=PLmA3URVkjqnm7n31fUF7VDhWXjeEaZK2l)
