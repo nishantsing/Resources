@@ -524,6 +524,7 @@
 
 ## Debugging
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
+- [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
 
 ## Networking
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
