@@ -14,6 +14,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [Agentic AI With Autogen Crash Course](https://youtu.be/yDpV_jgO93c)
       - [Build AI agents with Cloud Run and Firebase Genkit](https://youtu.be/CfmG32Jvme8)
       - [What is n8n. Fastest and easiest self deployment too](https://youtu.be/AxxAb99y-c0)
       - [Building Arxiv Paper Finder using Microsoft Autogen](https://youtu.be/3-L4nKkU0vU)
@@ -95,6 +96,7 @@
 
 
 ## MCP Server
+- [Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases & More)](https://youtu.be/j5f2EQf5hkw)
 - [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
 - [MCP Explained | What, Why and How](https://youtu.be/1FqiNnOsrgM)
 - [Build MCP Servers With Tools From Scratch With Langchain](https://youtu.be/ASRCJK2aWk0)
@@ -157,6 +159,7 @@
 - [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
+- [JS Array Challenges](https://youtu.be/Pbl3gZj54sM)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
@@ -390,6 +393,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [React Native Bootcamp in 30 HOURS for FREE](https://youtu.be/q3HE1dFiJBI)
 - [Build a Full Stack Mobile App with React Native & Expo - React Native Tutorial](https://youtu.be/fLIl6jypzkI)
 - [Build a Full Stack Mobile Application with React Native & Expo - Beginner Friendly](https://youtu.be/vk13GJi4Vd0)
 - [The easiest way to build apps... Seriously.](https://youtu.be/qT1wWUCodC8)
