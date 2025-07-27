@@ -16,6 +16,7 @@
   - AI Agents
       - [Agentic AI With Autogen Crash Course](https://youtu.be/yDpV_jgO93c)
       - [Build AI agents with Cloud Run and Firebase Genkit](https://youtu.be/CfmG32Jvme8)
+      - [The Fastest Way to Build AI Agents With Your Data (MindsDB Walkthrough)](https://youtu.be/MX3OKpnsoLM)
       - [What is n8n. Fastest and easiest self deployment too](https://youtu.be/AxxAb99y-c0)
       - [Building Arxiv Paper Finder using Microsoft Autogen](https://youtu.be/3-L4nKkU0vU)
       - [What are AI Agents. Let's build one](https://youtu.be/qsO5jVrzoas)
