@@ -182,6 +182,11 @@
 - [Data Structures and Algorithms (DSA) in Java 2024](https://youtu.be/4_HOnhB64Dg)
 - [Data Structures and Algorithms Crash Course](https://youtu.be/Ndvm7Ge4pic)
 
+## Leetcode practice
+
+- [Leetcode is not scary, it's actually really fun](https://youtu.be/igyt_dODrxA)
+- [INCREASING THE DIFFICULTY | Leetcode Hash and Maps](https://youtu.be/YRTwK0-B-Yc)
+
 ## System Design
 
 #### Caleb
