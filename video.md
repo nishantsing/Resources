@@ -161,6 +161,9 @@
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
 - [JS Array Challenges](https://youtu.be/Pbl3gZj54sM)
+- 
+## Useful Github Repos
+- [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
