@@ -597,6 +597,9 @@
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
 
+#### Validators
+- [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
+
 #### JS
 - [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
 - [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
