@@ -604,6 +604,9 @@
 - [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
 - [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
 
+#### JS New Features
+- [JS 2025 just dropped with amazing features](https://youtu.be/STA2Pr5l_z0)
+
 #### Flutter
 - [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
 
