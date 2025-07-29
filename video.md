@@ -28,6 +28,9 @@
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
       - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
    
+  - Convex
+      - [Convex is changing backend](https://youtu.be/BjyBtL1WWmg)
+   
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
    
