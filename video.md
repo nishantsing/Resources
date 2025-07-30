@@ -273,6 +273,10 @@
 #### React Admin
 - [React Admin Crash Course 2025](https://youtu.be/PyaSnpXssks)
 
+#### UI Library
+
+###### SkiperUI
+- [Build Stunning UIs with This New Library | Skiper UI Full Project Tutorial](https://youtu.be/CEdGKeo85bk)
 
 #### ShadCN
 - [Shadcn Isn’t Just a Library Anymore… Here’s How to 10x Your UI](https://youtu.be/V8rGgwQ-VJ0)
