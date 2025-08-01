@@ -790,6 +790,7 @@
 
 #### AI Trip Planner
 - [Full-Stack AI Trip Planner: React, Gemini AI, Firebase & TailwindCSS](https://youtu.be/f_7grfh9TxU)
+- [✈️ Build & Deploy Full Stack AI Trip Planner NextJs App Using React, Typescript, Arcjet, Convex](https://youtu.be/sXRDL-EPtrM)
 
 #### AI Email Template Builder
 - [Build an AI Email Template Builder App with Next.js, React, TailwindCSS & AI | Convex](https://youtu.be/hCSX5zSb3b4)
