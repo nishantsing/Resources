@@ -177,6 +177,7 @@
 ## CSS
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
+- [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
 
 ## DSA
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
@@ -495,6 +496,8 @@
 - [Lets start Microservices Tutorial Series #1](https://youtu.be/QrPvGdpcjXo?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D)
 
 ## Devops
+- [Modern deployment the right way](https://youtu.be/betxwPpX8Bw)
+- [Devops Full Course (2025) | DevOps Course FREE | Intellipaat](https://youtu.be/saWZQr0RMpw)
 - [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
 - [Jenkins for Beginners](https://youtu.be/1LE1llhafOE)
 
@@ -574,6 +577,9 @@
 
 ## Testing
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
+
+## DB
+- [Sync Engines and Local Data](https://youtu.be/1uVR5X7HpI8)
 
 ## OS
 - [Linux 101 Crash Course For Beginners: Learn Linux Fundamentals!](https://youtu.be/w9Zz_myULjc)
