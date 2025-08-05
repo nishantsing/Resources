@@ -184,6 +184,7 @@
 ## DSA
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
+- [Can a Web Developer Solve LeetCode?](https://youtu.be/bUdsiDvYlcc)
 - [Stop Grinding LeetCode: Learn How to Actually Solve Coding Interviews (FAANG Edition)](https://youtu.be/BhDv-Rv59tg)
 - [Recursion for Technical Interviews – Full Course](https://youtu.be/NIqTEUeBXGE)
 - [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
