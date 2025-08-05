@@ -271,6 +271,9 @@
         - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
 
 
+#### TanStack
+- [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
+
 
 #### Three.js
 - [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
@@ -292,6 +295,7 @@
 - [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
 
 #### Nextjs
+- [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 - [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
