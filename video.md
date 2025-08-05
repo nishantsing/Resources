@@ -54,6 +54,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Step By Step Process To Build MultiModal RAG With Langchain(PDF And Images)](https://youtu.be/BV0YUeam4y8)
       - [2 Hours to build a Star Wars AI RAGbot! (Super Simple!!)](https://youtu.be/1URfAeIRWm0)
       - [ADVANCED Python AI Agent Tutorial - Using RAG](https://youtu.be/ul0QsodYct4)
       - [Build a Full RAG Based AI App Including Deployment In Under 20 Minutes](https://youtu.be/C0HwZipOqXI)
@@ -505,6 +506,7 @@
 - [Devops Full Course (2025) | DevOps Course FREE | Intellipaat](https://youtu.be/saWZQr0RMpw)
 - [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
 - [Jenkins for Beginners](https://youtu.be/1LE1llhafOE)
+- [Terraform for Beginners: AWS Infrastructure as Code](https://youtu.be/wAwVOFf0Xq4)
 
 #### Github Actions(CI/ CD Automation similar to Jenkins)
 - [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=LEARNNOWPLANS)
