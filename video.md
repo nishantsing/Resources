@@ -614,6 +614,7 @@
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
 ## Hacking
+- [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
 - [Meet Bjorn, the Easy to Build Hacking Tool!](https://youtu.be/1rKBnZx243o)
 - [Session Hijacking: How Cookies Can Become Your Worst Enemy](https://youtu.be/fZyNS-9CF4s)
 - [You're going to get Hacked in 2025](https://youtu.be/CxTMHw-M0Yg)
