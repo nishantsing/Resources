@@ -156,6 +156,12 @@
 - [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 
+#### Numpy
+- [Learn NumPy in 1 hour! 🔢](https://youtu.be/VXU4LSAQDSc)
+
+#### Pandas
+- [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
+
 ## JS
 - [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
 - [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
@@ -177,6 +183,7 @@
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
 ## CSS
+- [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
@@ -261,6 +268,7 @@
 - [Create a GTA 6 Website with React.js | Full Tutorial for Beginners](https://youtu.be/tccIAsqFgG0)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [How I Recreated TanStack Router From Scratch](https://youtu.be/b7uUWoS1Zro)
+- [Full Stack Web Development Full Course (2025) | Full Stack Web Development Course FREE | Intellipaat](https://youtu.be/mDOrn0jHw3o)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React JS Full Course (20 HOUR All-in-One Tutorial for Beginners) - PART 1!](https://youtu.be/x_x5LkW6IXs?list=PLF8LumSOX3y9imEmM45TWnKK4ljRxOXO9)
 - [THE BIGGEST REACT.JS COURSE ON THE INTERNET  PART 1](https://youtu.be/qnwFpjIqsrA)
@@ -382,6 +390,7 @@
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
 
 #### Authentication
+- [8 Reasons To Try Better Auth](https://youtu.be/_OApmLmex14)
 - [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
 - [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
 
