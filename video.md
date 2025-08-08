@@ -430,6 +430,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
 - [React Native Bootcamp in 30 HOURS for FREE](https://youtu.be/q3HE1dFiJBI)
 - [Build a Full Stack Mobile App with React Native & Expo - React Native Tutorial](https://youtu.be/fLIl6jypzkI)
 - [Build a Full Stack Mobile Application with React Native & Expo - Beginner Friendly](https://youtu.be/vk13GJi4Vd0)
@@ -490,6 +491,7 @@
 - [Learn Go With This ONE Project](https://youtu.be/0ySoir3qBuM)
 
 #### Node
+- [npm vs Yarn vs pnpm vs Bun – Which Package Manager Should You Use in 2025?](https://youtu.be/cKIR9thCZhA)
 - [Node quietly became surprisingly good...2025](https://youtu.be/7CHgOWPx2WA)
 - [Build a Real Time Chat App With Node.js And Socket.io](https://youtu.be/rxzOqP9YwmM)
 - [Build Real Time Chat Rooms With Node.js And Socket.io](https://youtu.be/UymGJnv-WsE)
@@ -735,7 +737,7 @@
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
-- []()
+
 
 
 #### AI Project maker
