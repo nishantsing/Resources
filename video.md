@@ -306,6 +306,7 @@
 
 #### Nextjs
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
+- [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-2]](https://youtu.be/36VLPVEn4Ew)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 - [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
