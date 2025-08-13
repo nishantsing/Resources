@@ -212,6 +212,8 @@
 
 ## System Design
 
+- [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
+
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
 - [Introduction to System Design - MVC and Three-Tier Architecture](https://youtu.be/0e7yQ43bUtg)
