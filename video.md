@@ -617,6 +617,7 @@
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
 ## Hacking
+- [Hacking AI is TOO EASY (this should be illegal)](https://youtu.be/Qvx2sVgQ-u0)
 - [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
 - [Meet Bjorn, the Easy to Build Hacking Tool!](https://youtu.be/1rKBnZx243o)
 - [Session Hijacking: How Cookies Can Become Your Worst Enemy](https://youtu.be/fZyNS-9CF4s)
@@ -744,6 +745,8 @@
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
 
 
+#### AI Mock Interview
+- [Build & Deploy Full Stack AI Mock Interview NextJs App using React, n8n, Convex, ArcJet, Akool](https://youtu.be/b_4Z_QpEd2Q)
 
 #### AI Project maker
 - [React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course](https://youtu.be/SF4K1kDmHwU)
