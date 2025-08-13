@@ -670,6 +670,7 @@
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
 ## Low / No Code
+- [Advanced Vibe Coding Tutorial w/ Warp (Build & Deploy Apps)](https://youtu.be/Pxp9mB51U-A)
 - [Website Builder for Agencies – Full Walkthrough for 2025](https://youtu.be/qgUEa1B1tX0)
 - [Top 10 No Code Tools of 2025](https://youtu.be/_blJ-YfOW44)
 - [The NEW Way To Build Fully Functional Apps With No Code (mobile & web) | Rocket.new](https://youtu.be/FDaMRtEsPGQ)
