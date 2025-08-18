@@ -164,6 +164,7 @@
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
 ## JS
+- [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
 - [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
 - [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
 - [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
