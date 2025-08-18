@@ -210,6 +210,7 @@
 
 - [Leetcode is not scary, it's actually really fun](https://youtu.be/igyt_dODrxA)
 - [INCREASING THE DIFFICULTY | Leetcode Hash and Maps](https://youtu.be/YRTwK0-B-Yc)
+- [Master LeetCode QUICKLY | Hash Maps, Sets , Sliding Windows](https://youtu.be/ZqJxXDJfJ-o)
 
 ## System Design
 
@@ -309,6 +310,7 @@
 
 #### Nextjs
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
+- [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-2]](https://youtu.be/2-947UhLRW4)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
 - [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
@@ -328,6 +330,7 @@
 
 ## FullStack
 
+- [Hiding API key - Minimum full stack AI application with streams in NextJS](https://youtu.be/Ecygj87WhZs)
 - [Full Stack AI Agent course with inngest and Gemini](https://youtu.be/OtJV9SCyfuE)
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
 - [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://youtu.be/OAyQ3Wyyzfg)
@@ -471,6 +474,8 @@
 - [Vite Crash Course – Frontend Build Tool](https://youtu.be/do62-z3z6FM)
 
 ## Chat App
+- [Can an AI Chatapp be complex ?](https://youtu.be/DkSRe5bUEDM)
+- [Building a complex AI chat app with Agents and Stream](https://youtu.be/4Uo2cYcxvJs)
 - [Building a Scalable Realtime app (Node.js, Websockets, Live coding, Assignments)](https://youtu.be/CqWF2fZJ_p0)
 - [Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript, Open AI, Stream & Neon Database](https://youtu.be/VR3p7almo_c)
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
@@ -517,6 +522,9 @@
 - [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
 
 ## Microservices
+
+#### Bundlers
+- [Webpack vs Vite vs Parcel vs esbuild – Best Bundler for Beginners](https://youtu.be/i9Xq8aExZr4)
 
 #### YT Playlist 
 - [Lets start Microservices Tutorial Series #1](https://youtu.be/QrPvGdpcjXo?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D)
@@ -586,6 +594,7 @@
 
 ## Deployment
 
+- [Chai aur Caddy | learn to host your website on VPS](https://youtu.be/dzxmylOhLi8)
 - [Host your own shadcn on Cloudflare Workers + Hono 🔥](https://youtu.be/PuRIkNRI9HE)
 - [The Only Docker Tutorial You Need To Get Started](https://youtu.be/DQdB7wFEygo)
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
