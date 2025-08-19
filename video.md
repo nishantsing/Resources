@@ -595,6 +595,7 @@
 ## Deployment
 
 - [Chai aur Caddy | learn to host your website on VPS](https://youtu.be/dzxmylOhLi8)
+- [Cloudflare containers are magic](https://youtu.be/YdeZMkCElNY)
 - [Host your own shadcn on Cloudflare Workers + Hono 🔥](https://youtu.be/PuRIkNRI9HE)
 - [The Only Docker Tutorial You Need To Get Started](https://youtu.be/DQdB7wFEygo)
 - [Deploy - A series on deployment of code](https://youtu.be/YLubOQlikBE?list=PLRAV69dS1uWSNLlI_I2xSDdghk3Y0zGml)
