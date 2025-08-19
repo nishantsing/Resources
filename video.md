@@ -3,6 +3,7 @@
 
 
 ## AI
+- [Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources](https://youtu.be/s3KnSb9b4Pk)
 - [LangChain vs LangGraph vs LangSmith](https://youtu.be/vJOGC8QJZJQ)
 - [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
 - [How I built an AI Teacher with Vector Databases and ChatGPT](https://www.youtube.com/watch?v=Z3uWleYwOQA&list=PLMCXHnjXnTnt-aA0yHoa6QcVdQ0Mu3g9j&index=1&pp=iAQB)
@@ -682,6 +683,8 @@
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
 ## Low / No Code
+
+- [Lovable FULL Tutorial - For COMPLETE Beginners (No Experience Needed)](https://youtu.be/YLjopoEnPi8)
 - [Advanced Vibe Coding Tutorial w/ Warp (Build & Deploy Apps)](https://youtu.be/Pxp9mB51U-A)
 - [Website Builder for Agencies – Full Walkthrough for 2025](https://youtu.be/qgUEa1B1tX0)
 - [Top 10 No Code Tools of 2025](https://youtu.be/_blJ-YfOW44)
