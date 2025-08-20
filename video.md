@@ -137,6 +137,9 @@
 
 - [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
 
+## Tensorflow
+- [TensorFlow Crash Course for Beginners (2025) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
+
 ## A to Z Web Development Beginner
 - [How to Create Anything With AI — Beginner’s Guide to AI Development](https://youtu.be/fx-nD4V80fU)
 
