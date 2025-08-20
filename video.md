@@ -355,6 +355,7 @@
   - [The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set)](https://youtu.be/_1P0Uqk50Ps)
   - [How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)](https://youtu.be/cy6EAp4iNN4)
   - [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
+  - [FastAPI Setup in VS Code](https://youtu.be/Rf9jbnzt2UU)
 
     
 #### Django
