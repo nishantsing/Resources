@@ -219,6 +219,7 @@
 
 ## System Design
 
+- [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
 
 #### Caleb
