@@ -684,6 +684,7 @@
 
 ## Low / No Code
 
+- [Cursor Crash Course & AI Coding For Beginners](https://youtu.be/5zR1ZE5aqho)
 - [Lovable FULL Tutorial - For COMPLETE Beginners (No Experience Needed)](https://youtu.be/YLjopoEnPi8)
 - [Advanced Vibe Coding Tutorial w/ Warp (Build & Deploy Apps)](https://youtu.be/Pxp9mB51U-A)
 - [Website Builder for Agencies – Full Walkthrough for 2025](https://youtu.be/qgUEa1B1tX0)
@@ -758,6 +759,8 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
 
+#### AI SaaS Interview
+- [How to Build the Ultimate AI SaaS Project - AI Interviews, Resume Reviews, Technical Questions](https://youtu.be/xrrtYNr7ZEw)
 
 #### AI Mock Interview
 - [Build & Deploy Full Stack AI Mock Interview NextJs App using React, n8n, Convex, ArcJet, Akool](https://youtu.be/b_4Z_QpEd2Q)
