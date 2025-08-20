@@ -891,6 +891,7 @@
 - [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
+- [Advanced Slack Clone: Video Calling and Realtime Messages with React & Node.js](https://youtu.be/qsFdE4okEfw)
 - [Build a Twitter Clone with React Native - Full React Native Tutorial](https://youtu.be/uBdpV9GGlzo)
 - [Build & Deploy a Perplexity AI Clone with Next.js, React,Tailwind Css Inngest | Full Stack AI App](https://youtu.be/VSrcC0y0umc)
 - [Build a MERN Stack Resume Builder | React, Node.js, MongoDB, Express | Full-Stack Project](https://youtu.be/q3u_fpkjLk8)
