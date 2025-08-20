@@ -193,6 +193,7 @@
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
+- [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 
 ## DSA
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
