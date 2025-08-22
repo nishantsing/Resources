@@ -67,7 +67,7 @@
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
   - LangGraph
- 
+      - [Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial](https://youtu.be/9tANiA0LKn4)
       - [Agentic AI With Langgraph And MCP Crash Course-Part 1](https://youtu.be/dIb-DujRNEo)
       - [Building Agents And Multi Agents With LangGraph- Part 3](https://youtu.be/E0fQWFNqGgg)
       - [Projects You Should Build For Gen AI And Agentic AI Roles](https://youtu.be/abppwF3MCG0)
@@ -168,6 +168,7 @@
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
 ## JS
+- [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
 - [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
 - [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
 - [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
@@ -896,6 +897,7 @@
 - [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
+- [Build and Deploy Nike’s $100B Full Stack eCommerce App | Next.js, PostgreSQL, Tailwind, Devin AI](https://youtu.be/fZdTYswuZjU)
 - [Advanced Slack Clone: Video Calling and Realtime Messages with React & Node.js](https://youtu.be/qsFdE4okEfw)
 - [Build a Twitter Clone with React Native - Full React Native Tutorial](https://youtu.be/uBdpV9GGlzo)
 - [Build & Deploy a Perplexity AI Clone with Next.js, React,Tailwind Css Inngest | Full Stack AI App](https://youtu.be/VSrcC0y0umc)
