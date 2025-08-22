@@ -3,6 +3,7 @@
 
 
 ## AI
+- [Try This Weekend AI Side Project!](https://youtu.be/LSko9afQJg8)
 - [Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources](https://youtu.be/s3KnSb9b4Pk)
 - [LangChain vs LangGraph vs LangSmith](https://youtu.be/vJOGC8QJZJQ)
 - [How I'd Learn ML/AI FAST If I Had to Start Over](https://youtu.be/8xUher8-5_Q)
