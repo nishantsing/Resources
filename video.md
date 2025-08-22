@@ -653,7 +653,9 @@
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 
 #### TypeScript
+
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
+- [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
 
 #### Validators
