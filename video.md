@@ -69,6 +69,7 @@
    
   - LangGraph
       - [Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial](https://youtu.be/9tANiA0LKn4)
+      - [How to Build an Advanced AI Agent with Search (LangGraph, Python, Bright Data & More)](https://m.youtube.com/watch?v=cUC-hyjpNxk)
       - [Agentic AI With Langgraph And MCP Crash Course-Part 1](https://youtu.be/dIb-DujRNEo)
       - [Building Agents And Multi Agents With LangGraph- Part 3](https://youtu.be/E0fQWFNqGgg)
       - [Projects You Should Build For Gen AI And Agentic AI Roles](https://youtu.be/abppwF3MCG0)
