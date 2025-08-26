@@ -274,6 +274,9 @@
 - [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 
+#### Cookies
+- [HTTP request and response for cookies](https://youtube.com/watch?v=S7CrMHOoKAs&si=s0mL6vL5lBV62CWU)
+
 #### Astro
 - [Lesson 1 — Introduction to Astro](https://youtu.be/HZ4pCYg9Rws)
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
