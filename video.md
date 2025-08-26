@@ -637,6 +637,9 @@
 ## GSOC
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
+## Arduino
+-[Computer Vision with Arduino Tutorial – 2 Projects](https://m.youtube.com/watch?v=Q5U-b6gRTaY)
+
 ## Hacking
 - [Hacking AI is TOO EASY (this should be illegal)](https://youtu.be/Qvx2sVgQ-u0)
 - [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
