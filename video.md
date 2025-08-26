@@ -100,6 +100,7 @@
 
 ## LLM's 
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
+- [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
 
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
