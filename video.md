@@ -471,6 +471,8 @@
 
 ## Cloud
 
+- [Professional Cloud Architect Certification Course – Pass the Exam!](https://m.youtube.com/watch?v=u43gJJrVa1I)
+
 ## Game Development
 - [Unity 101 Crash Course For Beginners: Start Building Your Own Game!](https://youtu.be/BJt0wsRfUmA)
 - [14 Hours of Python Game Development - from Beginner to Advanced](https://youtu.be/RuTmd4g5K8Q)
