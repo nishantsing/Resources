@@ -305,6 +305,7 @@
 
 #### Three.js
 - [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
+- [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://m.youtube.com/watch?v=tPkJLnDqAKk)
 #### React Animation
 - [Framer Motion Tutorial – Master React Animations (Beginner to Advanced)](https://youtu.be/JALCoY9MQg8)
 
