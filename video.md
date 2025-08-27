@@ -783,6 +783,9 @@
 #### AI SaaS Interview
 - [How to Build the Ultimate AI SaaS Project - AI Interviews, Resume Reviews, Technical Questions](https://youtu.be/xrrtYNr7ZEw)
 
+#### AI Products Ads Generator 
+- [Build & Deploy AI Product Ads Generator | Next.js + React + TypeScript + Firebase + ImageKit ⚡](https://m.youtube.com/watch?v=Jcn44FZYMUQ)
+
 #### AI Mock Interview
 - [Build & Deploy Full Stack AI Mock Interview NextJs App using React, n8n, Convex, ArcJet, Akool](https://youtu.be/b_4Z_QpEd2Q)
 
