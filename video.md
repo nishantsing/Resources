@@ -706,6 +706,7 @@
 
 ## Low / No Code
 
+- [How to Build a Website for Clients](https://m.youtube.com/watch?v=9gMSMW7XYMc)
 - [Cursor Crash Course & AI Coding For Beginners](https://youtu.be/5zR1ZE5aqho)
 - [Lovable FULL Tutorial - For COMPLETE Beginners (No Experience Needed)](https://youtu.be/YLjopoEnPi8)
 - [Advanced Vibe Coding Tutorial w/ Warp (Build & Deploy Apps)](https://youtu.be/Pxp9mB51U-A)
