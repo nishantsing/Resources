@@ -173,6 +173,7 @@
 
 ## JS
 - [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
+- [Build an Animated Website with React + GSAP | Responsive + Free Deployment Guide](https://m.youtube.com/watch?v=NjqjakgPL84&pp=0gcJCRsBo7VqN5tD)
 - [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
 - [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
 - [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
