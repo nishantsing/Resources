@@ -4,6 +4,7 @@
 
 ## AI
 - [AI Course for Developers – Build AI-Powered Apps with React](https://m.youtube.com/watch?v=PtETUYa3i2Q)
+- [Build Your Own AI Personal Assistant – No Code Required!](https://m.youtube.com/watch?v=eBPh8wV5n8o&pp=0gcJCRsBo7VqN5tD)
 - [Try This Weekend AI Side Project!](https://youtu.be/LSko9afQJg8)
 - [Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources](https://youtu.be/s3KnSb9b4Pk)
 - [LangChain vs LangGraph vs LangSmith](https://youtu.be/vJOGC8QJZJQ)
