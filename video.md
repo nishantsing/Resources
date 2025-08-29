@@ -18,6 +18,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [Automated PR Code Reviews with AI](https://m.youtube.com/watch?v=jKLDQbluu_A)
       - [Agentic AI With Autogen Crash Course](https://youtu.be/yDpV_jgO93c)
       - [Build AI agents with Cloud Run and Firebase Genkit](https://youtu.be/CfmG32Jvme8)
       - [The Fastest Way to Build AI Agents With Your Data (MindsDB Walkthrough)](https://youtu.be/MX3OKpnsoLM)
