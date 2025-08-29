@@ -601,6 +601,7 @@
 - [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
+- [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
 
