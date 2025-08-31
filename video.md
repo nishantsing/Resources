@@ -60,6 +60,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Introduction To Undertsanding RAG(Retrieval-Augmented Generation)](https://m.youtube.com/watch?v=fZM3oX4xEyg)
       - [Step By Step Process To Build MultiModal RAG With Langchain(PDF And Images)](https://youtu.be/BV0YUeam4y8)
       - [2 Hours to build a Star Wars AI RAGbot! (Super Simple!!)](https://youtu.be/1URfAeIRWm0)
       - [ADVANCED Python AI Agent Tutorial - Using RAG](https://youtu.be/ul0QsodYct4)
@@ -723,6 +724,7 @@
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
 
 ## Udemy / Courses
+1. [Full stack AI with Python: LLMs, RAG, Agents and LangGraph (Udemy) - Hitesh Choudhary](https://www.udemy.com/course/full-stack-ai-with-python/?couponCode=LAUNCH10)
 1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - Burak Orkmez - best to buy
 1. [Modern React From The Beginning](https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=REACTNOW) - Travery Media - Latest
 1. Complete Agentic AI Bootcamp With LangGraph And LangChain
