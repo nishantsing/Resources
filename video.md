@@ -349,7 +349,7 @@
 - [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
 
 ## FullStack
-
+- [Full Stack Challenge | AI Image Editor with Nextjs & ImageKit](https://m.youtube.com/watch?v=FaEc2rtzGeU)
 - [Hiding API key - Minimum full stack AI application with streams in NextJS](https://youtu.be/Ecygj87WhZs)
 - [Full Stack AI Agent course with inngest and Gemini](https://youtu.be/OtJV9SCyfuE)
 - [The Only Accessibility Video You Will Ever Need](https://youtu.be/2oiBKSjOOFE)
