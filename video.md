@@ -73,6 +73,7 @@
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
   - LangGraph
+      - [Agentic AI Project in LangGraph | Build Loveable Clone](https://m.youtube.com/watch?v=SP-b_G74Nuk&pp=0gcJCRsBo7VqN5tD)
       - [Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial](https://youtu.be/9tANiA0LKn4)
       - [How to Build an Advanced AI Agent with Search (LangGraph, Python, Bright Data & More)](https://m.youtube.com/watch?v=cUC-hyjpNxk)
       - [Agentic AI With Langgraph And MCP Crash Course-Part 1](https://youtu.be/dIb-DujRNEo)
