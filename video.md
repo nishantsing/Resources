@@ -202,6 +202,7 @@
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
 ## CSS
+- [HTML & CSS form tutorial / Frontend Mentor](https://m.youtube.com/watch?v=jJgNgNNHqjk&pp=0gcJCRsBo7VqN5tD)
 - [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
