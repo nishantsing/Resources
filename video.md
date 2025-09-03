@@ -760,6 +760,7 @@
 6. Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL & Prisma
 
 ## Projects
+- [Complete Zomato MERN Project | Reels-Style Video Feed Integration](https://m.youtube.com/watch?v=CQ741Gw9Bz0&pp=0gcJCRsBo7VqN5tD)
 - [4 Programming Projects for Employment in 2025](https://youtu.be/9TDtDCXTtPM)
 - [9 Project Ideas to Build in 2025 | AI, DeFi, Web 3 and Full stack](https://youtu.be/pXJ2qoGU88g)
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
