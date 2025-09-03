@@ -61,6 +61,7 @@
   
   - RAG / Vector
       - [Introduction To Undertsanding RAG(Retrieval-Augmented Generation)](https://m.youtube.com/watch?v=fZM3oX4xEyg)
+      - [2-Build RAG Pipeline From Scratch-Data Ingestion to Vector DB Pipeline-Part 1](https://m.youtube.com/watch?v=MykcjWPJ6T4)
       - [Step By Step Process To Build MultiModal RAG With Langchain(PDF And Images)](https://youtu.be/BV0YUeam4y8)
       - [2 Hours to build a Star Wars AI RAGbot! (Super Simple!!)](https://youtu.be/1URfAeIRWm0)
       - [ADVANCED Python AI Agent Tutorial - Using RAG](https://youtu.be/ul0QsodYct4)
