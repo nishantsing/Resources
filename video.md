@@ -437,6 +437,9 @@
 - [SQLite3 in Node with better-sqlite3](https://youtu.be/IooIXYf0PIo)
 - [Zero to Hero EXPRESS Backend MASTERCLASS in 5 Hours | 2025](https://youtu.be/AR6aUOnd9Co)
 
+#### Hono
+- [Summarize Hacker News with Hono + Cloudflare](https://m.youtube.com/watch?v=Wuo7OOaSgmI)
+
 #### Postman
 - [Api Design Crash Course](https://youtu.be/FPM1v4g1b4s)
 
