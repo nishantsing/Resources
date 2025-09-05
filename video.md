@@ -597,6 +597,7 @@
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
 
 ## Automation
+- [Python Automation Crash Course (2025): Automate Your Life With Python!](https://youtu.be/4AEsblWWdQg)
 - [Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)](https://youtu.be/rBEQL2tC2xY)
 
 ## Cron Job
