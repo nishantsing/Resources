@@ -564,6 +564,7 @@
 - [Lets start Microservices Tutorial Series #1](https://youtu.be/QrPvGdpcjXo?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D)
 
 ## Devops
+- [DevOps Roadmap for Developers Switching to DevOps](https://youtu.be/A8hhDuA9bw0)
 - [Modern deployment the right way](https://youtu.be/betxwPpX8Bw)
 - [Devops Full Course (2025) | DevOps Course FREE | Intellipaat](https://youtu.be/saWZQr0RMpw)
 - [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
@@ -682,6 +683,10 @@
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 
 ## Languages
+
+#### Cpp
+- [C++ Object Oriented Programming Crash Course (1.5 HOURS)](https://youtu.be/zZpLRBHfY3Q)
+
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 
