@@ -614,6 +614,7 @@
 - [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
+- [This Simple Dev Tools Feature Makes Working On Teams Much Easier](https://m.youtube.com/watch?v=Btv_oJFDjuE)
 - [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
