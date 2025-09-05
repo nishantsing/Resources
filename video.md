@@ -18,6 +18,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [The Future Of Coding Is With AI Agents](https://m.youtube.com/watch?v=5AfJ0N3MvpA&pp=0gcJCRsBo7VqN5tD)
       - [Build an AI Coding Agent in Python – Full Course for Beginners](https://m.youtube.com/watch?v=YtHdaXuOAks)
       - [This AI Summarizes Any Public YouTube Video For You](https://m.youtube.com/watch?v=Rm1pCbKDRPw)
       - [Automated PR Code Reviews with AI](https://m.youtube.com/watch?v=jKLDQbluu_A)
