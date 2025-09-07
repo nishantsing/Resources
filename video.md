@@ -56,7 +56,7 @@
   - OctoAI
       - [How to build a PDF summarizer using AI - React JS Next.js](https://youtu.be/OIYevBOSMxY)
   
-  - Ollama
+  - Ollama/ LMStudio / JanAI
       - [The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial](https://youtu.be/GOgfQxDPaDw)
       - [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://youtu.be/UtSSMs6ObqY)
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
@@ -71,7 +71,7 @@
       - [Building An Exciting Stock Market Twitter Sentiment App    Next.js Singlestore AI](https://youtu.be/596u3BsOB2s)
       - [Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI](https://youtu.be/d-VKYF4Zow0)
   
-  - LangChain
+  - LangChain / HuggingFace/ ModelZero
       - [HuggingFace + Langchain | Run 1,000s of FREE AI Models Locally](https://youtu.be/1h6lfzJ0wZw)
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
@@ -113,6 +113,7 @@
 
 ## LLM's 
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
+- [How LLMs Actually Understand Images](https://youtu.be/W1H1DDMWPdg)
 - [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
 
 ## Neural Networks
@@ -736,7 +737,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
-## Low / No Code
+## Low / No Code / Lovable / Bolt
 - [Stop Making Fake Netflix Clones - Here's How to Build a REAL One (Warp Code + Next.js Tutorial)](https://m.youtube.com/watch?v=tjYJyDwIfbw)
 - [How to Build a Website for Clients](https://m.youtube.com/watch?v=9gMSMW7XYMc)
 - [Cursor Crash Course & AI Coding For Beginners](https://youtu.be/5zR1ZE5aqho)
