@@ -100,6 +100,11 @@
       - [Python AI Voice Agent Tutorial - Full Developer Guide (Deepgram, Twilio, Function Calling)](https://youtu.be/hDKBREokidU)
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
+  - n8n
+      - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
+   
+  - zapier
+      - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
       
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
@@ -115,6 +120,8 @@
 
 
 ## MCP Server
+
+- [MCP Protocol Tutorial: Build an MCP Server for Your App (Clerk, Next.js, Prisma)](https://youtu.be/wI6ufTULIj0)
 - [Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases & More)](https://youtu.be/j5f2EQf5hkw)
 - [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
 - [MCP Explained | What, Why and How](https://youtu.be/1FqiNnOsrgM)
@@ -626,6 +633,7 @@
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
 
 #### AWS
+- [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
