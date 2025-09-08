@@ -105,6 +105,9 @@
    
   - zapier
       - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
+   
+  - Agno
+      - [AI Agents Tutorial For Beginners | Agno Tutorial](https://youtu.be/EUey9L9sgzE)
       
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
