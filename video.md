@@ -260,6 +260,7 @@
 - [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://youtu.be/t5WPGMXOtds)
 - [Replication and Sharding - System Design](https://youtu.be/oh8GvLf45t0)
 - [Intro to NoSQL Databases - System Design](https://youtu.be/FRqrZGB8NBs)
+- [API Pagination - Offset and Cursor Pagination Explained - Backend Engineering](https://youtu.be/mvlzhBgGS4s)
 
 - [Stock Trading App System Design Interview | Meta System Design](https://youtu.be/a5rABvMQ53U)
 
