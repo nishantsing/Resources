@@ -248,6 +248,7 @@
 
 - [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
+- [System Design | Kafka vs Inngest](https://youtu.be/VP7GQO_Zab4)
 
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
@@ -722,6 +723,7 @@
 - [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
 
 ## How it works
+- [THIS Is Where the Internet Lives](https://youtu.be/v477fvbj3rk)
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
 - [How does a browser work    Engineering side](https://youtu.be/5rLFYtXHo9s)
 - [How node JS works   Engineering side](https://youtu.be/ooBxSg1Cl1w)
