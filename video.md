@@ -168,6 +168,7 @@
 
 ##### Git and Github
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
+- [Lazygit in a nutshell](https://youtu.be/4mgxvcSbwz0)
   
 ##### Projects
 - [Sentiment Analysis Code Sample](https://youtu.be/4SJv8YxGho4)
@@ -214,6 +215,7 @@
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
 ## CSS
+- [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
 - [Responsive Web Development Complete Guide for Beginners (Project Included)](https://m.youtube.com/watch?v=J_r6hBo9lO4)
 - [HTML & CSS form tutorial / Frontend Mentor](https://m.youtube.com/watch?v=jJgNgNNHqjk&pp=0gcJCRsBo7VqN5tD)
 - [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
@@ -284,6 +286,9 @@
 - [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
 
+## Tech Stack
+- [My Current Tech Stack](https://youtu.be/oIx7ObcfdlU)
+  
 ## Frontend
 
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://youtu.be/0UvA7zvwsmg)
@@ -630,6 +635,7 @@
 - [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
+- [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
 - [This Simple Dev Tools Feature Makes Working On Teams Much Easier](https://m.youtube.com/watch?v=Btv_oJFDjuE)
 - [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
