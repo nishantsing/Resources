@@ -215,9 +215,11 @@
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
 ## CSS
+- [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
 - [Responsive Web Development Complete Guide for Beginners (Project Included)](https://m.youtube.com/watch?v=J_r6hBo9lO4)
 - [HTML & CSS form tutorial / Frontend Mentor](https://m.youtube.com/watch?v=jJgNgNNHqjk&pp=0gcJCRsBo7VqN5tD)
+- [How to set custom error messages for your HTML forms](https://youtu.be/h5qqmE83Tes)
 - [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
@@ -486,6 +488,7 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+- [Build React Native Full Stack App Using Expo, Firebase and AI | AI Pocket Agent](https://youtu.be/TDbsttEkidU)
 - [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
 - [React Native Bootcamp in 30 HOURS for FREE](https://youtu.be/q3HE1dFiJBI)
 - [Build a Full Stack Mobile App with React Native & Expo - React Native Tutorial](https://youtu.be/fLIl6jypzkI)
@@ -511,6 +514,7 @@
 - [Professional Cloud Architect Certification Course – Pass the Exam!](https://m.youtube.com/watch?v=u43gJJrVa1I)
 
 ## Game Development
+- [Godot Game Development for Beginners](https://youtu.be/MiPkcTaRbfQ)
 - [Complete Beginner Tutorial: Code Flappy Bird from scratch](https://m.youtube.com/watch?v=WTYiNvJt6c0)
 - [Unity 101 Crash Course For Beginners: Start Building Your Own Game!](https://youtu.be/BJt0wsRfUmA)
 - [14 Hours of Python Game Development - from Beginner to Advanced](https://youtu.be/RuTmd4g5K8Q)
@@ -752,6 +756,7 @@
 ## Low / No Code / Lovable / Bolt
 - [Stop Making Fake Netflix Clones - Here's How to Build a REAL One (Warp Code + Next.js Tutorial)](https://m.youtube.com/watch?v=tjYJyDwIfbw)
 - [How to Build a Website for Clients](https://m.youtube.com/watch?v=9gMSMW7XYMc)
+- [Website builder for designers : full walkthrough (2025)](https://youtu.be/QExmoUt_1ZU)
 - [Cursor Crash Course & AI Coding For Beginners](https://youtu.be/5zR1ZE5aqho)
 - [Lovable FULL Tutorial - For COMPLETE Beginners (No Experience Needed)](https://youtu.be/YLjopoEnPi8)
 - [Advanced Vibe Coding Tutorial w/ Warp (Build & Deploy Apps)](https://youtu.be/Pxp9mB51U-A)
