@@ -18,6 +18,9 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [Getting Started with AI Agents](https://youtu.be/leWuDQoDaYY)
+      - [Agentic AI Projects | Gen AI Projects](https://youtu.be/p54vr-NyxDc)
+      - [How memory makes AI agents more effective](https://youtu.be/52xTxeqT4ws)
       - [The Future Of Coding Is With AI Agents](https://m.youtube.com/watch?v=5AfJ0N3MvpA&pp=0gcJCRsBo7VqN5tD)
       - [Build an AI Coding Agent in Python – Full Course for Beginners](https://m.youtube.com/watch?v=YtHdaXuOAks)
       - [This AI Summarizes Any Public YouTube Video For You](https://m.youtube.com/watch?v=Rm1pCbKDRPw)
@@ -35,6 +38,7 @@
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
       - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
+  
    
   - Convex
       - [Convex is changing backend](https://youtu.be/BjyBtL1WWmg)
@@ -159,6 +163,8 @@
 ## DS
 
 - [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
+- [Learn Pandas in 1 hour! 🐼](https://youtu.be/VXtjG_GzO7Q)
+- [Python Matplotlib Complete Course 2025 | Basic to Advanced Data Visualization | Career247](https://youtu.be/YZ5ayT6p_VI)
 
 ## Tensorflow
 - [TensorFlow Crash Course for Beginners (2025) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
@@ -214,6 +220,9 @@
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
+## HTML
+- [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
+
 ## CSS
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
@@ -264,8 +273,7 @@
 - [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://youtu.be/t5WPGMXOtds)
 - [Replication and Sharding - System Design](https://youtu.be/oh8GvLf45t0)
 - [Intro to NoSQL Databases - System Design](https://youtu.be/FRqrZGB8NBs)
-- [API Pagination - Offset and Cursor Pagination Explained - Backend Engineering](https://youtu.be/mvlzhBgGS4s)
-
+- [API Design and Architecture - Backend Engineering Intro (1 Hour)](https://youtu.be/XvFmUE-36Kc?list=PL_c9BZzLwBRIHUNeoywVJXViXGEsk6PDr)
 - [Stock Trading App System Design Interview | Meta System Design](https://youtu.be/a5rABvMQ53U)
 
 #### Gaurav sen
@@ -375,6 +383,7 @@
 - [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
 
 ## FullStack
+- [How To Become a Full Stack Developer in 2025 - Full Roadmap](https://youtu.be/Je_KYIM9QJc)
 - [Full Stack Challenge | AI Image Editor with Nextjs & ImageKit](https://m.youtube.com/watch?v=FaEc2rtzGeU)
 - [Hiding API key - Minimum full stack AI application with streams in NextJS](https://youtu.be/Ecygj87WhZs)
 - [Full Stack AI Agent course with inngest and Gemini](https://youtu.be/OtJV9SCyfuE)
@@ -399,7 +408,8 @@
   - [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
   - [FastAPI for Beginners | Learn by Building Project]([https://youtu.be/Rf9jbnzt2UU](https://m.youtube.com/watch?v=Lu8lXXlstvM))
 
-    
+#### PHP
+- [Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners](https://youtu.be/UuknxVdqzb4)
 #### Django
   - [Python + JavaScript - Portfolio Web App Tutorial](https://youtu.be/e-VTui5-hRE)
   - [Python + JavaScript - Full Stack App Tutorial](https://youtu.be/PppslXOR7TA)
@@ -530,6 +540,7 @@
 - [Vite Crash Course – Frontend Build Tool](https://youtu.be/do62-z3z6FM)
 
 ## Chat App
+- [Build and Deploy a Realtime Chat App with React, Node.js, Socket.io](https://youtu.be/bR4b_Io8shE)
 - [Can an AI Chatapp be complex ?](https://youtu.be/DkSRe5bUEDM)
 - [Building a complex AI chat app with Agents and Stream](https://youtu.be/4Uo2cYcxvJs)
 - [Building a Scalable Realtime app (Node.js, Websockets, Live coding, Assignments)](https://youtu.be/CqWF2fZJ_p0)
@@ -566,7 +577,9 @@
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
 #### Spring Boot
+
 - [Spring Boot Tutorial for Beginners - Your First Spring Boot Application - 1](https://youtu.be/gJrjgg1KVL4)
+- [Build a SaaS POS System | Java Full-Stack React + Spring Boot Project for Retail & Supermarkets](https://youtu.be/HM4TDO870kk)
 - [Build REST APIs with Spring Boot - 2](https://youtu.be/EWd3_I4X32g)
 - [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
 
@@ -586,12 +599,14 @@
 - [Lets start Microservices Tutorial Series #1](https://youtu.be/QrPvGdpcjXo?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D)
 
 ## Devops
+- [DevOps Full Course | Build and Deploy a Scalable Production Ready API](https://youtu.be/H5FAxTBuNM8)
 - [DevOps Roadmap for Developers Switching to DevOps](https://youtu.be/A8hhDuA9bw0)
 - [Modern deployment the right way](https://youtu.be/betxwPpX8Bw)
 - [Devops Full Course (2025) | DevOps Course FREE | Intellipaat](https://youtu.be/saWZQr0RMpw)
 - [Complete Devops bootcamp (Beginner friendly) | EC2 Servers, S3, CDNs, nginx & VMs - Cohort Preview](https://youtu.be/sSRaakd95Nk)
 - [Jenkins for Beginners](https://youtu.be/1LE1llhafOE)
 - [Terraform for Beginners: AWS Infrastructure as Code](https://youtu.be/wAwVOFf0Xq4)
+- [Ansible Crash Course for Beginners](https://youtu.be/dMYTzRweUPU)
 
 #### Github Actions(CI/ CD Automation similar to Jenkins)
 - [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=LEARNNOWPLANS)
@@ -726,6 +741,7 @@
 #### JS
 - [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
 - [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
+- [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
 
 #### JS New Features
 - [JS 2025 just dropped with amazing features](https://youtu.be/STA2Pr5l_z0)
@@ -754,6 +770,8 @@
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
 ## Low / No Code / Lovable / Bolt
+- [Vibe Coding just got an upgrade - Replit Agent 3 Released](https://youtu.be/nPHkv6Kb028)
+- [Coding is Changing… The Most Advanced AI Tool Yet](https://youtu.be/1y_VE_3_320)
 - [Stop Making Fake Netflix Clones - Here's How to Build a REAL One (Warp Code + Next.js Tutorial)](https://m.youtube.com/watch?v=tjYJyDwIfbw)
 - [How to Build a Website for Clients](https://m.youtube.com/watch?v=9gMSMW7XYMc)
 - [Website builder for designers : full walkthrough (2025)](https://youtu.be/QExmoUt_1ZU)
