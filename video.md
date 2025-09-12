@@ -128,7 +128,7 @@
 
 
 ## MCP Server
-
+- [you need to learn MCP RIGHT NOW!! (Model Context Protocol)](https://youtu.be/GuTcle5edjk)
 - [MCP Protocol Tutorial: Build an MCP Server for Your App (Clerk, Next.js, Prisma)](https://youtu.be/wI6ufTULIj0)
 - [Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases & More)](https://youtu.be/j5f2EQf5hkw)
 - [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
