@@ -885,6 +885,9 @@
 #### SAAS Webinar - AI Sales Agent
 - [SaaS Webinar Platform With AI Sales Agents - Nextjs 15, Vapi AI, Hostinger, Clerk, Stream, Neon](https://youtu.be/ZVJlD2-qOQE)
 
+#### AI SaaS - Sketch To Design
+- [AI SaaS - Sketch To Design | CodeRabbit, Convex, Inngest, Sevalla, Polar](https://youtu.be/Ak1ACaqNtM0)
+
 #### AI Videos Ad Generator App
 - [Build and Deploy an AI Video Ads Generator App | Next.js, React, Akool AI, Convex Full Tutorial](https://youtu.be/9dGg1KzWsRA)
 
