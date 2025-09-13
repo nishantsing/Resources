@@ -238,6 +238,8 @@
 ## DSA
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
+- [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
+- [Data Structures - Explained || Full Course](https://youtu.be/2h433OItQiA?list=PL_EB_bIOCNYkmPO1HhTEILUqNjAIf2tcw)
 - [queue full course](https://youtu.be/kZAdzQlkpk4)
 - [Can a Web Developer Solve LeetCode?](https://youtu.be/bUdsiDvYlcc)
 - [Stop Grinding LeetCode: Learn How to Actually Solve Coding Interviews (FAANG Edition)](https://youtu.be/BhDv-Rv59tg)
