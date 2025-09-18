@@ -162,10 +162,12 @@
 - [Build Object Detection Using Free Open-source AI Models](https://youtu.be/1YrMsBiTEBo)
 
 ## DS
-
 - [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
 - [Learn Pandas in 1 hour! 🐼](https://youtu.be/VXtjG_GzO7Q)
 - [Python Matplotlib Complete Course 2025 | Basic to Advanced Data Visualization | Career247](https://youtu.be/YZ5ayT6p_VI)
+
+## Data Engineer
+- [Databricks Data Engineer Associate Certification Course – Pass the Exam!](https://youtu.be/0Hd5vYqin7w)
 
 ## Tensorflow
 - [TensorFlow Crash Course for Beginners (2025) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
@@ -632,6 +634,7 @@
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
 - [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk)
 - [How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents](https://youtu.be/6DXuadyaJ4g)
+- [Google Scraping for Beginners - Oxylabs Web Scraper API](https://youtu.be/UojqCkeRB-o)
 
 ## Web3
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)
