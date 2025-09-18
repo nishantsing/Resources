@@ -1,6 +1,8 @@
 ## Resume
 - [Worst resume mistakes that will end your Interview chances](https://youtu.be/AM_PIK6UkEY)
 
+## AI Tools For Developer
+- [The Best AI Coding Tools for Developers in 2025 (That I Actually Use)](https://youtu.be/YESrXVkcCHY)
 
 ## AI
 - [AI Engineering: A Realistic Roadmap for Beginners](https://youtu.be/d_LbQwoWI7I)
