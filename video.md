@@ -3,6 +3,7 @@
 
 
 ## AI
+- [AI Engineering: A Realistic Roadmap for Beginners](https://youtu.be/d_LbQwoWI7I)
 - [AI Course for Developers – Build AI-Powered Apps with React](https://m.youtube.com/watch?v=PtETUYa3i2Q)
 - [Build Your Own AI Personal Assistant – No Code Required!](https://m.youtube.com/watch?v=eBPh8wV5n8o&pp=0gcJCRsBo7VqN5tD)
 - [Try This Weekend AI Side Project!](https://youtu.be/LSko9afQJg8)
@@ -293,6 +294,7 @@
 - [FULL PRODUCT DESIGN COURSE (FREE) - SideBling](https://youtu.be/g0QzRi9cKC0?list=PL0lNJEnwfVVOtkC5b_2ukwfEuzEpmGevk)
 
 #### Senior devs
+- [How To Handle Data Access Like a Senior Dev](https://youtu.be/Av7KqJVLiYc)
 - [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
 - [How To Handle Internationalization Like A Senior Dev](https://youtu.be/VbZVx13b2oY)
 - [How To Use Libraries Like A Senior Dev](https://youtu.be/_aqtgF1xM-o)
@@ -372,6 +374,9 @@
 - [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build AI-Powered Apps with Next.js: Real-World LLM Integration | iJS](https://youtu.be/gTsnsfKB-XM)
+
+#### Ripple
+- [Will This New JS Framework Replace React? | RippleJS First Look](https://youtu.be/PG_PCGjfFto)
 
 ###### Next Important Parts Back To Front
 - [Build a full stack Project | Reels Pro Paltform | NextJS | Imagekit](https://youtu.be/mM9WYPevSMY)
