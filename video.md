@@ -849,6 +849,9 @@
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
 
+#### Tube Guruji YouTube
+- [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
+
 #### JS Masterty Good projects
 
 - [Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://youtu.be/6biMWgD6_JY)
@@ -864,7 +867,8 @@
 - [Build and Deploy a Full Stack Screen Recording & Video Sharing Platform | Next.js, Better Auth](https://youtu.be/honnJp7-cCU)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
-- [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
+- [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)\
+
 
 #### AI SaaS Interview
 - [How to Build the Ultimate AI SaaS Project - AI Interviews, Resume Reviews, Technical Questions](https://youtu.be/xrrtYNr7ZEw)
