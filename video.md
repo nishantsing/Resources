@@ -267,7 +267,7 @@
 - [Master LeetCode QUICKLY | Hash Maps, Sets , Sliding Windows](https://youtu.be/ZqJxXDJfJ-o)
 
 ## System Design
-
+- [Leetcode for System Design? AI Interviewer Launched.](https://youtu.be/cJDgNSWTwrg)
 - [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
 - [System Design | Kafka vs Inngest](https://youtu.be/VP7GQO_Zab4)
