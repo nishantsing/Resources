@@ -5,6 +5,7 @@
 - [The Best AI Coding Tools for Developers in 2025 (That I Actually Use)](https://youtu.be/YESrXVkcCHY)
 
 ## AI
+- [20 AI Concepts Explained in 40 Minutes](https://youtu.be/OYvlznJ4IZQ)
 - [AI Engineering: A Realistic Roadmap for Beginners](https://youtu.be/d_LbQwoWI7I)
 - [AI Course for Developers – Build AI-Powered Apps with React](https://m.youtube.com/watch?v=PtETUYa3i2Q)
 - [Build Your Own AI Personal Assistant – No Code Required!](https://m.youtube.com/watch?v=eBPh8wV5n8o&pp=0gcJCRsBo7VqN5tD)
@@ -21,6 +22,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)](https://youtu.be/B0TJC4lmzEM)
       - [Getting Started with AI Agents](https://youtu.be/leWuDQoDaYY)
       - [Agentic AI Projects | Gen AI Projects](https://youtu.be/p54vr-NyxDc)
       - [How memory makes AI agents more effective](https://youtu.be/52xTxeqT4ws)
@@ -109,6 +111,7 @@
 
   - n8n
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
+      - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
    
   - zapier
       - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
@@ -242,6 +245,7 @@
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 
 ## DSA
+- [50 Hours DSA Full Course - master technical interviews](https://youtu.be/XCNbJ4dOM0k)
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
@@ -271,6 +275,7 @@
 - [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
 - [System Design | Kafka vs Inngest](https://youtu.be/VP7GQO_Zab4)
+- [FAANG System Design Interview: Design A Chat System (WhatsApp, Facebook Messenger, Discord, Slack)](https://youtu.be/okrR1KXNLtA)
 
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
