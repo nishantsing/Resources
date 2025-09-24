@@ -302,6 +302,7 @@
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
 - [FULL PRODUCT DESIGN COURSE (FREE) - SideBling](https://youtu.be/g0QzRi9cKC0?list=PL0lNJEnwfVVOtkC5b_2ukwfEuzEpmGevk)
+- [UI UX Design Full Course (2025) | Intellipaat](https://youtu.be/2icljqpaddk)
 
 #### Senior devs
 - [How To Handle Data Access Like a Senior Dev](https://youtu.be/Av7KqJVLiYc)
