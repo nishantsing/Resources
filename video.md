@@ -319,6 +319,7 @@
 
 ## Tech Stack
 - [My Current Tech Stack](https://youtu.be/oIx7ObcfdlU)
+- [Picking a Fullstack Stack, Is Next.js Too Complex? Services vs Self-Hosted + More](https://youtu.be/46RJAKhxc6M)
   
 ## Frontend
 
@@ -508,6 +509,7 @@
 
 #### Postman
 - [Api Design Crash Course](https://youtu.be/FPM1v4g1b4s)
+- [Postman + TanStack = Amazing MCP!](https://youtu.be/Aaj6Ru1Lt0k)
 
 #### Serverless Function
 - [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API](https://youtu.be/V0P3Opf-zUs)
