@@ -318,6 +318,7 @@
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
 
 ## Tech Stack
+- [A stack to fight web complexity....](https://youtu.be/xiscoSBDOyo)
 - [My Current Tech Stack](https://youtu.be/oIx7ObcfdlU)
 - [Picking a Fullstack Stack, Is Next.js Too Complex? Services vs Self-Hosted + More](https://youtu.be/46RJAKhxc6M)
   
