@@ -245,8 +245,8 @@
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 
 ## DSA
-- [50 Hours DSA Full Course - master technical interviews](https://youtu.be/XCNbJ4dOM0k)
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
+- [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
