@@ -71,6 +71,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)](https://youtu.be/AUQJ9eeP-Ls)
       - [Introduction To Undertsanding RAG(Retrieval-Augmented Generation)](https://m.youtube.com/watch?v=fZM3oX4xEyg)
       - [2-Build RAG Pipeline From Scratch-Data Ingestion to Vector DB Pipeline-Part 1](https://m.youtube.com/watch?v=MykcjWPJ6T4)
       - [Step By Step Process To Build MultiModal RAG With Langchain(PDF And Images)](https://youtu.be/BV0YUeam4y8)
@@ -122,6 +123,7 @@
  - [The Complete Mathematics of Neural Networks and Deep Learning](https://youtu.be/Ixl3nykKG9M)
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
  - [Run ChatGPT on Your Computer - WebLLM Explained](https://youtu.be/xEUbfrDvhSs)
+
 
 
 ## LLM's 
@@ -247,6 +249,7 @@
 ## DSA
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
+- [Complete DSA Course – 50 hours to master technical interviews - Part 3](https://youtu.be/c6XB4qq04n8)
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
@@ -306,6 +309,7 @@
 - [UI UX Design Full Course (2025) | Intellipaat](https://youtu.be/2icljqpaddk)
 
 #### Senior devs
+- [How To Debug React Apps Like A Senior Developer](https://youtu.be/l8knG0BPr-o)
 - [How To Handle Data Access Like a Senior Dev](https://youtu.be/Av7KqJVLiYc)
 - [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
 - [How To Handle Internationalization Like A Senior Dev](https://youtu.be/VbZVx13b2oY)
@@ -338,6 +342,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
 - [React.js Setup from Scratch to Production 🔥 | Complete Guide (2025)](https://youtu.be/uCfDsfmYXYA)
 - [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
 - [Create a GTA 6 Website with React.js | Full Tutorial for Beginners](https://youtu.be/tccIAsqFgG0)
@@ -403,6 +408,8 @@
 - [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
 
 ## FullStack
+- [Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial](https://youtu.be/LzMnsfqjzkA)
+- [Build a Full Stack Movie Streaming App – Go, React, MongoDB, OpenAI](https://youtu.be/jBf7of9JTV8)
 - [How To Become a Full Stack Developer in 2025 - Full Roadmap](https://youtu.be/Je_KYIM9QJc)
 - [Full Stack Challenge | AI Image Editor with Nextjs & ImageKit](https://m.youtube.com/watch?v=FaEc2rtzGeU)
 - [Hiding API key - Minimum full stack AI application with streams in NextJS](https://youtu.be/Ecygj87WhZs)
@@ -446,10 +453,12 @@
   - GraphQL
       - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
   - Prisma
+      - [Prisma Introduction - Node Database Tutorial (Postgres, MongoDB)](https://youtu.be/gYeV4wmcyes)
       - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0) - Must watch - WDS
       - [How To Make Beautiful Charts In Next.js](https://youtu.be/15qMh8C1Wzo)
       - [How To Build A Next.js Coupon System Like A Senior Developer](https://youtu.be/qpApvVd_dCw)
       - [Full App Build - Dev to Deployment - Next.js, Prisma, Neon & Clerk](https://youtu.be/I6DCo5RwHBE)
+      - [Prisma meets Sevalla Postgres Database](https://youtu.be/Ax2MZAOSdhM)
    
   - Appwrite
       - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
@@ -475,6 +484,7 @@
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
 
 #### Authentication
+- [Master Senior Level Authentication In 4 Hours](https://youtu.be/WPiqNDapQrk)
 - [8 Reasons To Try Better Auth](https://youtu.be/_OApmLmex14)
 - [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
 - [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
@@ -639,6 +649,7 @@
 - [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
 
 ## Web Scrapping
+- [Python Web Scraping: A Million Dollar Project Idea - FULL Build/Tutorial](https://youtu.be/Wif4zLlruqo)
 - [Web Scraping 101: A Million Dollar SaaS Idea](https://youtu.be/oyIQenEvWN8)
 - [I built a web scraper to find the BIGGEST deals to flip on Amazon $$$](https://youtu.be/2hSC2HaPJDA)
 - [Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)](https://youtu.be/XMu46BRPLqA)
@@ -755,6 +766,7 @@
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
 - [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
+- [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
 
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
@@ -876,7 +888,9 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)\
 
-
+#### AI Meal Planner
+- [Building AI Applications Crash Course: Build an AI-Powered Meal Planning App (Step-By-Step)](https://youtu.be/K-aqHfwZk5w)
+   
 #### AI SaaS Interview
 - [How to Build the Ultimate AI SaaS Project - AI Interviews, Resume Reviews, Technical Questions](https://youtu.be/xrrtYNr7ZEw)
 
