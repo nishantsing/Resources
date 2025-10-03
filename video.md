@@ -114,6 +114,7 @@
       - [n8n will change your life as a developer...](https://youtu.be/bS9R6aCVEzw)
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
       - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
+      - [n8n Now Runs My ENTIRE Homelab](https://youtu.be/budTmdQfXYU)
    
   - zapier
       - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
@@ -705,6 +706,9 @@
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 
+#### Azure
+- [Azure Full Course (2025) | Microsoft Azure Training FREE | Intellipaat](https://youtu.be/hUxB_Uenq14)
+
 ## Deployment
 
 - [Chai aur Caddy | learn to host your website on VPS](https://youtu.be/dzxmylOhLi8)
@@ -874,6 +878,7 @@
 
 #### Tube Guruji YouTube
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
+- [How to Create Full Stack AI Website Generator App with Nextjs, React, Typescript, ImageKit](https://youtu.be/tKDPE219kCE)
 
 #### JS Masterty Good projects
 
@@ -892,6 +897,10 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)\
 
+
+#### AI Dental Assistant
+- [Build an AI Voice Dental Assistant with Next.js & Postgres - Full SaaS Tutorial](https://youtu.be/MhGV5TekJ8Y)
+  
 #### AI Meal Planner
 - [Building AI Applications Crash Course: Build an AI-Powered Meal Planning App (Step-By-Step)](https://youtu.be/K-aqHfwZk5w)
    
