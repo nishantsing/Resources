@@ -257,6 +257,7 @@
 - [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 3](https://youtu.be/c6XB4qq04n8)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 4](https://youtu.be/MgHNwixPBs4)
+- [Complete DSA Course – 50 hours to master technical interviews - Part 5](https://youtu.be/ByXPzwnsEG8)
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
