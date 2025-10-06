@@ -282,6 +282,7 @@
 - [Master LeetCode QUICKLY | Hash Maps, Sets , Sliding Windows](https://youtu.be/ZqJxXDJfJ-o)
 
 ## System Design
+- [Master System Design Verticals to Crack Any Interview](https://youtu.be/geQX1bL2oLI)
 - [Leetcode for System Design? AI Interviewer Launched.](https://youtu.be/cJDgNSWTwrg)
 - [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
