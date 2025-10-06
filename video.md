@@ -524,6 +524,9 @@
     - AppWrite
         - [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs?list=PLF8LumSOX3y9I9qXY77QddYevVgXQn7mM)
     
+#### Supabase
+- [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
+
 
 ## Application
 - [Master Python With This ONE Project!](https://youtu.be/Dn1EjhcQk64)
