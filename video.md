@@ -71,6 +71,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Complete RAG Crash Course With Langchain In 2 Hours](https://youtu.be/o126p1QN_RI)
       - [How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)](https://youtu.be/AUQJ9eeP-Ls)
       - [Introduction To Undertsanding RAG(Retrieval-Augmented Generation)](https://m.youtube.com/watch?v=fZM3oX4xEyg)
       - [2-Build RAG Pipeline From Scratch-Data Ingestion to Vector DB Pipeline-Part 1](https://m.youtube.com/watch?v=MykcjWPJ6T4)
