@@ -233,6 +233,9 @@
 ###### State Management
 - [Manage State in JavaScript Like a Pro!](https://youtu.be/7i1f4PKSlxo)
 
+## YAML
+- [Master YAML in One Video](https://youtu.be/NaoMEy_urlI)
+
 ## HTML
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
 
