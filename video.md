@@ -680,6 +680,7 @@
 
 ## Data Analytics
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
+- [Data Analytics Free Course for Data Analyst Jobs | Data Analyst Free Course | Intellipaat](https://youtu.be/Dnch98Zf2ks)
 
 ## Automation
 - [Python Automation Crash Course (2025): Automate Your Life With Python!](https://youtu.be/4AEsblWWdQg)
@@ -715,6 +716,7 @@
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
+- [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
 
 #### Azure
 - [Azure Full Course (2025) | Microsoft Azure Training FREE | Intellipaat](https://youtu.be/hUxB_Uenq14)
