@@ -127,7 +127,8 @@
  - [AI/ML for Chrome and ChromeOS](https://youtu.be/mVMrQR16LDk)
  - [Run ChatGPT on Your Computer - WebLLM Explained](https://youtu.be/xEUbfrDvhSs)
 
-
+#### AI SDK Vercel
+- [Don't sleep on AI SDK Component Library](https://youtu.be/DDg6NtD1SsQ)
 
 ## LLM's 
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
