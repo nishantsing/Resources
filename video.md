@@ -682,6 +682,7 @@
 
 ## Open Source
 - [Contributing To Open Source – Beginner's Guide](https://youtu.be/mklEhT_RLos)
+- [How to get noticed by Facebook as a Developer (Super simple!) | Warp Code tutorial](https://youtu.be/O-hbl6jYnnI)
 
 ## Data Analytics
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
