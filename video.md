@@ -252,6 +252,7 @@
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
+- [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
 
 ## DSA
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
