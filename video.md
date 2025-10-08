@@ -22,6 +22,7 @@
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 
   - AI Agents
+      - [How to Build AI Agents in Python](https://youtu.be/OKwDzKY_WN8)
       - [How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)](https://youtu.be/B0TJC4lmzEM)
       - [Getting Started with AI Agents](https://youtu.be/leWuDQoDaYY)
       - [Agentic AI Projects | Gen AI Projects](https://youtu.be/p54vr-NyxDc)
