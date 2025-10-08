@@ -372,6 +372,8 @@
         - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
 
 
+###### React 19
+- [React 19 Project Tutorial – AI Code Explainer](https://youtu.be/W4M-g9wsEC4)
 #### TanStack
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
 
