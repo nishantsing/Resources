@@ -545,6 +545,9 @@
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
     - AppWrite
         - [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs?list=PLF8LumSOX3y9I9qXY77QddYevVgXQn7mM)
+        - 
+#### SQL
+- [Harvard CS50’s Intro to Databases with SQL – Full University Course](https://youtu.be/WXk7yDqsKxs)
     
 #### Supabase
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
