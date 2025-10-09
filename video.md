@@ -893,7 +893,11 @@
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
 - [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
+#### WebDevSimplified
+- [Large Projects](https://www.youtube.com/watch?v=iqrgggs0Qk0&list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
+  
 #### YT Projects Playlists 
+- [React JS Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=mPpPJ9TbaHU&list=PLvkzE15gPjFgmaU_fUGHoTmvYNMFkNODe&pp=0gcJCaIEOCosWNin)
 - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0?list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 - [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
@@ -915,6 +919,7 @@
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
 - [Advanced Next.js Developer Course](https://youtu.be/gu4pafNCXng?list=PL6QREj8te1P56tahJwEbyDZNVAnCclTc4)
+- [Fullstack Developer Bootcamp: Master Frontend and Backend](https://www.youtube.com/watch?v=kmy_YNhl0mw&list=PL6QREj8te1P7faGPL2hfiM8F9zdOvZpbF)
 - [Build Your First Mobile Application | React Native Real Estate App](https://youtu.be/CzJQEstIiEI)
 - [Build and Deploy a Unique 3D Web Developer Portfolio with React, Three JS & GSAP](https://youtu.be/E-fdPfRxkzQ)
 - [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
