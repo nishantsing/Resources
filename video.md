@@ -902,6 +902,7 @@
   
 #### YT Projects Playlists 
 - [React JS Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=mPpPJ9TbaHU&list=PLvkzE15gPjFgmaU_fUGHoTmvYNMFkNODe&pp=0gcJCaIEOCosWNin)
+- [Full Stack Projects](https://www.youtube.com/watch?v=7E6um7NGmeE&list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA)
 - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0?list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 - [React js real world projects - Lama Dev](https://youtu.be/zM93yZ_8SvE?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
