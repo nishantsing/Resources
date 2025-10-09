@@ -177,6 +177,7 @@
 - [Complete Numpy course in Hindi | Chai aur Numpy](https://youtu.be/x7ULDYs4X84)
 - [Learn Pandas in 1 hour! 🐼](https://youtu.be/VXtjG_GzO7Q)
 - [Python Matplotlib Complete Course 2025 | Basic to Advanced Data Visualization | Career247](https://youtu.be/YZ5ayT6p_VI)
+- [Learn Matplotlib in 1 hour! ](https://youtu.be/c9vhHUGdav0)
 
 ## Data Engineer
 - [Databricks Data Engineer Associate Certification Course – Pass the Exam!](https://youtu.be/0Hd5vYqin7w)
