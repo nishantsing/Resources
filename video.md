@@ -914,6 +914,7 @@
 - [Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://youtu.be/6biMWgD6_JY)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
+- [Advanced Next.js Developer Course](https://youtu.be/gu4pafNCXng?list=PL6QREj8te1P56tahJwEbyDZNVAnCclTc4)
 - [Build Your First Mobile Application | React Native Real Estate App](https://youtu.be/CzJQEstIiEI)
 - [Build and Deploy a Unique 3D Web Developer Portfolio with React, Three JS & GSAP](https://youtu.be/E-fdPfRxkzQ)
 - [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
