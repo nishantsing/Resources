@@ -285,6 +285,14 @@
 - [INCREASING THE DIFFICULTY | Leetcode Hash and Maps](https://youtu.be/YRTwK0-B-Yc)
 - [Master LeetCode QUICKLY | Hash Maps, Sets , Sliding Windows](https://youtu.be/ZqJxXDJfJ-o)
 
+
+## Certifications
+
+#### Get Certified with Sourav
+- [Mastering Kubernetes and AWS in 30 Days!](https://youtu.be/Qcq117rL0u8)
+- [MongoDB Badges](https://learn.mongodb.com/skills)
+
+
 ## System Design
 - [Master System Design Verticals to Crack Any Interview](https://youtu.be/geQX1bL2oLI)
 - [Leetcode for System Design? AI Interviewer Launched.](https://youtu.be/cJDgNSWTwrg)
@@ -310,6 +318,9 @@
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
 - [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
+- 
+
+
 
 ## Design
 
