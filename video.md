@@ -243,7 +243,6 @@
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
 
 ## CSS
-- [This Font Feature Is A Must Use In Your Dev Tools](https://youtu.be/Jlxpwxt9FUU)
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
 - [Responsive Web Development Complete Guide for Beginners (Project Included)](https://m.youtube.com/watch?v=J_r6hBo9lO4)
@@ -726,6 +725,8 @@
 - [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
 - [This Simple Dev Tools Feature Makes Working On Teams Much Easier](https://m.youtube.com/watch?v=Btv_oJFDjuE)
 - [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
+- [No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)](https://youtu.be/AzOWedAKoNQ)
+- [This Font Feature Is A Must Use In Your Dev Tools](https://youtu.be/Jlxpwxt9FUU)
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
 
