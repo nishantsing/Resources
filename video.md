@@ -117,6 +117,7 @@
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
       - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
       - [n8n Now Runs My ENTIRE Homelab](https://youtu.be/budTmdQfXYU)
+      - [I built my own Sora 2 video generation workflow with n8n](https://youtu.be/p3lFCY4nTjI)
    
   - zapier
       - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
@@ -367,6 +368,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+- [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
 - [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
 - [React.js Setup from Scratch to Production 🔥 | Complete Guide (2025)](https://youtu.be/uCfDsfmYXYA)
 - [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
@@ -392,6 +394,7 @@
 
 
 #### Three.js
+- [Build and Deploy an Apple Website with React | Beginner Three.js & GSAP Tutorial](https://youtu.be/DEeaT6FxEws)
 - [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://m.youtube.com/watch?v=tPkJLnDqAKk)
 #### React Animation
@@ -550,6 +553,7 @@
     
 #### Supabase
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
+- [Auth & backend so simple even this CSS dev gets it](https://youtu.be/STqtxe7y0jo)
 
 
 ## Application
@@ -619,6 +623,7 @@
 - [Build and Deploy a Full Stack Screen Recording & Video Sharing Platform | Next.js, Better Auth](https://youtu.be/honnJp7-cCU)
 
 #### Python
+- [The Fastest Way to Learn Python Web Development (Step-by-Step)](https://youtu.be/eOuCaQtlql8)
 - [Python Full Course for Beginners [2025]](https://youtu.be/K5KVEU3aaeQ)
 - [I Learned Python By Building These Projects - Tutorial for Beginners](https://youtu.be/ehD6tdxmjDU)
 - [Python Chat App Tutorial for Beginners - Full Course 2024](https://youtu.be/h991oLxOxeM)
