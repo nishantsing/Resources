@@ -179,6 +179,7 @@
 - [Learn Pandas in 1 hour! 🐼](https://youtu.be/VXtjG_GzO7Q)
 - [Python Matplotlib Complete Course 2025 | Basic to Advanced Data Visualization | Career247](https://youtu.be/YZ5ayT6p_VI)
 - [Learn Matplotlib in 1 hour! ](https://youtu.be/c9vhHUGdav0)
+- [Data Science Full Course 2025 (BEST For Beginners) | Intellipaat](https://youtu.be/gPr6SL_c2z0)
 
 ## Data Engineer
 - [Databricks Data Engineer Associate Certification Course – Pass the Exam!](https://youtu.be/0Hd5vYqin7w)
@@ -239,6 +240,9 @@
 
 ## YAML
 - [Master YAML in One Video](https://youtu.be/NaoMEy_urlI)
+
+## Browser
+- [Understanding CORS](https://youtu.be/qRp4AepVjl4) 
 
 ## HTML
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
