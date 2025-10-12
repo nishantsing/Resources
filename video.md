@@ -300,6 +300,7 @@
 
 
 ## System Design
+- [6 Database Concepts Your Should Know](https://youtu.be/Lea9frgParA)
 - [Master System Design Verticals to Crack Any Interview](https://youtu.be/geQX1bL2oLI)
 - [Leetcode for System Design? AI Interviewer Launched.](https://youtu.be/cJDgNSWTwrg)
 - [How Key value Stores Work?](https://youtu.be/Dwt8R0KPu7k)
