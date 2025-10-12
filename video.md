@@ -201,6 +201,7 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## Python
+- [My top 5 python programming course recommendations](https://youtu.be/KjkFed4B5r8)
 - [The Next Step After Learning Python Basics](https://youtu.be/LcXDhUn9nkg)
 - [Python for Beginners - Build 35 Resume Projects](https://youtu.be/mMzwOZQJIcE)
 - [How to Prepare for a Python Interview: A Complete Guide](https://youtu.be/BeqlRl5dV_8)
