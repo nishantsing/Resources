@@ -20,6 +20,7 @@
 - [AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
 - [Best Frameworks To Learn For Building AI Agents And Agentic AI](https://youtu.be/YoqH1XbeC10)
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
+- [This AI Supercomputer can fit on your desk...](https://youtu.be/FYL9e_aqZY0)
 
   - AI Agents
       - [How to Build AI Agents in Python](https://youtu.be/OKwDzKY_WN8)
@@ -53,6 +54,7 @@
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
    
   - Gen AI
+      - [Google Generative AI Leader Certification Course – Pass the Exam!](https://youtu.be/30diF8dKpAY)
       - [Generative AI Full Course (2025) | Generative AI Course FREE | Intellipaat](https://youtu.be/JQEwPa5FStM)
       - [GenAI Essentials – Full Course for Beginners](https://youtu.be/nJ25yl34Uqw)
 
@@ -95,6 +97,7 @@
       - [Building Agents And Multi Agents With LangGraph- Part 3](https://youtu.be/E0fQWFNqGgg)
       - [Projects You Should Build For Gen AI And Agentic AI Roles](https://youtu.be/abppwF3MCG0)
       - [Build Advanced AI Agents Quickly: LangGraph Studio Tutorial](https://youtu.be/8kuT80PTaGI)
+      - [5-Getting Started With Agentic RAG With Detailed Implementation Using LangGraph](https://youtu.be/Chl-cRcwVpA)
    
   - Astra DB
       - [JavaScript AI Course - no Python!   MongooseJS Astra DB](https://youtu.be/5ZLmcDi30YI)
@@ -613,6 +616,10 @@
 
 ## Vite
 - [Vite Crash Course – Frontend Build Tool](https://youtu.be/do62-z3z6FM)
+
+## Typing
+- [Best way to increase your typing speed for coding](https://youtu.be/lNih3W2bbkA)
+- [Monkey Type](https://monkeytype.com/)
 
 ## Chat App
 - [Build and Deploy a Realtime Chat App with React, Node.js, Socket.io](https://youtu.be/bR4b_Io8shE)
