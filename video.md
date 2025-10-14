@@ -217,6 +217,7 @@
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
 ## JS
+- [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
 - [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
 - [Build an Animated Website with React + GSAP | Responsive + Free Deployment Guide](https://m.youtube.com/watch?v=NjqjakgPL84&pp=0gcJCRsBo7VqN5tD)
 - [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
