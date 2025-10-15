@@ -145,6 +145,7 @@
 
 
 ## MCP Server
+- [Intro to MCP Servers – Model Context Protocol with Python Course](https://youtu.be/DosHnyq78xY)
 - [you need to learn MCP RIGHT NOW!! (Model Context Protocol)](https://youtu.be/GuTcle5edjk)
 - [MCP Protocol Tutorial: Build an MCP Server for Your App (Clerk, Next.js, Prisma)](https://youtu.be/wI6ufTULIj0)
 - [Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases & More)](https://youtu.be/j5f2EQf5hkw)
@@ -828,6 +829,7 @@
 - [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
 - [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
+- [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
 
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
