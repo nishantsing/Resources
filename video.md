@@ -883,6 +883,7 @@
 - [The NEW Way To Build Fully Functional Apps With No Code (mobile & web) | Rocket.new](https://youtu.be/FDaMRtEsPGQ)
 - [How To Make A No Code Website - Wix](https://youtu.be/Tddp13RINEM)
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
+- [What is "Vibe for WordPress"? Full Tutorial | 10Web](https://youtu.be/G0gQSD3plqo)
 
 ## Udemy / Courses
 1. [Full stack AI with Python: LLMs, RAG, Agents and LangGraph (Udemy) - Hitesh Choudhary](https://www.udemy.com/course/full-stack-ai-with-python/?couponCode=LAUNCH10)
