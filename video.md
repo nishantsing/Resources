@@ -234,7 +234,12 @@
 - [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
 - [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
 - [JS Array Challenges](https://youtu.be/Pbl3gZj54sM)
-- 
+- [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
+- [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
+- [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
+- [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
+
+  
 ## Useful Github Repos
 - [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
 
@@ -801,6 +806,10 @@
 ## Arduino
 -[Computer Vision with Arduino Tutorial – 2 Projects](https://m.youtube.com/watch?v=Q5U-b6gRTaY)
 
+## Network Chuck
+- [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
+- [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
+
 ## Hacking
 - [Hacking AI is TOO EASY (this should be illegal)](https://youtu.be/Qvx2sVgQ-u0)
 - [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
@@ -833,11 +842,6 @@
 
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
-
-#### JS
-- [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
-- [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
-- [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
 
 #### JS New Features
 - [JS 2025 just dropped with amazing features](https://youtu.be/STA2Pr5l_z0)
