@@ -386,8 +386,7 @@
 
 #### React
 - [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
-- [Day 0: Why React Needs Design Patterns + 10-Min Crash Course](https://youtu.be/OWi31QoHqNk)
-- [Day 01: React Container-Presenter Pattern | Code Smell to Clean Code](https://youtu.be/1UHbhikwg-s)
+- [Day 0: Why React Needs Design Patterns + 10-Min Crash Course - Playlist](https://www.youtube.com/playlist?list=PLIJrr73KDmRyQVT__uFZvaVfWPdfyMFHC)
 - [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
 - [React.js Setup from Scratch to Production 🔥 | Complete Guide (2025)](https://youtu.be/uCfDsfmYXYA)
 - [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
