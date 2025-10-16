@@ -205,6 +205,7 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## Python
+- [How to Write Production Python Code](https://youtu.be/qU3Rc6_B9es)
 - [My top 5 python programming course recommendations](https://youtu.be/KjkFed4B5r8)
 - [The Next Step After Learning Python Basics](https://youtu.be/LcXDhUn9nkg)
 - [Python for Beginners - Build 35 Resume Projects](https://youtu.be/mMzwOZQJIcE)
@@ -385,6 +386,8 @@
 
 #### React
 - [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
+- [Day 0: Why React Needs Design Patterns + 10-Min Crash Course](https://youtu.be/OWi31QoHqNk)
+- [Day 01: React Container-Presenter Pattern | Code Smell to Clean Code](https://youtu.be/1UHbhikwg-s)
 - [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
 - [React.js Setup from Scratch to Production 🔥 | Complete Guide (2025)](https://youtu.be/uCfDsfmYXYA)
 - [#1 - Introduction | Complete React JS Production Setup](https://youtu.be/rbFnOcWGlrQ)
@@ -967,6 +970,9 @@
 
 #### AI Dental Assistant
 - [Build an AI Voice Dental Assistant with Next.js & Postgres - Full SaaS Tutorial](https://youtu.be/MhGV5TekJ8Y)
+
+#### AI PPT Slider Generator
+- [Build & Deploy AI PPT Slider Generator App using React, Vite, Genkit, Imagekit](https://youtu.be/lJbIs8_5aqU)
   
 #### AI Meal Planner
 - [Building AI Applications Crash Course: Build an AI-Powered Meal Planning App (Step-By-Step)](https://youtu.be/K-aqHfwZk5w)
