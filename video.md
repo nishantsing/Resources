@@ -923,6 +923,7 @@
 - [Complete Zomato MERN Project | Reels-Style Video Feed Integration](https://m.youtube.com/watch?v=CQ741Gw9Bz0&pp=0gcJCRsBo7VqN5tD)
 - [4 Programming Projects for Employment in 2025](https://youtu.be/9TDtDCXTtPM)
 - [9 Project Ideas to Build in 2025 | AI, DeFi, Web 3 and Full stack](https://youtu.be/pXJ2qoGU88g)
+- [9 Project ideas to build before 2025 ends](https://youtu.be/V3LGd7CkASw)
 - [How to Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More) Idea](https://youtu.be/qX3Dq8p7x0Y)
 - [Build & Deploy an AI Voice Agent for Education | Next.js, React, Tailwind, Convex, AssemblyAI](https://youtu.be/oE7bVYRFYrU)
 
