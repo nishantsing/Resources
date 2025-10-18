@@ -239,6 +239,7 @@
 - [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
 - [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
 - [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
+- [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
 
   
 ## Useful Github Repos
@@ -1112,6 +1113,7 @@
 - [Next.js Course 2025 - Build a Full Stack Social App with React & Next.js](https://youtu.be/vUYopHWOURg)
 
 ### Project Clones
+- [Build and Deploy an N8N & Zapier Clone | Next.js 15, React, Better Auth, Polar | Full Course 2025](https://youtu.be/ED2H_y6dmC8)
 - [Build and Deploy Nike’s $100B Full Stack eCommerce App | Next.js, PostgreSQL, Tailwind, Devin AI](https://youtu.be/fZdTYswuZjU)
 - [Advanced Slack Clone: Video Calling and Realtime Messages with React & Node.js](https://youtu.be/qsFdE4okEfw)
 - [Build a Twitter Clone with React Native - Full React Native Tutorial](https://youtu.be/uBdpV9GGlzo)
