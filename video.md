@@ -57,6 +57,7 @@
       - [Google Generative AI Leader Certification Course – Pass the Exam!](https://youtu.be/30diF8dKpAY)
       - [Generative AI Full Course (2025) | Generative AI Course FREE | Intellipaat](https://youtu.be/JQEwPa5FStM)
       - [GenAI Essentials – Full Course for Beginners](https://youtu.be/nJ25yl34Uqw)
+      - [Generative AI Full Course (2025) | Gen AI Tutorial For Beginners | Intellipaat](https://youtu.be/n9zWhTB9btk)
 
   - Gemini
       - [1 HOUR - Learn the Gemini API and build a multi-turn chat bot!](https://youtu.be/xv9UbWp_Frs)
