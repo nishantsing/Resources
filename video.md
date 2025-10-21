@@ -159,6 +159,7 @@
 - [Live Build Agentic AI Chatbot Using LangGraph - 3](https://youtu.be/HCSPIH3I-vc)
 - [Day3 - End to End Agentic AI Project](https://youtu.be/TmLkR2qil2U)
 - [Build Anything With a CUSTOM MCP Server - Python Tutorial](https://youtu.be/-8k9lGpGQ6g)
+- [S-Tier MCP Servers for Developers](https://youtu.be/5az_4IwTwAE)
 
   
 ## ML
