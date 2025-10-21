@@ -575,6 +575,8 @@
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
 - [Auth & backend so simple even this CSS dev gets it](https://youtu.be/STqtxe7y0jo)
 
+## Web Assembly
+- [WebAssembly from the Ground Up with Patrick Dubroy and Mariano Guerra](https://youtu.be/dRdDhybw6NI)
 
 ## Application
 - [Master Python With This ONE Project!](https://youtu.be/Dn1EjhcQk64)
@@ -586,6 +588,9 @@
 - [This Folder Structure Makes Me 100% More Productive](https://youtu.be/xyxrB2Aa7KE)
 
 ## Mobile Development
+
+#### React Native
+
 - [Build React Native Full Stack App Using Expo, Firebase and AI | AI Pocket Agent](https://youtu.be/TDbsttEkidU)
 - [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
 - [React Native Bootcamp in 30 HOURS for FREE](https://youtu.be/q3HE1dFiJBI)
@@ -597,15 +602,17 @@
 - [React Native Crash Course+ | Build a Mobile App In 3 Hours](https://youtu.be/bCpFbERgj7s)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
 - [React Native Project | Build Full Stack React Native App with Expo, & Strapi | AI Recipe Generator](https://youtu.be/pW2Pso4fw5g)
-- 
 - [The Ultimate React Native Course in 2025](https://youtu.be/wbj-DuaL748)
 - [React Native Mastery: Develop 10 Apps with Confidence](https://youtu.be/kGtEax1WQFg?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
 - [React Native Course | Build Full Stack React Native App | College Campus Event App | Expo Router](https://youtu.be/FJm3eKT9L9s)
 - [I made a website that makes mobile apps using AI (Docker, Bun, VSCode, ASGs)](https://youtu.be/wLGrhL8V038)
 - [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
-- [ Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
+- [Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
+
+#### Swift UI IOS
+- [SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
 
 ## Cloud
 
