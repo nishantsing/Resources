@@ -388,6 +388,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
+
 - [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
 - [Day 0: Why React Needs Design Patterns + 10-Min Crash Course - Playlist](https://www.youtube.com/playlist?list=PLIJrr73KDmRyQVT__uFZvaVfWPdfyMFHC)
 - [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
@@ -409,7 +410,10 @@
 
 
 ###### React 19
+
+- [Master React 19.2 Async Everywhere — Boost Performance](https://youtu.be/KI4gjUrOfOs)
 - [React 19 Project Tutorial – AI Code Explainer](https://youtu.be/W4M-g9wsEC4)
+
 #### TanStack
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
 
