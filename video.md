@@ -75,6 +75,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Local AI on Your Data A Complete RAG Tutorial! (Stop AI Hallucinations)](https://youtu.be/TqeOznAcXXU)
       - [Complete RAG Crash Course With Langchain In 2 Hours](https://youtu.be/o126p1QN_RI)
       - [How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)](https://youtu.be/AUQJ9eeP-Ls)
       - [Introduction To Undertsanding RAG(Retrieval-Augmented Generation)](https://m.youtube.com/watch?v=fZM3oX4xEyg)
@@ -197,6 +198,7 @@
 - [How to Create Anything With AI — Beginner’s Guide to AI Development](https://youtu.be/fx-nD4V80fU)
 
 ##### Git and Github
+- [Never* use git pull](https://youtu.be/xN1-2p06Urc)
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
 - [Lazygit in a nutshell](https://youtu.be/4mgxvcSbwz0)
   
@@ -264,6 +266,7 @@
 
 ## CSS
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
+- [@container Queries Containment Module CSS Tutorial](https://youtu.be/r9oB4OolaAs)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
 - [Responsive Web Development Complete Guide for Beginners (Project Included)](https://m.youtube.com/watch?v=J_r6hBo9lO4)
 - [HTML & CSS form tutorial / Frontend Mentor](https://m.youtube.com/watch?v=jJgNgNNHqjk&pp=0gcJCRsBo7VqN5tD)
@@ -276,6 +279,7 @@
 - [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
 
 ## DSA
+- [Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours](https://youtu.be/xwI5OBEnsZU)
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 3](https://youtu.be/c6XB4qq04n8)
@@ -344,6 +348,9 @@
 
 
 ## Design
+
+#### Stitch
+- [Stitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)](https://youtu.be/lVF_k12GO-Y)
 
 #### Figma
 - [Figma Oversimplified](https://youtu.be/hdEDKwI46_E)
@@ -435,6 +442,7 @@
 
 #### ShadCN
 - [Shadcn Isn’t Just a Library Anymore… Here’s How to 10x Your UI](https://youtu.be/V8rGgwQ-VJ0)
+- [How To Use Shadcn’s NEW Field Component - TanStack Form and React Hook Form](https://youtu.be/gjrXeqgxbas)
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 - [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
 - [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
@@ -463,6 +471,7 @@
 - [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
 
 ## FullStack
+- [Build Your First Full Stack Project with Cursor AI + TestSprite | Step-by-Step Node.js Tutorial](https://youtu.be/fRTECEtMW74)
 - [Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial](https://youtu.be/LzMnsfqjzkA)
 - [Build a Full Stack Movie Streaming App – Go, React, MongoDB, OpenAI](https://youtu.be/jBf7of9JTV8)
 - [How To Become a Full Stack Developer in 2025 - Full Roadmap](https://youtu.be/Je_KYIM9QJc)
@@ -740,6 +749,7 @@
 - [How to get noticed by Facebook as a Developer (Super simple!) | Warp Code tutorial](https://youtu.be/O-hbl6jYnnI)
 
 ## Data Analytics
+- [What is Apache Spark?](https://youtu.be/KAuIvccwbPY)
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
 - [Data Analytics Free Course for Data Analyst Jobs | Data Analyst Free Course | Intellipaat](https://youtu.be/Dnch98Zf2ks)
 
