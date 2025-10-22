@@ -855,6 +855,9 @@
 #### Cpp
 - [C++ Object Oriented Programming Crash Course (1.5 HOURS)](https://youtu.be/zZpLRBHfY3Q)
 
+#### Java
+- [Now is the best time to learn Java](https://youtu.be/lvHR2Xc9LMU)
+
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 
