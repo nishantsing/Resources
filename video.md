@@ -202,8 +202,9 @@
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
 - [Lazygit in a nutshell](https://youtu.be/4mgxvcSbwz0)
   
-##### Projects
+##### Project Ideas
 - [Sentiment Analysis Code Sample](https://youtu.be/4SJv8YxGho4)
+- [The 4 Projects That Get You Out of Web Dev](https://youtu.be/CwznNoeiCRg?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
 
 ## W3
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
@@ -326,6 +327,9 @@
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
 - [System Design | Kafka vs Inngest](https://youtu.be/VP7GQO_Zab4)
 - [FAANG System Design Interview: Design A Chat System (WhatsApp, Facebook Messenger, Discord, Slack)](https://youtu.be/okrR1KXNLtA)
+
+#### LLD
+- [Master Low Level System Design (LLD) In 6 STEPS | LLD Roadmap for Placements & Interviews](https://youtu.be/qhYZhhAD7Vc)
 
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
@@ -533,6 +537,7 @@
 - [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
    
 #### Reactjs
+  - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](https://youtu.be/TtPXvEcE11E)
   - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
   - [Build and Deploy a Full Stack React Admin Dashboard for a Travel Agency | React Router v7](https://youtu.be/xZ1ba-RLrjo)
   - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
@@ -606,6 +611,7 @@
 
 #### React Native
 
+- [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://youtu.be/G1XiiXTQHSE?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
 - [Build React Native Full Stack App Using Expo, Firebase and AI | AI Pocket Agent](https://youtu.be/TDbsttEkidU)
 - [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
 - [React Native Bootcamp in 30 HOURS for FREE](https://youtu.be/q3HE1dFiJBI)
@@ -1007,6 +1013,10 @@
    
 #### AI SaaS Interview
 - [How to Build the Ultimate AI SaaS Project - AI Interviews, Resume Reviews, Technical Questions](https://youtu.be/xrrtYNr7ZEw)
+
+#### B2B AI SaaS TeamFow(Slack)
+- [Create a B2B AI SaaS with Next.js, React, Arcjet, Kinde, oRPC, Prisma, Tailwind (Part 1/2)](https://youtu.be/Uj9X7Hbw6dk)
+- [Create a B2B AI SaaS with Next.js, React, Arcjet, Kinde, oRPC, Prisma, Tailwind (Part 2/2)](https://youtu.be/neuXgoon61w)
 
 #### AI Products Ads Generator 
 - [Build & Deploy AI Product Ads Generator | Next.js + React + TypeScript + Firebase + ImageKit ⚡](https://m.youtube.com/watch?v=Jcn44FZYMUQ)
