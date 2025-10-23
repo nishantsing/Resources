@@ -170,6 +170,7 @@
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
 - [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU)
 - [My Honest Advice to Beginner ML Students for 2025](https://youtu.be/8N7onbF-QUI)
+- [Computational Problem Solving Course – Vision-Based Positioning System in JavaScript](https://youtu.be/xJjxQjZTryI)
 
 ## Discord bot
 - [How to Build a Discord Bot With Python - Full Tutorial 2025+](https://youtu.be/YD_N6Ffoojw)
@@ -227,6 +228,7 @@
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
 ## JS
+- [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
 - [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
 - [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
 - [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
@@ -583,6 +585,9 @@
 #### Serverless Function
 - [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API](https://youtu.be/V0P3Opf-zUs)
 
+#### Motia
+- [Introduction to Complete Motia playlist](https://youtu.be/WCb1gHw8VrU)
+
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
     - AppWrite
@@ -667,6 +672,7 @@
 - [Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript, Open AI, Stream & Neon Database](https://youtu.be/VR3p7almo_c)
 - [MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io](https://youtu.be/ntKkVrQqBYY)
 - [Create Your Own AI Developer: Build a Complete Realtime MERN Chat App with Google Gemini](https://youtu.be/v9MtwYmSXuw)
+- [MERN Stack Realtime Chat App - Socket.io, Gemini AI, React.js & Group Chat | Full Course](https://youtu.be/9VAYiRUY5s0)
 
 ## Real Time Communication
 - [Long polling, server sent Events and Web Sockets | Real time communication jargons in Hindi](https://youtu.be/_CCyMWSZNU4)
@@ -688,6 +694,7 @@
 - [Learn Go With This ONE Project](https://youtu.be/0ySoir3qBuM)
 
 #### Node
+- [Node.js can do that?](https://youtu.be/BKS4lDIhPaM)
 - [npm vs Yarn vs pnpm vs Bun – Which Package Manager Should You Use in 2025?](https://youtu.be/cKIR9thCZhA)
 - [Node quietly became surprisingly good...2025](https://youtu.be/7CHgOWPx2WA)
 - [Build a Real Time Chat App With Node.js And Socket.io](https://youtu.be/rxzOqP9YwmM)
