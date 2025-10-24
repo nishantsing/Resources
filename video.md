@@ -587,7 +587,7 @@
 - [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API](https://youtu.be/V0P3Opf-zUs)
 
 #### Motia
-- [Introduction to Complete Motia playlist](https://youtu.be/WCb1gHw8VrU)
+- [Introduction to Complete Motia playlist](https://youtu.be/WCb1gHw8VrU?list=PLRAV69dS1uWQxSxY2LsDERqvtk7pb-zhS)
 
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
