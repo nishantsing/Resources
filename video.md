@@ -229,6 +229,7 @@
 
 ## JS
 - [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
+- [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
 - [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
 - [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
 - [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
