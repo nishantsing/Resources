@@ -788,12 +788,14 @@
 
 ## Debugging
 - [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
+- [This CSS Dev Tool Makes Accessibility so Easy](https://youtu.be/zv8ZDr0zGdU)
 - [This Simple Dev Tools Feature Makes Working On Teams Much Easier](https://m.youtube.com/watch?v=Btv_oJFDjuE)
 - [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
 - [No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)](https://youtu.be/AzOWedAKoNQ)
 - [This Font Feature Is A Must Use In Your Dev Tools](https://youtu.be/Jlxpwxt9FUU)
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
+- [Performance optimization Pitstop](https://youtu.be/3haeDqv7Dzc)
 
 ## Networking
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
