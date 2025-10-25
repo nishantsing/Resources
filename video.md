@@ -456,6 +456,7 @@
 - [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
 
 #### Nextjs
+- [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-2]](https://youtu.be/2-947UhLRW4)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
