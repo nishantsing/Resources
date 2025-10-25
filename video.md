@@ -165,6 +165,8 @@
 
   
 ## ML
+- [Beginner's Guide to Machine Learning in JavaScript with ml5.js](https://youtu.be/26uABexmOX4?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+- [Machine Learning in the Browser with Transformers.js](https://youtu.be/KR61bXsPlLU)
 - [Build Object Detection Using Free Open-source AI Models](https://youtu.be/1YrMsBiTEBo)
 - [Automatic speech recognition using Whisper in NextJs](https://youtu.be/bjgaDZrbYN0)
 - [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g)
