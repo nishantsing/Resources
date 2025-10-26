@@ -373,6 +373,7 @@
 - [UI UX Design Full Course (2025) | Intellipaat](https://youtu.be/2icljqpaddk)
 
 #### Senior devs
+- [How I Actually Create React Applications](https://youtu.be/MHQ1Ly__X_Q)
 - [How To Debug React Apps Like A Senior Developer](https://youtu.be/l8knG0BPr-o)
 - [How To Handle Data Access Like a Senior Dev](https://youtu.be/Av7KqJVLiYc)
 - [Stop Writing Bad Abstractions – Clean Code Tips That Work](https://youtu.be/mG5P1WSgIGo)
