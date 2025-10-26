@@ -200,6 +200,9 @@
 ## A to Z Web Development Beginner
 - [How to Create Anything With AI — Beginner’s Guide to AI Development](https://youtu.be/fx-nD4V80fU)
 
+##### Development Tools
+- [These Tools Changed My Developer Life!](https://youtu.be/WvmIySApcS8)
+
 ##### Git and Github
 - [Never* use git pull](https://youtu.be/xN1-2p06Urc)
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
