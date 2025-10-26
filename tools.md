@@ -1,5 +1,16 @@
 # Tools
 
+## Development tools
+- [tldraw](https://www.tldraw.com/)
+- [Responsively App](https://responsively.app/)
+- [DBeaver](https://dbeaver.io/)
+- [Doppler](https://www.doppler.com/)
+- [Insomnia](https://insomnia.rest/)
+- [Pinggy](https://pinggy.io/)
+- [Taskfile](https://taskfile.dev/)
+- [DevToys](https://devtoys.app/)
+- [Warp Terminal](https://www.warp.dev/)
+
 ## Coding Editors
 - VSCode
     - [VSCode Features Python Devs NEED To Know](https://youtu.be/F60iJ3xxgtg)
