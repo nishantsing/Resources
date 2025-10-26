@@ -23,6 +23,7 @@
 - [This AI Supercomputer can fit on your desk...](https://youtu.be/FYL9e_aqZY0)
 
   - AI Agents
+      - [Build a Python AI Agent in 10 Minutes](https://youtu.be/gaGaPpnexxA)
       - [How to Build AI Agents in Python](https://youtu.be/OKwDzKY_WN8)
       - [How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)](https://youtu.be/B0TJC4lmzEM)
       - [Getting Started with AI Agents](https://youtu.be/leWuDQoDaYY)
