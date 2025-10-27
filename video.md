@@ -21,6 +21,7 @@
 - [Best Frameworks To Learn For Building AI Agents And Agentic AI](https://youtu.be/YoqH1XbeC10)
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 - [This AI Supercomputer can fit on your desk...](https://youtu.be/FYL9e_aqZY0)
+- [ArtificiaI Intelligence Full Course (2025) | Free AI Course | Intellipaat](https://youtu.be/sQmUuG_ol4Y)
 
   - AI Agents
       - [Build a Python AI Agent in 10 Minutes](https://youtu.be/gaGaPpnexxA)
