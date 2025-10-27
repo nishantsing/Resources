@@ -256,6 +256,7 @@
 - [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
 - [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
 - [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
+- [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
 
   
 ## Useful Github Repos
@@ -811,6 +812,7 @@
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
 
 #### AWS
+- [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners](https://youtu.be/Ny0WOwDGero)
 - [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
