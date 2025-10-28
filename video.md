@@ -335,6 +335,7 @@
 
 
 ## System Design
+- [Latency vs Throughput | System Design Tradeoffs | What is Latency | What is Throughput](https://youtu.be/60fxsk13g_k?list=PLxOsu5yU9ovMCLqjFIghtMUMMwG8pq8bl)
 - [6 Database Concepts Your Should Know](https://youtu.be/Lea9frgParA)
 - [Master System Design Verticals to Crack Any Interview](https://youtu.be/geQX1bL2oLI)
 - [Leetcode for System Design? AI Interviewer Launched.](https://youtu.be/cJDgNSWTwrg)
