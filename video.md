@@ -623,6 +623,7 @@
 #### Supabase
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
 - [Auth & backend so simple even this CSS dev gets it](https://youtu.be/STqtxe7y0jo)
+- [Build the Ultimate Realtime Chat Project](https://youtu.be/5MQb6pVkQHA)
 
 ## Web Assembly
 - [WebAssembly from the Ground Up with Patrick Dubroy and Mariano Guerra](https://youtu.be/dRdDhybw6NI)
