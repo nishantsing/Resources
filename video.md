@@ -976,6 +976,7 @@
 
 ## Projects
 - [Complete Zomato MERN Project | Reels-Style Video Feed Integration](https://m.youtube.com/watch?v=CQ741Gw9Bz0&pp=0gcJCRsBo7VqN5tD)
+- [Build and Deploy Full Stack Project Management App using React js | PERN Stack Project 2025](https://youtu.be/50NN3d-Ne1U)
 - [4 Programming Projects for Employment in 2025](https://youtu.be/9TDtDCXTtPM)
 - [9 Project Ideas to Build in 2025 | AI, DeFi, Web 3 and Full stack](https://youtu.be/pXJ2qoGU88g)
 - [9 Project ideas to build before 2025 ends](https://youtu.be/V3LGd7CkASw)
