@@ -623,7 +623,6 @@
 ## Application
 - [Master Python With This ONE Project!](https://youtu.be/Dn1EjhcQk64)
 - [Automate Google Sheets With Python - Google Sheets API Tutorial](https://youtu.be/zCEJurLGFRk)
-- [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
 - [Local First from Scratch - How to make a web app with local data](https://youtu.be/Qoqh9Mdmk80)
 
 ### Folder Structure
@@ -1010,6 +1009,10 @@
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
+
+#### Hitesh
+- [Building a stackoverflow clone with Nextjs and Appwrite](https://youtu.be/VQ3HhyQCbMA?list=PLRAV69dS1uWRJcxXk1omgcMI07ygMxSRl)
+- [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
 
 #### Tube Guruji YouTube
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
