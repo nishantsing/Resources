@@ -912,6 +912,10 @@
 #### Flutter
 - [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
 
+#### Sanskrit
+- [Sanskrit for Beginners by Ashok](https://youtu.be/giDplHSKeoE?list=PL8hlzSD3smGgf8BA3XcWMUlgB1tsoYyD-)
+- [Learn Sanskrit : Be Modern !](https://youtu.be/HTrDZ_5YXow?list=PLNsppmbLKJ8JRS9YDUImL8KetHiB-6CQ9)
+
 ## How it works
 - [THIS Is Where the Internet Lives](https://youtu.be/v477fvbj3rk)
 - [How database works   Engineering side](https://youtu.be/bB7YAWPiJR4)
