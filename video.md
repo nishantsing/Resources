@@ -279,6 +279,7 @@
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
 
 ## CSS
+- [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [@container Queries Containment Module CSS Tutorial](https://youtu.be/r9oB4OolaAs)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
@@ -342,6 +343,9 @@
 
 #### LLD
 - [Master Low Level System Design (LLD) In 6 STEPS | LLD Roadmap for Placements & Interviews](https://youtu.be/qhYZhhAD7Vc)
+
+#### HLD
+- [HLD from basics to advance](https://youtu.be/rliSgjoOFTs?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
 
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
@@ -808,6 +812,7 @@
 - [DevTools Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
 - [Performance optimization Pitstop](https://youtu.be/3haeDqv7Dzc)
+- [Developer Tooling Tips](https://youtu.be/3haeDqv7Dzc?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 
 ## Networking
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
