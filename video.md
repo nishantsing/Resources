@@ -302,6 +302,7 @@
 - [Complete DSA Course – 50 hours to master technical interviews - Part 4](https://youtu.be/MgHNwixPBs4)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 5](https://youtu.be/ByXPzwnsEG8)
 - [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs)
+- [Leetcode BLIND 75 solution](https://youtu.be/KLlXCFG5TnA?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
 - [Neetcode 150 Course - All Coding Interview Questions Solved](https://youtu.be/T0u5nwSA0w0)
 - [Neetcode 150 Playlist](https://youtu.be/GIYk1wit12k?list=PL_EB_bIOCNYntOV8SQNttp6OxcNEVdNS7)
 - [Data Structures - Explained || Full Course](https://youtu.be/2h433OItQiA?list=PL_EB_bIOCNYkmPO1HhTEILUqNjAIf2tcw)
@@ -372,6 +373,7 @@
 - [Stitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)](https://youtu.be/lVF_k12GO-Y)
 
 #### Figma
+- [Learning FIGMA is a product person](https://youtu.be/nITbdDFpPvY?list=PLXDU_eVOJTx7Tiz0af6LTKouP04cHJZIJ)
 - [Figma Oversimplified](https://youtu.be/hdEDKwI46_E)
 - [2024 UI/UX Design Crash Course in Figma](https://youtu.be/dYtdv--qd_U)
 - [Live Design Course Project Design](https://youtu.be/IhJq9J_CWA8)
@@ -620,7 +622,7 @@
 ## Application
 - [Master Python With This ONE Project!](https://youtu.be/Dn1EjhcQk64)
 - [Automate Google Sheets With Python - Google Sheets API Tutorial](https://youtu.be/zCEJurLGFRk)
-- [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
+- [SaaS Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
 - [Local First from Scratch - How to make a web app with local data](https://youtu.be/Qoqh9Mdmk80)
 
 ### Folder Structure
@@ -991,7 +993,7 @@
 - [Large Projects](https://www.youtube.com/watch?v=iqrgggs0Qk0&list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
   
 #### YT Projects Playlists 
-- [React JS Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=mPpPJ9TbaHU&list=PLvkzE15gPjFgmaU_fUGHoTmvYNMFkNODe&pp=0gcJCaIEOCosWNin)
+- [React JS Project Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=mPpPJ9TbaHU&list=PLvkzE15gPjFgmaU_fUGHoTmvYNMFkNODe&pp=0gcJCaIEOCosWNin)
 - [Full Stack Projects - GreatStack](https://www.youtube.com/watch?v=7E6um7NGmeE&list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA)
 - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0?list=PLZlA0Gpn_vH98uzFzak6aFNKinB-lrE9X)
 - [Master Ractjs by Building Real Projects - Javascript Mastery](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
