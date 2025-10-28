@@ -622,7 +622,7 @@
 ## Application
 - [Master Python With This ONE Project!](https://youtu.be/Dn1EjhcQk64)
 - [Automate Google Sheets With Python - Google Sheets API Tutorial](https://youtu.be/zCEJurLGFRk)
-- [SaaS Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
+- [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
 - [Local First from Scratch - How to make a web app with local data](https://youtu.be/Qoqh9Mdmk80)
 
 ### Folder Structure
