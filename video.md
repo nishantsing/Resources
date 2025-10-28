@@ -236,6 +236,7 @@
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
 ## JS
+- [Javascript DOM Manipulation](https://youtu.be/-z9AdSUZ2p8?list=PLvkzE15gPjFjBKL9flieNPT-a0-OdNZzs)
 - [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
 - [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
 - [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
@@ -364,9 +365,6 @@
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
 - [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
-- 
-
-
 
 ## Design
 
