@@ -417,7 +417,7 @@
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 
 #### React
-
+- [chai aur react series](https://youtu.be/vz1RlUyrc3w?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
 - [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
 - [Day 0: Why React Needs Design Patterns + 10-Min Crash Course - Playlist](https://www.youtube.com/playlist?list=PLIJrr73KDmRyQVT__uFZvaVfWPdfyMFHC)
 - [React Design Pattern : Higher Order Function Component | React Higher Order Components Tutorial](https://youtu.be/ZeNHbHtKNFo)
