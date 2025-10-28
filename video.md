@@ -550,6 +550,10 @@
    
   - Appwrite
       - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
+      - [Build a Real-time Voting App with React](https://youtu.be/aaMfTpow_X0)
+      - [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/7MjF70xUcXs)
+      - [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/rd6sMmf0fcA)
+      - [How To Build A Twitter Clone - React Next JS - Appwrite Crash Course](https://youtu.be/_O5jjEwCgmA)
    
 
 ###### Build Saas
@@ -577,6 +581,8 @@
 - [8 Reasons To Try Better Auth](https://youtu.be/_OApmLmex14)
 - [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
 - [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
+- [Build Advanced MERN Auth with Nodejs, 2FA, Email Verification, Cookies, Sessions, JWT & Nextjs](https://youtu.be/2LRLsMracAY)
+- [Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails](https://youtu.be/pmvEgZC55Cg)
 
 ## Backend
 
@@ -591,6 +597,7 @@
 - [Express JS Full Course](https://youtu.be/nH9E25nkk3I)
 - [SQLite3 in Node with better-sqlite3](https://youtu.be/IooIXYf0PIo)
 - [Zero to Hero EXPRESS Backend MASTERCLASS in 5 Hours | 2025](https://youtu.be/AR6aUOnd9Co)
+- [Messaging Tutorial - SMS/Email/Push Notifications Full Course](https://youtu.be/bZFj8GCZmq4)
 
 #### Hono
 - [Summarize Hacker News with Hono + Cloudflare](https://m.youtube.com/watch?v=Wuo7OOaSgmI)
@@ -608,7 +615,7 @@
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
     - AppWrite
-        - [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs?list=PLF8LumSOX3y9I9qXY77QddYevVgXQn7mM)
+        - [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs)
         - 
 #### SQL
 - [Harvard CS50’s Intro to Databases with SQL – Full University Course](https://youtu.be/WXk7yDqsKxs)
