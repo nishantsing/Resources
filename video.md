@@ -333,6 +333,7 @@
 
 ## CSS
 - [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
+- [CSS Combinators you need to know (and a selector too)](https://youtu.be/rndMS4pEKP8)
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [@container Queries Containment Module CSS Tutorial](https://youtu.be/r9oB4OolaAs)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
@@ -345,8 +346,16 @@
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 - [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
+- [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
+- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
+- [The Ultimate Guide to Tailwind CSS](https://youtu.be/g03Yldh9Nkw)
+- [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
+- [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
+- [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
+- [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 
 ## JS
+- [Level up your debugging with these CONSOLE METHODS](https://youtu.be/fqtf6-aUxyU)
 - [Javascript DOM Manipulation](https://youtu.be/-z9AdSUZ2p8?list=PLvkzE15gPjFjBKL9flieNPT-a0-OdNZzs)
 - [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
 - [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
@@ -417,6 +426,7 @@
 #### Get Certified with Sourav
 - [Mastering Kubernetes and AWS in 30 Days!](https://youtu.be/Qcq117rL0u8)
 - [MongoDB Badges](https://learn.mongodb.com/skills)
+- [Kubernetes Course – Certified Kubernetes Administrator Exam Preparation](https://youtu.be/Fr9GqFwl6NM)
 
 
 ## System Design
@@ -486,14 +496,7 @@
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://youtu.be/0UvA7zvwsmg)
 - [Streamlit Mini Course - Make Websites With ONLY Python](https://youtu.be/o8p7uQCGD0U)
 
-### CSS
-- [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
-- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
-- [The Ultimate Guide to Tailwind CSS](https://youtu.be/g03Yldh9Nkw)
-- [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
-- [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
-- [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
-- [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
+### CSS Libraries
 
 #### Tailwind
 - [Tailwind Tutorial - Net Ninja](https://youtu.be/bxmDnn7lrnk?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
@@ -536,6 +539,7 @@
 - [Gatsby Tutorial](https://youtu.be/Qms4k6y7OgI?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
 
 #### React
+- [Build and Deploy a Modern Website in ReactJS and Tailwind CSS | Fully Responsive React UI / UX](https://youtu.be/yS7B1W2SwaU)
 - [Complete React JS Course | MERN Stack Development](https://youtu.be/E6tAtRi82QY)
 - [[COMPLETE PROJECT 🔥] 10 LPA Job Guaranteed with This React Project!](https://youtu.be/TTx7Y3a7EmA)
 - [React Interview Series 🎯 | Master Real-Life Challenges | Part 1 - Form Validation](https://youtu.be/hYVroLLnwqg)
@@ -873,6 +877,9 @@
 - [Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript](https://youtu.be/gCwHi-UFSdg)
 - [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://youtu.be/CQQc8QyIGl0)
 
+#### Bun
+- [It's more than just a "nice alternative"](https://youtu.be/OcvaJ9Lm-lc)
+
 #### Spring Boot
 
 - [Spring Boot Tutorial for Beginners - Your First Spring Boot Application - 1](https://youtu.be/gJrjgg1KVL4)
@@ -965,6 +972,7 @@
 
 #### AWS
 - [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners](https://youtu.be/Ny0WOwDGero)
+- [How to Use AWS CLI | Installation, Configuration & Common Commands](https://youtu.be/wYO4LyYrts4)
 - [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
