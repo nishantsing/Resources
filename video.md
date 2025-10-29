@@ -246,10 +246,12 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa)
+- [Neetcode](https://neetcode.io/)
 
 #### System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [Persmission System](https://github.com/WebDevSimplified/permission-system)
 
 #### JS Interview and Projects
 - [JS Interview Qns](https://github.com/sudheerj)
@@ -260,7 +262,6 @@
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Automate Boring Stuff](https://automatetheboringstuff.com/)
 - [coderbyte](https://coderbyte.com/challenges)
 - [roadmap](https://roadmap.sh/backend/projects)
 - [Edabit](https://edabit.com/challenges/javascript)
@@ -281,11 +282,13 @@
 - [the-complete-react-guide](https://github.com/themaximehardy/the-complete-react-guide/tree/master)
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
+- [React Medium](https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n)
 
 #### Node
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 
 #### Other Languages
+- [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [java-basics](https://github.com/learning-zone/java-basics)
 
@@ -297,10 +300,12 @@
 - [30 Seconds of code](https://www.30secondsofcode.org/)
 - [Quick ref](https://quickref.me/index.html#google_vignette)
 
-
 #### General
 - [free-for-dev](https://github.com/jixserver/free-for-dev)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Roadmap](https://roadmap.sh/backend/projects)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Developer Portfolio Ideas](https://github.com/emmabostian/developer-portfolios)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
