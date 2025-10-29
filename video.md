@@ -143,6 +143,7 @@
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
 - [How LLMs Actually Understand Images](https://youtu.be/W1H1DDMWPdg)
 - [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
+- [You've Been Using AI the Hard Way (Use This Instead) - LLM in terminal](https://youtu.be/MsQACpcuTkU)
 
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
@@ -235,34 +236,16 @@
 #### Pandas
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
-## JS
-- [Javascript DOM Manipulation](https://youtu.be/-z9AdSUZ2p8?list=PLvkzE15gPjFjBKL9flieNPT-a0-OdNZzs)
-- [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
-- [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
-- [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
-- [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
-- [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
-- [Build an Animated Website with React + GSAP | Responsive + Free Deployment Guide](https://m.youtube.com/watch?v=NjqjakgPL84&pp=0gcJCRsBo7VqN5tD)
-- [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
-- [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
-- [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
-- [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
-- [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
-- [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
-- [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
-- [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
-- [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
-- [JS Array Challenges](https://youtu.be/Pbl3gZj54sM)
-- [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
-- [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
-- [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
-- [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
-- [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
-- [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
 
-  
 ## Useful Github Repos
 - [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [Automate Boring Stuff](https://automatetheboringstuff.com/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa)
+- [Interview Questions](https://github.com/sudheerj)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
@@ -293,6 +276,39 @@
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 - [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
+
+## JS
+- [Javascript DOM Manipulation](https://youtu.be/-z9AdSUZ2p8?list=PLvkzE15gPjFjBKL9flieNPT-a0-OdNZzs)
+- [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
+- [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
+- [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
+- [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
+- [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
+- [Build an Animated Website with React + GSAP | Responsive + Free Deployment Guide](https://m.youtube.com/watch?v=NjqjakgPL84&pp=0gcJCRsBo7VqN5tD)
+- [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
+- [JavaScript Operators you should know](https://youtu.be/yP9g2k6-zXQ)
+- [Modern JavaScript TODO app](https://youtu.be/VjrNDF5bZf4)
+- [9 NEW JavaScript Features in ES2025](https://youtu.be/1-cjrEMj_us)
+- [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ)
+- [I Cannot Believe Abort Controller Can Do This](https://youtu.be/BeZfiCPhZbI)
+- [Image Classification with ml5.js](https://youtu.be/pbjR20eTLVs)
+- [Pose Estimation with ml5.js](https://youtu.be/T99fNXTUUaQ)
+- [Local Data: Sqlite, LocalStorage, Session, Cookies and IndexDB](https://youtu.be/VzUHeLsJOrs)
+- [JS Array Challenges](https://youtu.be/Pbl3gZj54sM)
+- [Learn JavaScript With These 5 Projects](https://youtu.be/kZMwrXyxQYE)
+- [JavaScript Speed Course - JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8)
+- [Eloquent JavaScript: Chapter 1](https://youtu.be/hhrfVWThQMo)
+- [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
+- [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
+- [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
+
+## TypeScript
+- [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
+- [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
+- [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
+- [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
+- [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
+- [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
 
 ## DSA
 - [Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours](https://youtu.be/xwI5OBEnsZU)
@@ -401,7 +417,7 @@
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://youtu.be/0UvA7zvwsmg)
 - [Streamlit Mini Course - Make Websites With ONLY Python](https://youtu.be/o8p7uQCGD0U)
 
-#### CSS
+### CSS
 - [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
 - [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
 - [The Ultimate Guide to Tailwind CSS](https://youtu.be/g03Yldh9Nkw)
@@ -410,12 +426,45 @@
 - [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 
-#### Cookies
+#### Tailwind
+- [Tailwind Tutorial - Net Ninja](https://youtu.be/bxmDnn7lrnk?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+- [Tailwind JIT](https://youtu.be/aQS7kaje-24?list=PL4cUxeGkcC9ht1OMQPhBVKAb2dVLhg-MJ)
+
+#### Material UI
+- [Material UI - Net Ninja](https://youtu.be/0KEpWHtG10M?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58)
+
+#### ShadCN
+- [ShadCN UI](https://youtu.be/wcTzlJi2Oz4?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
+- [Shadcn Isn’t Just a Library Anymore… Here’s How to 10x Your UI](https://youtu.be/V8rGgwQ-VJ0)
+- [How To Use Shadcn’s NEW Field Component - TanStack Form and React Hook Form](https://youtu.be/gjrXeqgxbas)
+- [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
+- [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
+- [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
+
+#### Chakra UI
+- [Chakra UI Crash Course](https://youtu.be/iXsM6NkEmFc?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
+
+#### SkiperUI
+- [Build Stunning UIs with This New Library | Skiper UI Full Project Tutorial](https://youtu.be/CEdGKeo85bk)
+
+#### Bootstrap 5 
+- [Crash Course - Net Ninja](https://youtu.be/O_9u1P5YjVc?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+
+### Cookies
 - [HTTP request and response for cookies](https://youtube.com/watch?v=S7CrMHOoKAs&si=s0mL6vL5lBV62CWU)
+
+### Frontend Library
 
 #### Astro
 - [Lesson 1 — Introduction to Astro](https://youtu.be/HZ4pCYg9Rws)
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
+- [Figma and Astro Static Site build](https://youtu.be/jyjScZWgzIg?list=PL4cUxeGkcC9hZm9NYpd4G-jhoeEk0ls--)
+
+#### Svelte
+- [SvelteKit Tutorial](https://youtu.be/9OlLxkaeVvw?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+
+#### Gatsby
+- [Gatsby Tutorial](https://youtu.be/Qms4k6y7OgI?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
 
 #### React
 - [chai aur react series](https://youtu.be/vz1RlUyrc3w?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
@@ -458,18 +507,6 @@
 #### React Admin
 - [React Admin Crash Course 2025](https://youtu.be/PyaSnpXssks)
 
-#### UI Library
-
-###### SkiperUI
-- [Build Stunning UIs with This New Library | Skiper UI Full Project Tutorial](https://youtu.be/CEdGKeo85bk)
-
-#### ShadCN
-- [Shadcn Isn’t Just a Library Anymore… Here’s How to 10x Your UI](https://youtu.be/V8rGgwQ-VJ0)
-- [How To Use Shadcn’s NEW Field Component - TanStack Form and React Hook Form](https://youtu.be/gjrXeqgxbas)
-- [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
-- [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
-- [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
-
 #### Nextjs
 - [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
@@ -478,6 +515,17 @@
 - [NextJS + Postgres and Error Monitoring - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build AI-Powered Apps with Next.js: Real-World LLM Integration | iJS](https://youtu.be/gTsnsfKB-XM)
+- [Next.js 15 Full-Stack Course For Beginners (12 Apps in 37 Hours | 2024)](https://youtu.be/cso7-4oAPNQ)
+- [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
+- [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
+- [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
+- [User onboarding with NextJs, Neon, Clerk, and Upstash](https://youtu.be/pYCCEgzpJBE)
+- [Build a Full Stack AI SaaS Platform With Nextjs, React, Tailwind, Express](https://youtu.be/4qdQ7kE80SY)
+- [Appointment booking app with NextJs, Neon, Clerk & Cal.com](https://youtu.be/vmNpfgbIo3I)
+- [Next.js 15 Breakdown (Everything You Need To Know)](https://youtu.be/fqabW3WRUbw)
+- [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
+- [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
+- [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
 
 #### Ripple
 - [Will This New JS Framework Replace React? | RippleJS First Look](https://youtu.be/PG_PCGjfFto)
@@ -530,31 +578,6 @@
   - [Python + JavaScript - Full Stack App Tutorial](https://youtu.be/PppslXOR7TA)
   - [How To Make a Django REST API - Full Tutorial & Deployment](https://youtu.be/t-uAgI-AUxc)
   - [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://youtu.be/c-QsfbznSXI)
-
-#### Nextjs
-  - [Next.js 15 Full-Stack Course For Beginners (12 Apps in 37 Hours | 2024)](https://youtu.be/cso7-4oAPNQ)
-  - [The Ultimate Next.js E-Commerce Crash Course - How to Build using React, TypeScript, and Material UI](https://youtu.be/GPq3FukHOUs)
-  - [Build an OnlyFans with Next.js, Stripe and React   Complete Guide 2024](https://youtu.be/mduqkHlJujA)
-  - [Build Full Stack AI Course Generator App With NextJs, React, TailwindCss, Gemini Api, Drizzle](https://youtu.be/dJPVV0nFFWY)
-  - [User onboarding with NextJs, Neon, Clerk, and Upstash](https://youtu.be/pYCCEgzpJBE)
-  - [Build a Full Stack AI SaaS Platform With Nextjs, React, Tailwind, Express](https://youtu.be/4qdQ7kE80SY)
-  - GraphQL
-      - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
-  - Prisma
-      - [Prisma Introduction - Node Database Tutorial (Postgres, MongoDB)](https://youtu.be/gYeV4wmcyes)
-      - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0) - Must watch - WDS
-      - [How To Make Beautiful Charts In Next.js](https://youtu.be/15qMh8C1Wzo)
-      - [How To Build A Next.js Coupon System Like A Senior Developer](https://youtu.be/qpApvVd_dCw)
-      - [Full App Build - Dev to Deployment - Next.js, Prisma, Neon & Clerk](https://youtu.be/I6DCo5RwHBE)
-      - [Prisma meets Sevalla Postgres Database](https://youtu.be/Ax2MZAOSdhM)
-   
-  - Appwrite
-      - [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
-      - [Build a Real-time Voting App with React](https://youtu.be/aaMfTpow_X0)
-      - [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/7MjF70xUcXs)
-      - [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/rd6sMmf0fcA)
-      - [How To Build A Twitter Clone - React Next JS - Appwrite Crash Course](https://youtu.be/_O5jjEwCgmA)
-   
 
 ###### Build Saas
 - [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
@@ -614,16 +637,59 @@
 
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
-    - AppWrite
-        - [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs)
-        - 
+
+#### MongoDB
+
+#### Postgress
+
+#### Redis
+- [Redis for Beginners](https://youtu.be/8sHCdz_tOjk?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
+
+#### SQLite
+
+#### GraphQL
+- [GraphQL Crash Course](https://youtu.be/xMCnDesBggM?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+- [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
+
 #### SQL
 - [Harvard CS50’s Intro to Databases with SQL – Full University Course](https://youtu.be/WXk7yDqsKxs)
-    
+
+### Backend AS a Service
+
 #### Supabase
+- [Supabase Crash Course](https://youtu.be/ydz7Dj5QHKY?list=PL4cUxeGkcC9hUb6sHthUEwG7r9VDPBMKO)
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
 - [Auth & backend so simple even this CSS dev gets it](https://youtu.be/STqtxe7y0jo)
 - [Build the Ultimate Realtime Chat Project](https://youtu.be/5MQb6pVkQHA)
+
+#### Appwrite
+- [Appwrite DB](https://youtu.be/HGlBpna17LQ?list=PL4cUxeGkcC9gXxY0nrh9N4CYHtwnoHjV2)
+- [Appwrite crash course | Open Source Backend as a Service | Reactjs](https://youtu.be/jkngyZjRETs)
+- [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/l9zh0pqEHyc)
+- [Build a Real-time Voting App with React](https://youtu.be/aaMfTpow_X0)
+- [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/7MjF70xUcXs)
+- [Build a CRUD app with React, Tailwind and Appwrite - 1](https://youtu.be/rd6sMmf0fcA)
+- [How To Build A Twitter Clone - React Next JS - Appwrite Crash Course](https://youtu.be/_O5jjEwCgmA)
+
+#### Firebase
+- [Firebase 9](https://youtu.be/9zdvmgGsww0?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb)
+
+### ORM
+
+#### Mongoose
+
+#### Prisma
+
+- [Prisma Introduction - Node Database Tutorial (Postgres, MongoDB)](https://youtu.be/gYeV4wmcyes)
+- [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0) - Must watch - WDS
+- [How To Make Beautiful Charts In Next.js](https://youtu.be/15qMh8C1Wzo)
+- [How To Build A Next.js Coupon System Like A Senior Developer](https://youtu.be/qpApvVd_dCw)
+- [Full App Build - Dev to Deployment - Next.js, Prisma, Neon & Clerk](https://youtu.be/I6DCo5RwHBE)
+- [Prisma meets Sevalla Postgres Database](https://youtu.be/Ax2MZAOSdhM)
+
+#### Sequelize
+
+#### Drizzle
 
 ## Web Assembly
 - [WebAssembly from the Ground Up with Patrick Dubroy and Mariano Guerra](https://youtu.be/dRdDhybw6NI)
@@ -663,6 +729,12 @@
 
 #### Swift UI IOS
 - [SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
+
+#### Flutter/ Dart
+- [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
+- [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
+  
+#### Kotlin
 
 ## Cloud
 
@@ -714,8 +786,9 @@
 
 
 #### GO
-
+- [Golang Crash Course](https://youtu.be/etSN4X_fCnM?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM)
 - [Learn Go With This ONE Project](https://youtu.be/0ySoir3qBuM)
+- [Build a Microservice with Go #1 - Getting Started](https://youtu.be/wpnN3RIRSxs?list=PL4cUxeGkcC9iImF8w9FbFOc2UntutL9Wv)
 
 #### Node
 - [Node.js can do that?](https://youtu.be/BKS4lDIhPaM)
@@ -734,13 +807,6 @@
 - [Build a SaaS POS System | Java Full-Stack React + Spring Boot Project for Retail & Supermarkets](https://youtu.be/HM4TDO870kk)
 - [Build REST APIs with Spring Boot - 2](https://youtu.be/EWd3_I4X32g)
 - [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
-
-#### Next
-- [Appointment booking app with NextJs, Neon, Clerk & Cal.com](https://youtu.be/vmNpfgbIo3I)
-- [Next.js 15 Breakdown (Everything You Need To Know)](https://youtu.be/fqabW3WRUbw)
-- [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
-- [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
-- [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
 
 ## Microservices
 
@@ -848,6 +914,9 @@
 - [How to Deploy MERN Stack App | Complete Guide with Render, Vercel | Deploy Website In 10 Minutes](https://youtu.be/S2WhxW8xkHw)
 - [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
 
+#### Docker
+- [Docker Tutorial](https://youtu.be/31ieHmcTUOk?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+
 ## Production
 - [Build a Production-Ready MERN Stack Project | URL Shortener](https://youtu.be/ENmBjeLImt4)
 - [Must Know PRODUCTION - PRACTICES for every Developers 🔥| Coder BB | Node JS](https://youtu.be/OVp16VmkFxQ)
@@ -859,6 +928,9 @@
 ## Testing
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
 
+#### React Testing Library
+- [React Testing Library Tutorial](https://youtu.be/7dTTFW7yACQ?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
+
 ## DB
 - [Sync Engines and Local Data](https://youtu.be/1uVR5X7HpI8)
 
@@ -867,6 +939,9 @@
 - [Linux on Windows......Windows on Linux](https://youtu.be/vxTW22y8zV8)
 - [37 Linux Commands you NEED to Know](https://youtu.be/6P-vjgPx9ww)
 - [They built an OS in JS](https://youtu.be/EeonWxtPM_4)
+
+## CMS
+- [Hygraph (with Next.js) Tutorial #1 - Introduction & Starter Project](https://youtu.be/cj9Elt-KFPY?list=PL4cUxeGkcC9g_26FEqWTPak5H4liK9czt)
 
 ## GSOC
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
@@ -902,14 +977,6 @@
 
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
-
-#### TypeScript
-
-- [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
-- [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
-- [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
-- [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
-- [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
 
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
