@@ -257,6 +257,7 @@
 - [JS Interview Qns](https://github.com/sudheerj)
 - [HTML-CSS-JavaScript-projects-for-beginners](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main)
 - [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
+- [JS Algos](https://github.com/trekhleb/javascript-algorithms)
 
 #### Build your own stuff
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
@@ -283,6 +284,8 @@
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [React Medium](https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n)
+- [React Coding Challenge](https://github.com/alexgurr/react-coding-challenges)
+- [30 Days of react](https://github.com/Asabeneh/30-Days-Of-React)
 
 #### Node
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
@@ -291,6 +294,7 @@
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [java-basics](https://github.com/learning-zone/java-basics)
+- [What Happens When](https://github.com/alex/what-happens-when)
 
 #### AWS
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
@@ -306,6 +310,11 @@
 - [Roadmap](https://roadmap.sh/backend/projects)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Developer Portfolio Ideas](https://github.com/emmabostian/developer-portfolios)
+- [Free for Dev](https://github.com/jixserver/free-for-dev)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Stock Market API](https://github.com/maanavshah/stock-market-india)
+- [Open Source Projects to contribute](https://www.wearedevelopers.com/en/magazine/265/open-source-projects-for-developers-to-contribute)
+- [Hiring without white boards](https://github.com/poteto/hiring-without-whiteboards)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
