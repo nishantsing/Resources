@@ -78,25 +78,6 @@
 - jenkins, kaffka
 
 
-## Build to learn
-- [build your own x](https://github.com/codecrafters-io/build-your-own-x)
-- [coderbyte](https://coderbyte.com/challenges)
-- [roadmap](https://roadmap.sh/backend/projects)
-- [Edabit](https://edabit.com/challenges/javascript)
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [Python](https://automatetheboringstuff.com/)
-- [Codex](https://www.codedex.io/react/09-hot-takes-pt-1)
-- [CSS Battle](https://cssbattle.dev/)
-- [Code Crafters](https://codecrafters.io/)
-- [Learn JS](https://learnjavascript.online/)
-- [Scrima Interactive Courses](https://scrimba.com/home)
-- [Coddy Tech](https://coddy.tech/)
-
-## Cheat sheet
-- [30 Seconds of code](https://www.30secondsofcode.org/)
-- [Quick ref](https://quickref.me/index.html#google_vignette)
-
-
 ## Stocks
 - [Latest companies order](https://www.bseindia.com/corporates/ann.html)
       - Category company update, sub category Award of order
