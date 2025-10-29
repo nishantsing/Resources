@@ -261,6 +261,17 @@
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Automate Boring Stuff](https://automatetheboringstuff.com/)
+- [coderbyte](https://coderbyte.com/challenges)
+- [roadmap](https://roadmap.sh/backend/projects)
+- [Edabit](https://edabit.com/challenges/javascript)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Python](https://automatetheboringstuff.com/)
+- [Codex](https://www.codedex.io/react/09-hot-takes-pt-1)
+- [CSS Battle](https://cssbattle.dev/)
+- [Code Crafters](https://codecrafters.io/)
+- [Learn JS](https://learnjavascript.online/)
+- [Scrima Interactive Courses](https://scrimba.com/home)
+- [Coddy Tech](https://coddy.tech/)
 
 #### Interview Resources
 - [Awesome Interview Resources](https://github.com/ashishps1)
@@ -281,6 +292,11 @@
 #### AWS
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
 - [skillbuilder AWS](https://skillbuilder.aws/)
+  
+## Cheat sheet
+- [30 Seconds of code](https://www.30secondsofcode.org/)
+- [Quick ref](https://quickref.me/index.html#google_vignette)
+
 
 #### General
 - [free-for-dev](https://github.com/jixserver/free-for-dev)
