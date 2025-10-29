@@ -522,6 +522,9 @@
 - [Gatsby Tutorial](https://youtu.be/Qms4k6y7OgI?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
 
 #### React
+- [Complete React JS Course | MERN Stack Development](https://youtu.be/E6tAtRi82QY)
+- [[COMPLETE PROJECT 🔥] 10 LPA Job Guaranteed with This React Project!](https://youtu.be/TTx7Y3a7EmA)
+- [React Interview Series 🎯 | Master Real-Life Challenges | Part 1 - Form Validation](https://youtu.be/hYVroLLnwqg)
 - [chai aur react series](https://youtu.be/vz1RlUyrc3w?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
 - [ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School](https://youtu.be/3LRZRSIh_KE)
 - [Day 0: Why React Needs Design Patterns + 10-Min Crash Course - Playlist](https://www.youtube.com/playlist?list=PLIJrr73KDmRyQVT__uFZvaVfWPdfyMFHC)
