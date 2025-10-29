@@ -236,16 +236,55 @@
 #### Pandas
 - [Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)
 
-
 ## Useful Github Repos
-- [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- [Automate Boring Stuff](https://automatetheboringstuff.com/)
+
+#### Open Source
+- [https://github.com/keshavgbpecdelhi/first-contributions](https://github.com/keshavgbpecdelhi/first-contributions)
+
+#### DSA
+- [The Algorithms](https://github.com/TheAlgorithms)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa)
+
+#### System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
-- [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa)
-- [Interview Questions](https://github.com/sudheerj)
+
+#### JS Interview and Projects
+- [JS Interview Qns](https://github.com/sudheerj)
+- [HTML-CSS-JavaScript-projects-for-beginners](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main)
+- [JS Coding Challenges](https://github.com/coding-in-public/vanilla-javascript-challenges)
+
+#### Build your own stuff
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Automate Boring Stuff](https://automatetheboringstuff.com/)
+
+#### Interview Resources
+- [Awesome Interview Resources](https://github.com/ashishps1)
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
+##### React 
+- [the-complete-react-guide](https://github.com/themaximehardy/the-complete-react-guide/tree/master)
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
+
+#### Node
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
+#### Other Languages
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [java-basics](https://github.com/learning-zone/java-basics)
+
+#### AWS
+- [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
+- [skillbuilder AWS](https://skillbuilder.aws/)
+
+#### General
+- [free-for-dev](https://github.com/jixserver/free-for-dev)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
