@@ -585,6 +585,7 @@
 
 #### Nextjs
 - [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI)
+- [Next js 16 Cache Component](https://youtu.be/pHRPwBT53P0)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-2]](https://youtu.be/2-947UhLRW4)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn ui](https://youtu.be/hhudoSMM0yU)
@@ -602,6 +603,7 @@
 - [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
 - [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
 - [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
+
 
 #### Ripple
 - [Will This New JS Framework Replace React? | RippleJS First Look](https://youtu.be/PG_PCGjfFto)
@@ -641,11 +643,12 @@
   - [JavaScript and Python - Build and Deploy a Full Stack Web App](https://youtu.be/tWHXaSC2T_s)
 
 #### FastAPI
-  - [FastAPI Intro - Full CRUD API Tutorial (1 HOUR) - Backend Engineering](https://m.youtube.com/watch?v=k5abZLzsQc0)
-  - [The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set)](https://youtu.be/_1P0Uqk50Ps)
-  - [How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)](https://youtu.be/cy6EAp4iNN4)
-  - [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
-  - [FastAPI for Beginners | Learn by Building Project]([https://youtu.be/Rf9jbnzt2UU](https://m.youtube.com/watch?v=Lu8lXXlstvM))
+- [Learn Fast API With This ONE Project](https://youtu.be/SR5NYCdzKkc)
+- [FastAPI Intro - Full CRUD API Tutorial (1 HOUR) - Backend Engineering](https://m.youtube.com/watch?v=k5abZLzsQc0)
+- [The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set)](https://youtu.be/_1P0Uqk50Ps)
+- [How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)](https://youtu.be/cy6EAp4iNN4)
+- [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
+- [FastAPI for Beginners | Learn by Building Project]([https://youtu.be/Rf9jbnzt2UU](https://m.youtube.com/watch?v=Lu8lXXlstvM))
 
 #### PHP
 - [Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners](https://youtu.be/UuknxVdqzb4)
@@ -1033,7 +1036,8 @@
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 
-## Hacking
+## Cybersecurity
+- [Harvard CS50’s Intro to Cybersecurity – Full University Course](https://youtu.be/9HOpanT0GRs)
 - [Hacking AI is TOO EASY (this should be illegal)](https://youtu.be/Qvx2sVgQ-u0)
 - [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
 - [Meet Bjorn, the Easy to Build Hacking Tool!](https://youtu.be/1rKBnZx243o)
