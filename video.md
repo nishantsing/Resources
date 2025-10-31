@@ -566,6 +566,29 @@
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
         - [React State Management with Zustand & TypeScript](https://youtu.be/3xwETw0MAHQ)
 
+  - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](https://youtu.be/TtPXvEcE11E)
+  - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
+  - [Build and Deploy a Full Stack React Admin Dashboard for a Travel Agency | React Router v7](https://youtu.be/xZ1ba-RLrjo)
+  - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
+  - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
+  - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
+  - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
+  - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
+  - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
+
+###### State Management React
+- [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
+
+#### Stripe
+- [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
+
+#### Authentication
+- [Master Senior Level Authentication In 4 Hours](https://youtu.be/WPiqNDapQrk)
+- [8 Reasons To Try Better Auth](https://youtu.be/_OApmLmex14)
+- [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
+- [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
+- [Build Advanced MERN Auth with Nodejs, 2FA, Email Verification, Cookies, Sessions, JWT & Nextjs](https://youtu.be/2LRLsMracAY)
+- [Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails](https://youtu.be/pmvEgZC55Cg)
 
 ###### React 19
 
@@ -665,31 +688,6 @@
 
 ###### Build Saas
 - [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
-   
-#### Reactjs
-  - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](https://youtu.be/TtPXvEcE11E)
-  - [Learn React With This ONE Project](https://youtu.be/G6D9cBaLViA)
-  - [Build and Deploy a Full Stack React Admin Dashboard for a Travel Agency | React Router v7](https://youtu.be/xZ1ba-RLrjo)
-  - [Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects](https://youtu.be/x4rFhThSX04)
-  - [Build & Deploy Full Stack React Js App | React, Tailwindcss, Drizzle ORM, Clerk](https://youtu.be/XENGw99u4uw)
-  - [How To Build an E-Commerce Store and Admin Dashboard - React.js, Stripe, Node.js, Redis](https://youtu.be/sX57TLIPNx8)
-  - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
-  - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
-  - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
-
-###### State Management React
-- [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
-
-#### Stripe
-- [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
-
-#### Authentication
-- [Master Senior Level Authentication In 4 Hours](https://youtu.be/WPiqNDapQrk)
-- [8 Reasons To Try Better Auth](https://youtu.be/_OApmLmex14)
-- [Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)](https://youtu.be/yoiBv0K6_1U)
-- [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
-- [Build Advanced MERN Auth with Nodejs, 2FA, Email Verification, Cookies, Sessions, JWT & Nextjs](https://youtu.be/2LRLsMracAY)
-- [Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails](https://youtu.be/pmvEgZC55Cg)
 
 ## Backend
 
@@ -790,6 +788,7 @@
 
 #### React Native
 - [Build Your Own AI Caption Editor with React Native (Convex, ElevenLabs, NativeWind, Expo)](https://youtu.be/Snw0b-PMhsU)
+- [Pocket clone with react native and sqlite, auth](https://youtu.be/GSs4Dnz274k?si=ZkMrTJ64rLEdWBUj)
 - [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://youtu.be/G1XiiXTQHSE?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
 - [Build React Native Full Stack App Using Expo, Firebase and AI | AI Pocket Agent](https://youtu.be/TDbsttEkidU)
 - [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
