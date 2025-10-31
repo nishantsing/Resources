@@ -465,6 +465,8 @@
 
 ## Design
 
+#### Affinity 3
+
 #### Stitch
 - [Stitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)](https://youtu.be/lVF_k12GO-Y)
 
@@ -636,6 +638,8 @@
 - [MERN Stack Tutorial for Beginners - Deployment Included](https://youtu.be/Ea9rrRj9e0Y)
 - [Build a Full-Stack MERN Expense Tracker | React, Node.js, MongoDB, Express | MERN Project](https://youtu.be/PQnbtnsYUho)
 - [MERN Stack Project: Video Calling Realtime Chat App & Social App](https://youtu.be/ZuwigEmwsTM)
+- [MERN Stack Project: Video Calling Interview Platform with React & Node.js](https://youtu.be/PJ0ARnSKfgw)
+  
 #### PERN Stack
 - [PERN Stack Course: Build a Product Store with Postgres & React](https://youtu.be/lx3YJj0nJVk)
   
@@ -784,7 +788,7 @@
 ## Mobile Development
 
 #### React Native
-
+- [Build Your Own AI Caption Editor with React Native (Convex, ElevenLabs, NativeWind, Expo)](https://youtu.be/Snw0b-PMhsU)
 - [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://youtu.be/G1XiiXTQHSE?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
 - [Build React Native Full Stack App Using Expo, Firebase and AI | AI Pocket Agent](https://youtu.be/TDbsttEkidU)
 - [Build & Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course](https://youtu.be/BTfcnxXevm0)
@@ -960,6 +964,7 @@
 
 ## Debugging
 - [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
+- [Create Professional CSS Animations with This Dev Tool](https://youtu.be/PqDfILvhAtM)
 - [This CSS Dev Tool Makes Accessibility so Easy](https://youtu.be/zv8ZDr0zGdU)
 - [This Simple Dev Tools Feature Makes Working On Teams Much Easier](https://m.youtube.com/watch?v=Btv_oJFDjuE)
 - [Must Know Dev Tools Feature - Save Hours](https://m.youtube.com/watch?v=EQOa-uavBsc)
@@ -998,6 +1003,7 @@
 - [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
 
 #### Docker
+- [How to Dockerize a Node.js App (in under 5 minutes)](https://youtu.be/6RdLX7kgCN8)
 - [Docker Tutorial](https://youtu.be/31ieHmcTUOk?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 
 ## Production
@@ -1037,6 +1043,7 @@
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 
 ## Cybersecurity
+- [Intro to PowerShell: Hunting Network Activity.](https://youtu.be/SQpewCGwXL0)
 - [Harvard CS50’s Intro to Cybersecurity – Full University Course](https://youtu.be/9HOpanT0GRs)
 - [Hacking AI is TOO EASY (this should be illegal)](https://youtu.be/Qvx2sVgQ-u0)
 - [How I Hacked My AirBnB's Wi-Fi: A Tutorial](https://youtu.be/FVvhJxAC-Ic)
@@ -1069,6 +1076,7 @@
 - [JS 2025 just dropped with amazing features](https://youtu.be/STA2Pr5l_z0)
 
 #### Flutter
+- [Build a Professional Banking App Home UI in Flutter 2025](https://youtu.be/JQIes2er5ds)
 - [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
 
 #### Sanskrit
