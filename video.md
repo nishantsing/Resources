@@ -382,6 +382,7 @@
 
 ## TypeScript
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
+- [TypeScript Full Course 2025 | Learn TypeScript in One Video](https://youtu.be/W3G4DuchKFY)
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
 - [This Is Why You Must Derive Your TypeScript Types](https://youtu.be/4CYkhXIDxeQ)
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
@@ -810,6 +811,9 @@
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
 
+#### Jet Pack/ Compose
+- [Introduction to Android, Jetpack Compose, CMP, KMP ](https://youtu.be/EP3kRiLJ9-s)
+
 #### Swift UI IOS
 - [SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
 
@@ -991,7 +995,7 @@
 - [Azure Full Course (2025) | Microsoft Azure Training FREE | Intellipaat](https://youtu.be/hUxB_Uenq14)
 
 ## Deployment
-
+- [🚀 Instantly Share Your Next.js Project in Just 2 Steps! | Run & Expose Your App with Pinggy](https://youtu.be/HJCr-9HpTpY)
 - [Chai aur Caddy | learn to host your website on VPS](https://youtu.be/dzxmylOhLi8)
 - [Cloudflare containers are magic](https://youtu.be/YdeZMkCElNY)
 - [Host your own shadcn on Cloudflare Workers + Hono 🔥](https://youtu.be/PuRIkNRI9HE)
@@ -1173,6 +1177,7 @@
 - [Nextjs full stack project tutorial - Tube Guruji](https://youtu.be/eMplIjZ80Zs?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt)
 - [Nextjs 13 Projects - Snagam Mukherjee](https://youtu.be/wjjcYfccDFI?list=PL0JfpSrXxTMwSl7Y5xChQvD0v5myhUC0J)
 - [Video Calling Interview Platform: Build a Full Stack Project with React & Next.js](https://youtu.be/xEnnRNH_lyw)
+- [I Gave My AI Trading Bot $3000 | Building an AI trading bot from scratch](https://youtu.be/857ejsBc3IA)
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
@@ -1184,6 +1189,11 @@
 #### Tube Guruji YouTube
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
 - [How to Create Full Stack AI Website Generator App with Nextjs, React, Typescript, ImageKit](https://youtu.be/tKDPE219kCE)
+
+#### Becodemy
+- [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
+
+#### Codesistency
 
 #### JS Masterty Good projects
 
@@ -1204,7 +1214,8 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)\
 
-
+#### AI SaaS
+- [Let's build an AI Automation SaaS with Next JS | Neon | Inngest | Better Auth | Cryptomus (Part 1/2)](https://youtu.be/F2aJfxROY9Y)
 #### AI Dental Assistant
 - [Build an AI Voice Dental Assistant with Next.js & Postgres - Full SaaS Tutorial](https://youtu.be/MhGV5TekJ8Y)
 
