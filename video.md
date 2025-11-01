@@ -411,6 +411,9 @@
 - [Data Structures and Algorithms (DSA) in Java 2024](https://youtu.be/4_HOnhB64Dg)
 - [Data Structures and Algorithms Crash Course](https://youtu.be/Ndvm7Ge4pic)
 
+#### DSA in python
+- [Fundamentals of Data Structures and Algorithms](https://youtu.be/kBtCLTcB9bc)
+
 
 ## Time Complexity
 - [Big-O Notation - Everything you Need for Coding Interviews](https://youtu.be/rv_ZacJYRFA)
@@ -817,6 +820,7 @@
 - [SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
 
 #### Flutter/ Dart
+- [How to Add Firebase to Any Flutter Project Under 10 minutes | Complete Setup Guide 2025](https://youtu.be/f1jbsmUBddg)
 - [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
   
