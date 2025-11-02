@@ -390,6 +390,7 @@
 - [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
 
 ## DSA
+- [Visualize Data Structures in VS Code](https://youtu.be/3O6BFlOiFRg)
 - [Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours](https://youtu.be/xwI5OBEnsZU)
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
@@ -470,6 +471,7 @@
 ## Design
 
 #### Affinity 3
+- [How to Use Affinity 3 - Setup, Workspaces & First Project Explained](https://youtu.be/x_UR9XqJ5Zg)
 
 #### Stitch
 - [Stitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)](https://youtu.be/lVF_k12GO-Y)
@@ -812,6 +814,7 @@
 - [Zomato: Full Stack | React Native | Redux Toolkit | Node JS | Unistyles |Multi-cart Best Project](https://youtu.be/7-sBujL_I9A)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
+- [Build a Threads Clone with React Native (Convex, Clerk, Sentry, Expo) - Simon Grimm](https://youtu.be/D-DUZNeVlRE)
 
 #### Jet Pack/ Compose
 - [Introduction to Android, Jetpack Compose, CMP, KMP ](https://youtu.be/EP3kRiLJ9-s)
@@ -900,6 +903,7 @@
 - [Build a SaaS POS System | Java Full-Stack React + Spring Boot Project for Retail & Supermarkets](https://youtu.be/HM4TDO870kk)
 - [Build REST APIs with Spring Boot - 2](https://youtu.be/EWd3_I4X32g)
 - [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
+- [Enterprise Level SaaS Multi-Tenant POS Application | Java Spring Boot, React, Redux Full Course](https://youtu.be/3Iui4-vkgbw)
 
 ## Microservices
 
@@ -986,8 +990,9 @@
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
 
 #### AWS
-- [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners](https://youtu.be/Ny0WOwDGero)
-- [How to Use AWS CLI | Installation, Configuration & Common Commands](https://youtu.be/wYO4LyYrts4)
+- [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
+- [How to Use AWS CLI | Installation, Configuration & Common Commands - 2](https://youtu.be/wYO4LyYrts4)
+- [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
 - [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
