@@ -77,6 +77,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Is JSON Dead? TOON is the new JSON](https://youtu.be/1WrLLEO50gw)
       - [Local AI on Your Data A Complete RAG Tutorial! (Stop AI Hallucinations)](https://youtu.be/TqeOznAcXXU)
       - [Complete RAG Crash Course With Langchain In 2 Hours](https://youtu.be/o126p1QN_RI)
       - [How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)](https://youtu.be/AUQJ9eeP-Ls)
