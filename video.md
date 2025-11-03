@@ -353,7 +353,6 @@
 - [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
 - [8 Hidden JavaScript Secrets You’ll Wish You Knew Sooner](https://youtu.be/VK5A-OTQ-0g)
 - [Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours](https://youtu.be/e-hGCPaRZYk)
-- [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
 - [6 Hours of JavaScript Projects - From Beginner to Advanced](https://youtu.be/WoNmm4YS8e4)
 - [Build an Animated Website with React + GSAP | Responsive + Free Deployment Guide](https://m.youtube.com/watch?v=NjqjakgPL84&pp=0gcJCRsBo7VqN5tD)
 - [Stop Using window “resize” Event Listeners](https://youtu.be/QQIIP2d9tLc)
@@ -406,7 +405,7 @@
 - [Data Structures and Algorithms Crash Course](https://youtu.be/Ndvm7Ge4pic)
 
 #### DSA in python
-- [Fundamentals of Data Structures and Algorithms](https://youtu.be/kBtCLTcB9bc)
+- [Fundamentals of Data Structures and Algorithms - Caleb](https://youtu.be/kyUPU_Tpoq4?list=PL_c9BZzLwBRLpDEpYRFXKBN-2ZCsAx0ps)
 
 
 ## Time Complexity
@@ -598,6 +597,7 @@
 
 
 #### Three.js
+- [Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners](https://youtu.be/yhtdkuw9mbM)
 - [Build and Deploy an Apple Website with React | Beginner Three.js & GSAP Tutorial](https://youtu.be/DEeaT6FxEws)
 - [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://m.youtube.com/watch?v=tPkJLnDqAKk)
@@ -832,6 +832,8 @@
 - [Professional Cloud Architect Certification Course – Pass the Exam!](https://m.youtube.com/watch?v=u43gJJrVa1I)
 
 ## Game Development
+- [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
+- [Learn JavaScript by building Mario! (Super simple!)](https://youtu.be/VNs96uQoetw)
 - [Godot Game Development for Beginners](https://youtu.be/MiPkcTaRbfQ)
 - [Complete Beginner Tutorial: Code Flappy Bird from scratch](https://m.youtube.com/watch?v=WTYiNvJt6c0)
 - [Unity 101 Crash Course For Beginners: Start Building Your Own Game!](https://youtu.be/BJt0wsRfUmA)
@@ -989,6 +991,7 @@
 
 #### AWS
 - [skillbuilder AWS](https://skillbuilder.aws/)
+- [AWS Explained: The Most Important AWS Services To Know](https://youtu.be/OGYEXGy8ca4)
 - [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
 - [How to Use AWS CLI | Installation, Configuration & Common Commands - 2](https://youtu.be/wYO4LyYrts4)
 - [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
@@ -1084,6 +1087,7 @@
 
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
+- [Rust Course](https://youtu.be/jAm7xrRxEUE?list=PL_c9BZzLwBRIymgB73pHXIgazpB-uszKU)
 
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
