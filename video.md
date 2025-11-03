@@ -48,9 +48,6 @@
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
       - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
    
-  - AWS Sagemaker
-      - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
-   
   - Gen AI
       - [Google Generative AI Leader Certification Course – Pass the Exam!](https://youtu.be/30diF8dKpAY)
       - [Generative AI Full Course (2025) | Generative AI Course FREE | Intellipaat](https://youtu.be/JQEwPa5FStM)
@@ -238,6 +235,10 @@
 
 ## Useful Github Repos
 
+#### Cheat sheet
+- [30 Seconds of code](https://www.30secondsofcode.org/)
+- [Quick ref](https://quickref.me/index.html#google_vignette)
+
 #### Open Source
 - [https://github.com/keshavgbpecdelhi/first-contributions](https://github.com/keshavgbpecdelhi/first-contributions)
 
@@ -295,14 +296,6 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [java-basics](https://github.com/learning-zone/java-basics)
 - [What Happens When](https://github.com/alex/what-happens-when)
-
-#### AWS
-- [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
-- [skillbuilder AWS](https://skillbuilder.aws/)
-  
-## Cheat sheet
-- [30 Seconds of code](https://www.30secondsofcode.org/)
-- [Quick ref](https://quickref.me/index.html#google_vignette)
 
 #### General
 - [free-for-dev](https://github.com/jixserver/free-for-dev)
@@ -819,6 +812,7 @@
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
 - [Build a Threads Clone with React Native (Convex, Clerk, Sentry, Expo) - Simon Grimm](https://youtu.be/D-DUZNeVlRE)
+  
 
 #### Jet Pack/ Compose
 - [Introduction to Android, Jetpack Compose, CMP, KMP ](https://youtu.be/EP3kRiLJ9-s)
@@ -994,14 +988,20 @@
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
 
 #### AWS
+- [skillbuilder AWS](https://skillbuilder.aws/)
 - [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
 - [How to Use AWS CLI | Installation, Configuration & Common Commands - 2](https://youtu.be/wYO4LyYrts4)
 - [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
+- [AWS EBS Explained | Elastic Block Store Tutorial for Beginners - 4](https://youtu.be/L091MqB-aqw)
 - [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 - [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
+- [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
+
+###### AWS Sagemaker
+- [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
 
 #### Azure
 - [Azure Full Course (2025) | Microsoft Azure Training FREE | Intellipaat](https://youtu.be/hUxB_Uenq14)
@@ -1206,6 +1206,12 @@
 - [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
 
 #### Codesistency
+
+#### Simon Grimm
+- [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
+
+#### PedroTech
+- [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
 
 #### JS Masterty Good projects
 
