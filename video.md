@@ -47,10 +47,6 @@
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
       - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
-  
-   
-  - Convex
-      - [Convex is changing backend](https://youtu.be/BjyBtL1WWmg)
    
   - AWS Sagemaker
       - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -145,6 +141,9 @@
 - [How LLMs Actually Understand Images](https://youtu.be/W1H1DDMWPdg)
 - [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
 - [You've Been Using AI the Hard Way (Use This Instead) - LLM in terminal](https://youtu.be/MsQACpcuTkU)
+
+## Diffusion Models
+- [Diffusion Models Just Beat Large Language Models?](https://youtu.be/Yu4ZWy1GjlE)
 
 ## Neural Networks
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
@@ -635,6 +634,7 @@
 - [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/Zq5fmkH0T78)
 - [Build a realtime messaging app in 60 min | NextJS, Clerk & Stream](https://youtu.be/oKN3kCrQEKs)
 - [NextJs Full Stack Wireframe to Code App Using React, Tailwindcss, Typescript | Openrouter.ai](https://youtu.be/fOtjNm3JoAE)
+- [This NEW Next.js Feature Is a Game Changer (Cache Components)](https://youtu.be/Rodyt22D84A)
 
 
 #### Ripple
@@ -761,6 +761,9 @@
 
 #### Firebase
 - [Firebase 9](https://youtu.be/9zdvmgGsww0?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb)
+
+#### Convex
+- [Convex is changing backend](https://youtu.be/BjyBtL1WWmg)
 
 ### ORM
 
