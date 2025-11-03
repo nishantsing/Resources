@@ -594,6 +594,7 @@
 
 #### TanStack
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
+- [React Compiler 1.0 with TanStack Start!](https://youtu.be/-3-17PRN7jg)
 
 
 #### Three.js
@@ -1010,6 +1011,7 @@
 - [Azure Full Course (2025) | Microsoft Azure Training FREE | Intellipaat](https://youtu.be/hUxB_Uenq14)
 
 ## Deployment
+- [0 to production (VPS) course in 1 video](https://youtu.be/vzVbqXVID-Y)
 - [🚀 Instantly Share Your Next.js Project in Just 2 Steps! | Run & Expose Your App with Pinggy](https://youtu.be/HJCr-9HpTpY)
 - [Chai aur Caddy | learn to host your website on VPS](https://youtu.be/dzxmylOhLi8)
 - [Cloudflare containers are magic](https://youtu.be/YdeZMkCElNY)
