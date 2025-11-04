@@ -587,6 +587,9 @@
 - [Build Advanced MERN Auth with Nodejs, 2FA, Email Verification, Cookies, Sessions, JWT & Nextjs](https://youtu.be/2LRLsMracAY)
 - [Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails](https://youtu.be/pmvEgZC55Cg)
 
+#### Authorization
+- [How to Build a Permission System that Scales to Enterprise](https://youtu.be/gL3BJ8_5Jz8)
+
 ###### React 19
 
 - [Master React 19.2 Async Everywhere — Boost Performance](https://youtu.be/KI4gjUrOfOs)
@@ -1078,6 +1081,7 @@
 - [my local, AI Voice Assistant (I replaced Alexa!!)](https://youtu.be/XvbVePuP7NY)
 - [Build Your Own Wi-Fi Hacking Tool (ESP32 Marauder)](https://youtu.be/lcokJQMivwY)
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
+- [Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)](https://youtu.be/kb_scuDUHls)
 
 ## Languages
 
