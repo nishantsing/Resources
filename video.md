@@ -828,6 +828,7 @@
 - [How to Add Firebase to Any Flutter Project Under 10 minutes | Complete Setup Guide 2025](https://youtu.be/f1jbsmUBddg)
 - [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
+- [Flutter UI Design - Firebase](https://youtu.be/cFUTyKgQklo?list=PLcPRzKku40wkyMiyGBAp7OYX9uHotkQlO)
   
 #### Kotlin
 
