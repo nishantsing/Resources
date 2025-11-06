@@ -327,6 +327,7 @@
 ## CSS
 - [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
 - [CSS Combinators you need to know (and a selector too)](https://youtu.be/rndMS4pEKP8)
+- [CSS attribute selectors are more powerful than you think](https://youtu.be/TWqpa-hfIdw)
 - [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
 - [@container Queries Containment Module CSS Tutorial](https://youtu.be/r9oB4OolaAs)
 - [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
@@ -427,6 +428,7 @@
 
 
 ## System Design
+
 - [Latency vs Throughput | System Design Tradeoffs | What is Latency | What is Throughput](https://youtu.be/60fxsk13g_k?list=PLxOsu5yU9ovMCLqjFIghtMUMMwG8pq8bl)
 - [6 Database Concepts Your Should Know](https://youtu.be/Lea9frgParA)
 - [Master System Design Verticals to Crack Any Interview](https://youtu.be/geQX1bL2oLI)
@@ -435,12 +437,19 @@
 - [The complete system designs crash course](https://youtu.be/sIkRdfSxCiI)
 - [System Design | Kafka vs Inngest](https://youtu.be/VP7GQO_Zab4)
 - [FAANG System Design Interview: Design A Chat System (WhatsApp, Facebook Messenger, Discord, Slack)](https://youtu.be/okrR1KXNLtA)
+- [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
+- [System Design of a Delivery System like Zomato with @KeertiPurswani](https://youtu.be/nHh3DnjnPig)
+- [Find the distance between friends connections - LinkedIn System Design with @KeertiPurswani](https://youtu.be/OXLDI8gibPw)
+- [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
 
 #### LLD
 - [Master Low Level System Design (LLD) In 6 STEPS | LLD Roadmap for Placements & Interviews](https://youtu.be/qhYZhhAD7Vc)
 
 #### HLD
 - [HLD from basics to advance](https://youtu.be/rliSgjoOFTs?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
+
+#### Hitesh
+- [Chai aur system design](https://youtu.be/7G-pYAtudZM?list=PLu71SKxNbfoAUp_BWxZMAft2n81WDMIID)
 
 #### Caleb
 - [Batching, Fan Out and scheduling in System Design](https://youtu.be/yykV8qEwKXI)
@@ -487,6 +496,7 @@
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
 
 ## Tech Stack
+- [I Finally Found The PERFECT Tech Stack](https://youtu.be/SD4uKy3VZq8)
 - [A stack to fight web complexity....](https://youtu.be/xiscoSBDOyo)
 - [My Current Tech Stack](https://youtu.be/oIx7ObcfdlU)
 - [Picking a Fullstack Stack, Is Next.js Too Complex? Services vs Self-Hosted + More](https://youtu.be/46RJAKhxc6M)
@@ -540,6 +550,7 @@
 
 #### React
 - [Build and Deploy a Modern Website in ReactJS and Tailwind CSS | Fully Responsive React UI / UX](https://youtu.be/yS7B1W2SwaU)
+- [Animated Portfolio website using React JS, Tailwind CSS and Framer Motion | Part 1 | in Hindi](https://youtu.be/JcQCORJ3Xr0)
 - [Complete React JS Course | MERN Stack Development](https://youtu.be/E6tAtRi82QY)
 - [[COMPLETE PROJECT 🔥] 10 LPA Job Guaranteed with This React Project!](https://youtu.be/TTx7Y3a7EmA)
 - [React Interview Series 🎯 | Master Real-Life Challenges | Part 1 - Form Validation](https://youtu.be/hYVroLLnwqg)
@@ -931,13 +942,6 @@
 #### Github Actions(CI/ CD Automation similar to Jenkins)
 - [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=LEARNNOWPLANS)
 
-
-## System Design
-- [System Design of GitHub Code Search - SDC Episode 1 with @KeertiPurswani](https://youtu.be/hI4_jVFiqes)
-- [System Design of a Delivery System like Zomato with @KeertiPurswani](https://youtu.be/nHh3DnjnPig)
-- [Find the distance between friends connections - LinkedIn System Design with @KeertiPurswani](https://youtu.be/OXLDI8gibPw)
-- [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
-
 ## Web Scrapping
 - [Python Web Scraping: A Million Dollar Project Idea - FULL Build/Tutorial](https://youtu.be/Wif4zLlruqo)
 - [Web Scraping 101: A Million Dollar SaaS Idea](https://youtu.be/oyIQenEvWN8)
@@ -997,16 +1001,20 @@
 #### AWS
 - [skillbuilder AWS](https://skillbuilder.aws/)
 - [AWS Explained: The Most Important AWS Services To Know](https://youtu.be/OGYEXGy8ca4)
-- [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
-- [How to Use AWS CLI | Installation, Configuration & Common Commands - 2](https://youtu.be/wYO4LyYrts4)
-- [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
-- [AWS EBS Explained | Elastic Block Store Tutorial for Beginners - 4](https://youtu.be/L091MqB-aqw)
 - [AWS Full Course 2025 | AWS Training | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/0-pEVqVd7Rg)
 - [1hr to Build and DEPLOY an Authenticated AI APP! React.js + AWS](https://youtu.be/Ao5TF4yUNXQ)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://youtu.be/LTH9m4HkeYY)
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 - [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
+
+#### Coding With Tushar
+- [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
+- [How to Use AWS CLI | Installation, Configuration & Common Commands - 2](https://youtu.be/wYO4LyYrts4)
+- [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
+- [AWS EBS Explained | Elastic Block Store Tutorial for Beginners - 4](https://youtu.be/L091MqB-aqw)
+- [AWS Load Balancer and Auto Scaling Group: A Beginner’s Guide - 5](https://youtu.be/rDsmWCxSbAs)
+- [AWS Load Balancer and Auto Scaling Group: A Beginner’s Guide - Coding With Tushar](https://youtu.be/rDsmWCxSbAs?list=PL-MEZzrKlTU2TFPJjQRNc3LYOQvp9uk9G)
 
 ###### AWS Sagemaker
 - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -1061,7 +1069,8 @@
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
 ## Arduino
--[Computer Vision with Arduino Tutorial – 2 Projects](https://m.youtube.com/watch?v=Q5U-b6gRTaY)
+- [Arduino MASTERCLASS | Full Programming Workshop in 90 Minutes!](https://youtu.be/BLrHTHUjPuw)
+- [Computer Vision with Arduino Tutorial – 2 Projects](https://m.youtube.com/watch?v=Q5U-b6gRTaY)
 
 ## Network Chuck
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
@@ -1244,7 +1253,8 @@
 - [Build and Deploy a Full Stack Screen Recording & Video Sharing Platform | Next.js, Better Auth](https://youtu.be/honnJp7-cCU)
 - [Build and Deploy a Fullstack App with Admin Dashboard | Next.js, PostgreSQL, Redis, Auth.js](https://youtu.be/EZajJGOMWas)
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
-- [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)\
+- [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
+- [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
 
 #### AI SaaS
 - [Let's build an AI Automation SaaS with Next JS | Neon | Inngest | Better Auth | Cryptomus (Part 1/2)](https://youtu.be/F2aJfxROY9Y)
