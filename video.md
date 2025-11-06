@@ -447,6 +447,10 @@
 
 #### HLD
 - [HLD from basics to advance](https://youtu.be/rliSgjoOFTs?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
+- 
+
+#### ByteByteCode
+- [Design a Web Crawler: FAANG Interview Question](https://youtu.be/6u25GckPhLU)
 
 #### Hitesh
 - [Chai aur system design](https://youtu.be/7G-pYAtudZM?list=PLu71SKxNbfoAUp_BWxZMAft2n81WDMIID)
