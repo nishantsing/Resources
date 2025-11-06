@@ -468,6 +468,7 @@
 - [System Design of a Ticket Booking System: BookMyShow](https://youtu.be/ohdu6TUoE5s)
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
 - [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
+- [This is how Google Analytics works.](https://youtu.be/w684GdpFZrU)
 
 ## Design
 
@@ -1139,7 +1140,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 
-## Low / No Code / Lovable / Bolt
+## Low / No Code / Lovable / Bolt / Base44
 - [Vibe Coding just got an upgrade - Replit Agent 3 Released](https://youtu.be/nPHkv6Kb028)
 - [Coding is Changing… The Most Advanced AI Tool Yet](https://youtu.be/1y_VE_3_320)
 - [Stop Making Fake Netflix Clones - Here's How to Build a REAL One (Warp Code + Next.js Tutorial)](https://m.youtube.com/watch?v=tjYJyDwIfbw)
@@ -1154,6 +1155,7 @@
 - [How To Make A No Code Website - Wix](https://youtu.be/Tddp13RINEM)
 - [Build an E-commerce site with Gift Cards! | Wix Studio + Stripe + Wix IDE](https://youtu.be/dIwwde-DXg8)
 - [What is "Vibe for WordPress"? Full Tutorial | 10Web](https://youtu.be/G0gQSD3plqo)
+- [Base 44](https://base44.com/lp-en?utm_campaign=af_5252479&impact_click_id=TPD0jn1kKxycUsgXV90uWT53UkpRTGTFqyGmzU0&experiment_id=25619%5E5252479%5E2049275%5Ebase&irgwc=1&afsrc=1)
 
 ## Udemy / Courses
 1. [Full stack AI with Python: LLMs, RAG, Agents and LangGraph (Udemy) - Hitesh Choudhary](https://www.udemy.com/course/full-stack-ai-with-python/?couponCode=LAUNCH10)
