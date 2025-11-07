@@ -17,7 +17,7 @@
 - [RAG vs Model tuning vs Large prompt window](https://youtu.be/NyqLVzX6kAQ)
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
 - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
-- [AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
+- [AI Voice Assistant Project Full Tutorial | Reactn & Python (Phone & Web Calling)](https://youtu.be/h0FyNmnFk6o)
 - [Best Frameworks To Learn For Building AI Agents And Agentic AI](https://youtu.be/YoqH1XbeC10)
 - [3 Python AI Projects for Beginners - Full Tutorial](https://youtu.be/XZdY15sHUa8)
 - [This AI Supercomputer can fit on your desk...](https://youtu.be/FYL9e_aqZY0)
@@ -114,6 +114,7 @@
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
   - n8n
+      - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://youtu.be/UtXzdmpysmU)
       - [n8n will change your life as a developer...](https://youtu.be/bS9R6aCVEzw)
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
       - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
