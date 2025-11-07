@@ -1069,6 +1069,7 @@
 - [They built an OS in JS](https://youtu.be/EeonWxtPM_4)
 
 ## CMS
+- [Headless CMS explained in 8 mins with Next](https://youtu.be/SrxdBBmpsPU)
 - [Hygraph (with Next.js) Tutorial #1 - Introduction & Starter Project](https://youtu.be/cj9Elt-KFPY?list=PL4cUxeGkcC9g_26FEqWTPak5H4liK9czt)
 
 ## GSOC
