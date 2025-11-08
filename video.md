@@ -115,6 +115,7 @@
 
   - n8n
       - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://youtu.be/UtXzdmpysmU)
+      - [How To Host n8n For Free FOREVER](https://youtu.be/H7V2FmHZOnM)
       - [n8n will change your life as a developer...](https://youtu.be/bS9R6aCVEzw)
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
       - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
@@ -741,6 +742,7 @@
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
 
 #### MongoDB
+- [MongoDB Crash Course 2026 (with Handbook)](https://youtu.be/M1dKYQ7GsTg)
 
 #### Postgress
 
@@ -775,6 +777,7 @@
 
 #### Firebase
 - [Firebase 9](https://youtu.be/9zdvmgGsww0?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb)
+- [Banking App: Firestore database integration](https://youtu.be/KNp_Fuo6R1E)
 
 #### Convex
 - [Convex is changing backend](https://youtu.be/BjyBtL1WWmg)
@@ -1229,6 +1232,7 @@
 #### Tube Guruji YouTube
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
 - [How to Create Full Stack AI Website Generator App with Nextjs, React, Typescript, ImageKit](https://youtu.be/tKDPE219kCE)
+- [Build & Deploy AI Agent Builder Platform using NextJs, React, Convex, Arcjet](https://youtu.be/-AVtkiG0laE)
 
 #### Becodemy
 - [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
