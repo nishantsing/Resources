@@ -14,6 +14,11 @@
 - Expose it with ngrok
 - ngrok http <port>
 
+#### Hosting your local directory
+- you can use live server using vscode and then ngrok
+- you can also use npm i -g serve (this will be used to create a local server)
+-  serve .
+
 
 ## Windows
 - winget upgrade - how many software needs update
