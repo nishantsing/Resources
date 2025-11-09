@@ -351,6 +351,7 @@
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 
 ## JS
+- [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
 - [Level up your debugging with these CONSOLE METHODS](https://youtu.be/fqtf6-aUxyU)
 - [Javascript DOM Manipulation](https://youtu.be/-z9AdSUZ2p8?list=PLvkzE15gPjFjBKL9flieNPT-a0-OdNZzs)
 - [Don't [...spread] or .split() your strings!](https://youtu.be/IiWEwscm9sg)
