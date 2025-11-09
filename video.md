@@ -1224,6 +1224,7 @@
 - [I created a meme coin trading bot in 2 hours](https://youtu.be/mvhuyAuJOjY)
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
+- [React Native Projects](https://youtu.be/Q1xQuCpYIFE?list=PLKWMD009Q4qSHIMF6Swy4VQs5z6U97LJm)
 
 #### Hitesh
 - [Building a stackoverflow clone with Nextjs and Appwrite](https://youtu.be/VQ3HhyQCbMA?list=PLRAV69dS1uWRJcxXk1omgcMI07ygMxSRl)
@@ -1236,6 +1237,9 @@
 
 #### Becodemy
 - [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
+
+#### Code with Beto
+- [Build an AI-Powered Meditation App with React Native](https://youtu.be/JdvHMzlKssI)
 
 #### Codesistency
 
