@@ -349,6 +349,7 @@
 - [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
 - [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
+- [View Transition API Tutorial | New CSS Animation Power](https://youtu.be/Fb-RNqiDoiw)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -640,6 +641,7 @@
 - [React Admin Crash Course 2025](https://youtu.be/PyaSnpXssks)
 
 #### Nextjs
+- [Next.js 15 Tutorial for React Devs (Fullstack Crash Course)](https://youtu.be/O5TJYsqwR94)
 - [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI)
 - [Next js 16 Cache Component](https://youtu.be/pHRPwBT53P0)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
