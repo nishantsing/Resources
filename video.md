@@ -859,6 +859,7 @@
 - [Professional Cloud Architect Certification Course – Pass the Exam!](https://m.youtube.com/watch?v=u43gJJrVa1I)
 
 ## Game Development
+- [This JS Project will fix your logic problem | JS Game.](https://youtu.be/SFLs1fYb5QA)
 - [Practise JavaScript by Building Zelda! (Super simple)](https://youtu.be/2QLxgShh3dQ)
 - [Learn JavaScript by building Mario! (Super simple!)](https://youtu.be/VNs96uQoetw)
 - [Godot Game Development for Beginners](https://youtu.be/MiPkcTaRbfQ)
