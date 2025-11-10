@@ -26,6 +26,28 @@
 - winget upgrade --all - will update.
 
 
+### Option A: Ngrok (or similar tunneling)
+
+- Ngrok runs a **client** on your server.  
+- This client initiates an **outbound connection** to Ngrok’s cloud server (which has a public IP).  
+- Now, when someone accesses the Ngrok public URL:
+  1. The request hits Ngrok’s **cloud server**.  
+  2. The cloud server **forwards the request through the existing tunnel** back to your server.  
+- Your server **never needed a public IP**, because the connection was initiated **outbound** from inside your network.  
+
+**Key point:** The connection is always initiated from your local network to the cloud. The outside user **never connects directly** to your local IP.  
+
+---
+
+### Option B: Twingate
+
+- Twingate also uses a similar principle but in a more **structured, secure way**:  
+  1. You run a **Twingate connector** on your local network.  
+  2. The connector establishes a **secure, persistent outbound connection** to Twingate’s cloud.  
+  3. When a remote user wants access, their Twingate client **authenticates**, and the cloud **routes traffic through that secure tunnel** to your server.  
+- Again, your server **never needs a public IP**. Only devices **authenticated with Twingate** can reach it.
+
+
 ## Github
 
 - open repo press . to open it in vscode or change url github.com to github.dev
