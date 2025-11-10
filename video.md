@@ -444,6 +444,7 @@
 - [System Design of a Delivery System like Zomato with @KeertiPurswani](https://youtu.be/nHh3DnjnPig)
 - [Find the distance between friends connections - LinkedIn System Design with @KeertiPurswani](https://youtu.be/OXLDI8gibPw)
 - [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
+- [Implementing Multi-Tenant Architecture the RIGHT Way](https://youtu.be/7xgYH1xHsk4)
 
 #### LLD
 - [Master Low Level System Design (LLD) In 6 STEPS | LLD Roadmap for Placements & Interviews](https://youtu.be/qhYZhhAD7Vc)
