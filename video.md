@@ -375,6 +375,7 @@
 - [How well do you know JavaScript?](https://youtu.be/bHwv5H8Kyh8)
 - [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
 - [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
+- [Closures in JavaScript Explained with Examples — Master This Interview Concept](https://youtu.be/JVT_d9Qx_ro)
 
 ## TypeScript
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
@@ -556,6 +557,13 @@
 
 #### Gatsby
 - [Gatsby Tutorial](https://youtu.be/Qms4k6y7OgI?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
+
+
+#### Angular
+
+
+#### Vue
+- [Learn Vue.js – Tutorial for Beginners](https://youtu.be/Kt2E8nblvXU)
 
 #### React
 - [Build and Deploy a Modern Website in ReactJS and Tailwind CSS | Fully Responsive React UI / UX](https://youtu.be/yS7B1W2SwaU)
