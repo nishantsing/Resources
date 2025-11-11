@@ -1030,6 +1030,7 @@
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 - [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
+- [AWS Full Course 2026 FREE | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/dcahqWJ6tKc)
 
 #### Coding With Tushar
 - [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
