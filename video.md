@@ -505,6 +505,7 @@
 - [How To Use Libraries Like A Senior Dev](https://youtu.be/_aqtgF1xM-o)
 - [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
+- [How to use TypeScript Utility Types like a Senior Developer](https://youtu.be/BhNSauna0eo)
 
 ## Tech Stack
 - [I Finally Found The PERFECT Tech Stack](https://youtu.be/SD4uKy3VZq8)
@@ -1258,6 +1259,7 @@
 
 #### Simon Grimm
 - [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
+- [Building a Food Delivery App with React Native | Expo, Git, Maps, Reanimated | Wolt Clone](https://youtu.be/aYftPYZJsy8)
 
 #### Code with Beto 
 - [Build a Modern Multi-User Chat App with React Native, Expo, Clerk & Appwrite (Real-Time)](https://youtu.be/HKJdqJIDtMs)
