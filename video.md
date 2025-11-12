@@ -115,6 +115,7 @@
 
   - n8n
       - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://youtu.be/UtXzdmpysmU)
+      - [n8n Course for Beginners – Build Complex Workflows & Master AI Integration](https://youtu.be/GIZzRGYpCbM)
       - [How To Host n8n For Free FOREVER](https://youtu.be/H7V2FmHZOnM)
       - [n8n will change your life as a developer...](https://youtu.be/bS9R6aCVEzw)
       - [n8n Tutorial: How to Use It in Real Projects](https://youtu.be/vkI8BdsLcXg)
@@ -140,6 +141,7 @@
 - [How LLMs Actually Understand Images](https://youtu.be/W1H1DDMWPdg)
 - [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
 - [You've Been Using AI the Hard Way (Use This Instead) - LLM in terminal](https://youtu.be/MsQACpcuTkU)
+- [How are LLMs built?](https://youtu.be/GQGFqWPl9lQ)
 
 ## Diffusion Models
 - [Diffusion Models Just Beat Large Language Models?](https://youtu.be/Yu4ZWy1GjlE)
@@ -484,6 +486,9 @@
 
 #### Affinity 3
 - [How to Use Affinity 3 - Setup, Workspaces & First Project Explained](https://youtu.be/x_UR9XqJ5Zg)
+
+#### Wix
+- [How I Design Client Websites Like a Pro (Using THIS Website Mockup Tool!)](https://youtu.be/7ZMgy3Vf1ks)
 
 #### Stitch
 - [Stitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)](https://youtu.be/lVF_k12GO-Y)
@@ -1267,6 +1272,7 @@
   
 #### PedroTech
 - [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
+- [Modern React Full Course For Beginners | 3 React Projects in 4 Hours](https://youtu.be/r47C9c4qCqE)
 
 #### JS Masterty Good projects
 
