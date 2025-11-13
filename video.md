@@ -151,6 +151,7 @@
 
 
 ## MCP Server
+- [This MCP Toolkit Just Changed Everything](https://youtu.be/7i838w1HHNo)
 - [Intro to MCP Servers – Model Context Protocol with Python Course](https://youtu.be/DosHnyq78xY)
 - [you need to learn MCP RIGHT NOW!! (Model Context Protocol)](https://youtu.be/GuTcle5edjk)
 - [MCP Protocol Tutorial: Build an MCP Server for Your App (Clerk, Next.js, Prisma)](https://youtu.be/wI6ufTULIj0)
@@ -329,6 +330,7 @@
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
 
 ## CSS
+- [How To Make Amazing Range Inputs With CSS](https://youtu.be/AvvXZL3mKhc)
 - [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
 - [CSS Combinators you need to know (and a selector too)](https://youtu.be/rndMS4pEKP8)
 - [CSS attribute selectors are more powerful than you think](https://youtu.be/TWqpa-hfIdw)
@@ -449,6 +451,8 @@
 - [Find the distance between friends connections - LinkedIn System Design with @KeertiPurswani](https://youtu.be/OXLDI8gibPw)
 - [30 [Software Engineering] research papers you should read](https://youtu.be/kVP1qM9zgaA)
 - [Implementing Multi-Tenant Architecture the RIGHT Way](https://youtu.be/7xgYH1xHsk4)
+- [The System Design Every Developer Should Know](https://youtu.be/IjY34e7NfaU)
+- [System Design: Why is Kafka Popular?](https://youtu.be/7_wkWQ9rB5I)
 
 #### LLD
 - [Master Low Level System Design (LLD) In 6 STEPS | LLD Roadmap for Placements & Interviews](https://youtu.be/qhYZhhAD7Vc)
@@ -763,6 +767,7 @@
 - [MongoDB Crash Course 2026 (with Handbook)](https://youtu.be/M1dKYQ7GsTg)
 
 #### Postgress
+- [Finally, an AI Database That Actually Makes Sense](https://youtu.be/8cf_bveteOE)
 
 #### Redis
 - [Redis for Beginners](https://youtu.be/8sHCdz_tOjk?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
@@ -1011,6 +1016,7 @@
 - [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
+- [The hidden chrome performance tools](https://youtu.be/8cshn2IIkbY)
 - [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
 - [Create Professional CSS Animations with This Dev Tool](https://youtu.be/PqDfILvhAtM)
 - [This CSS Dev Tool Makes Accessibility so Easy](https://youtu.be/zv8ZDr0zGdU)
@@ -1168,6 +1174,7 @@
 - [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
+- [Discrete Mathematics Course for Beginners](https://youtu.be/G9JxuWk7BDA)
 
 ## Low / No Code / Lovable / Bolt / Base44
 - [Vibe Coding just got an upgrade - Replit Agent 3 Released](https://youtu.be/nPHkv6Kb028)
@@ -1266,6 +1273,7 @@
 #### Simon Grimm
 - [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
 - [Building a Food Delivery App with React Native | Expo, Git, Maps, Reanimated | Wolt Clone](https://youtu.be/aYftPYZJsy8)
+- [React Native Godot Games](https://youtu.be/eDcOXpRPprU)
 
 #### Code with Beto 
 - [Build a Modern Multi-User Chat App with React Native, Expo, Clerk & Appwrite (Real-Time)](https://youtu.be/HKJdqJIDtMs)
