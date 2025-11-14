@@ -810,7 +810,7 @@
 #### Mongoose
 
 #### Prisma
-
+- [Crash Course on Prisma ORM with Express JS , Postgres and Build a REST API's](https://youtu.be/GReoWKUnwAg)
 - [Prisma Introduction - Node Database Tutorial (Postgres, MongoDB)](https://youtu.be/gYeV4wmcyes)
 - [Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind](https://youtu.be/iqrgggs0Qk0) - Must watch - WDS
 - [How To Make Beautiful Charts In Next.js](https://youtu.be/15qMh8C1Wzo)
@@ -1049,7 +1049,8 @@
 - [AWS EC2 Explained: Step-by-Step Guide to Launch & Secure Instances - 3](https://youtu.be/V5YSJV7bXtk)
 - [AWS EBS Explained | Elastic Block Store Tutorial for Beginners - 4](https://youtu.be/L091MqB-aqw)
 - [AWS Load Balancer and Auto Scaling Group: A Beginner’s Guide - 5](https://youtu.be/rDsmWCxSbAs)
-- [AWS Load Balancer and Auto Scaling Group: A Beginner’s Guide - Coding With Tushar](https://youtu.be/rDsmWCxSbAs?list=PL-MEZzrKlTU2TFPJjQRNc3LYOQvp9uk9G)
+- [AWS Basics - Coding With Tushar](https://youtu.be/rDsmWCxSbAs?list=PL-MEZzrKlTU2TFPJjQRNc3LYOQvp9uk9G)
+- [AWS EC2 + GitHub Actions CI/CD | Zero-Downtime Deployment for Node.js Applications](https://youtu.be/FCM1FhnMbGs)
 
 ###### AWS Sagemaker
 - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -1197,6 +1198,7 @@
 1. [Full stack AI with Python: LLMs, RAG, Agents and LangGraph (Udemy) - Hitesh Choudhary](https://www.udemy.com/course/full-stack-ai-with-python/?couponCode=LAUNCH10)
 1. [100+ Hours Web Development Bootcamp - Build 22 Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=BESTDEAL) - Burak Orkmez - best to buy
 1. [Modern React From The Beginning](https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=REACTNOW) - Travery Media - Latest
+1. [Machine Learning with Hugging Face Bootcamp: Zero to Mastery](https://zerotomastery.io/courses/machine-learning-with-hugging-face/)
 1. Complete Agentic AI Bootcamp With LangGraph And LangChain
 1. AI Engineering Bootcamp: Build, Train and Deploy Models with AWS SageMaker
 1. GitHub Actions - The Complete Guide
