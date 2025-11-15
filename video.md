@@ -747,6 +747,9 @@
 - [Zero to Hero EXPRESS Backend MASTERCLASS in 5 Hours | 2025](https://youtu.be/AR6aUOnd9Co)
 - [Messaging Tutorial - SMS/Email/Push Notifications Full Course](https://youtu.be/bZFj8GCZmq4)
 
+#### Go
+- [Building a Production API in Golang from Scratch (Ecommerce project)](https://youtu.be/s3XItrqfccw)
+
 #### Hono
 - [Summarize Hacker News with Hono + Cloudflare](https://m.youtube.com/watch?v=Wuo7OOaSgmI)
 
