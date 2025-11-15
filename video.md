@@ -577,6 +577,7 @@
 - [Learn Vue.js – Tutorial for Beginners](https://youtu.be/Kt2E8nblvXU)
 
 #### React
+- [React JS Full Course | Redux Toolkit, Vitest Unit Testing & React Router](https://youtu.be/YvwgdlesdPw?si=uRcgGWJ8xGoj54zg)
 - [Build and Deploy a Modern Website in ReactJS and Tailwind CSS | Fully Responsive React UI / UX](https://youtu.be/yS7B1W2SwaU)
 - [Animated Portfolio website using React JS, Tailwind CSS and Framer Motion | Part 1 | in Hindi](https://youtu.be/JcQCORJ3Xr0)
 - [Complete React JS Course | MERN Stack Development](https://youtu.be/E6tAtRi82QY)
