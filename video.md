@@ -862,6 +862,9 @@
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
 - [Build a Threads Clone with React Native (Convex, Clerk, Sentry, Expo) - Simon Grimm](https://youtu.be/D-DUZNeVlRE)
+
+#### Expo
+- [Expo Maps Deep Dive | Learn how to build with the new expo-maps library](https://youtu.be/jDCuaIQ9vd0)
   
 
 #### Jet Pack/ Compose
