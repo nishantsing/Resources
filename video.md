@@ -381,6 +381,7 @@
 - [How Does Javascript Even Work?](https://youtu.be/ergGc3pYZHw)
 - [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
 - [Closures in JavaScript Explained with Examples — Master This Interview Concept](https://youtu.be/JVT_d9Qx_ro)
+- [JavaScript Execution Context Explained Deeply - Engine, Call Stack, JIT & Scope](https://youtu.be/Efqj3FV2vjE)
 
 ## TypeScript
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
@@ -636,6 +637,7 @@
 - [React 19 Project Tutorial – AI Code Explainer](https://youtu.be/W4M-g9wsEC4)
 
 #### TanStack
+- [TanStack Start Is Shockingly Good (100% Typesafe!)](https://youtu.be/qrqlHdevfOc)
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
 - [React Compiler 1.0 with TanStack Start!](https://youtu.be/-3-17PRN7jg)
 
