@@ -151,6 +151,7 @@
 
 
 ## MCP Server
+- [ChatGPT Apps on TanStack and Railway](https://youtu.be/HodoLoXxMv8)
 - [This MCP Toolkit Just Changed Everything](https://youtu.be/7i838w1HHNo)
 - [Intro to MCP Servers – Model Context Protocol with Python Course](https://youtu.be/DosHnyq78xY)
 - [you need to learn MCP RIGHT NOW!! (Model Context Protocol)](https://youtu.be/GuTcle5edjk)
@@ -736,6 +737,7 @@
 - [SaaS App Full Course 2025 | Launch Your SaaS in Under 7 Days with Next JS, Supabase & Payments](https://youtu.be/XUkNR-JfHwo)
 
 ## Backend
+- [Intro to Backend Web Development – Node.js & Express Tutorial for Beginners](https://youtu.be/KOutPbKc9UM)
 - [Master Backend development using Express js in 2024 ,Prisma , Postgresql , JWT](https://youtu.be/tbJjEmpC7-Y?list=PL-MEZzrKlTU3tZUD3NjMSde3Vbev87zyp)
 - [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
 - [Node JS Full Course 2024 | Complete Backend Development Course | Part 1](https://youtu.be/MIJt9H69QVc)
