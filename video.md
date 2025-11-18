@@ -325,7 +325,10 @@
 - [Master YAML in One Video](https://youtu.be/NaoMEy_urlI)
 
 ## Browser
-- [Understanding CORS](https://youtu.be/qRp4AepVjl4) 
+- [Understanding CORS](https://youtu.be/qRp4AepVjl4)
+
+## Clean Code
+- [JavaScript Clean Code Course – Fix Code Smells & Refactor](https://youtu.be/626BcUO84og)
 
 ## HTML
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
@@ -653,6 +656,10 @@
 
 #### React Admin
 - [React Admin Crash Course 2025](https://youtu.be/PyaSnpXssks)
+- 
+
+#### React to Next
+- [All The ReactJS You Need To Know For NextJS](https://youtu.be/Ycswfi9Sf6k)
 
 #### Nextjs
 - [Next.js 15 Tutorial for React Devs (Fullstack Crash Course)](https://youtu.be/O5TJYsqwR94)
