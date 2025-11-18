@@ -520,6 +520,7 @@
 - [How To Build Feature Flags Like A Senior Dev In 20 Minutes](https://youtu.be/VBCYqp8l3Lc)
 - [How To Handle Permissions Like A Senior Dev](https://youtu.be/5GG-VUvruzE)
 - [How to use TypeScript Utility Types like a Senior Developer](https://youtu.be/BhNSauna0eo)
+- [Use These 10 Steps to Take Your Code from Good to Great](https://youtu.be/aAppWoTlw74)
 
 ## Tech Stack
 - [I Finally Found The PERFECT Tech Stack](https://youtu.be/SD4uKy3VZq8)
