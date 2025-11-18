@@ -838,6 +838,7 @@
 #### Drizzle
 
 ## Web Assembly
+- [Wasm, WebGPU, & WebNN: How compute abstraction are enabling client side AI](https://youtu.be/5CvOjKIpnYk)
 - [WebAssembly from the Ground Up with Patrick Dubroy and Mariano Guerra](https://youtu.be/dRdDhybw6NI)
 
 ## Application
