@@ -890,8 +890,16 @@
 - [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
 - [Flutter UI Design - Firebase](https://youtu.be/cFUTyKgQklo?list=PLcPRzKku40wkyMiyGBAp7OYX9uHotkQlO)
+- 
+
+##### Flutter Guys
+- [Complete Flutter E-commerce App - Bloc, Clean Architecture, Firebase](https://youtu.be/OTdRkmmE_Vw)
+
+##### WsCube Tech
+- [Build an Blinkit Clone App with Flutter | Complete 2 Hour Masterclass (2025)](https://youtu.be/BU4jheqy7fI)
   
 #### Kotlin
+- [Build an E-Commerce app with Kotlin & Firebase in Android Studio Project](https://youtu.be/jGT5g8GYo3A)
 
 ## Cloud
 
