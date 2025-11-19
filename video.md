@@ -649,6 +649,7 @@
 
 #### Three.js
 - [Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners](https://youtu.be/yhtdkuw9mbM)
+- [Create a Cute Room Portfolio with Blender, Three.js, JavaScript – Beginner Course](https://youtu.be/tdsQwuyS6DQ)
 - [Build and Deploy an Apple Website with React | Beginner Three.js & GSAP Tutorial](https://youtu.be/DEeaT6FxEws)
 - [1hr to Build an Authenticated 3D Mockup App | React.js Three.js Clerk](https://youtu.be/n-6MmUTS0ck)
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://m.youtube.com/watch?v=tPkJLnDqAKk)
@@ -888,6 +889,7 @@
 - [SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
 
 #### Flutter/ Dart
+- [Modern Budget Tracker Home Screen Design | Flutter UI Tutorial](https://youtu.be/38KlWN8hJ_s)
 - [How to Add Firebase to Any Flutter Project Under 10 minutes | Complete Setup Guide 2025](https://youtu.be/f1jbsmUBddg)
 - [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
@@ -1311,6 +1313,9 @@
 #### PedroTech
 - [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
 - [Modern React Full Course For Beginners | 3 React Projects in 4 Hours](https://youtu.be/r47C9c4qCqE)
+
+#### GreatStack
+- [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
 
 #### JS Masterty Good projects
 
