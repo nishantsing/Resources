@@ -106,6 +106,7 @@
       - [Docker + GenAI   Deploying AI Apps](https://youtu.be/Y9YbCvzAwas)
    
   - Transformer.js
+      - [Transformers.js: Building Next-Generation WebAI Applications](https://youtu.be/gJMiWw_5-us)
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
       - [Vision Transformer from Scratch Tutorial](https://youtu.be/4XgDdxpXHEQ)
    
@@ -114,6 +115,8 @@
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
   - n8n
+      - [How To Automate Workflows (Full Tutorial) | n8n + Hostinger](https://youtu.be/MtYaqjX0UnA)
+      - [n8n Crash Course for Beginners | Webhook → AI Agent → Google Sheets | Full Workflow Tutorial](https://youtu.be/iWFAykxJh94)
       - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://youtu.be/UtXzdmpysmU)
       - [n8n Course for Beginners – Build Complex Workflows & Master AI Integration](https://youtu.be/GIZzRGYpCbM)
       - [How To Host n8n For Free FOREVER](https://youtu.be/H7V2FmHZOnM)
@@ -510,6 +513,9 @@
 - [FULL PRODUCT DESIGN COURSE (FREE) - SideBling](https://youtu.be/g0QzRi9cKC0?list=PL0lNJEnwfVVOtkC5b_2ukwfEuzEpmGevk)
 - [UI UX Design Full Course (2025) | Intellipaat](https://youtu.be/2icljqpaddk)
 
+#### UX Pilot
+- [You don't have to Prototype UI/UX anymore. Here's how](https://youtu.be/YjL7iO5HNQs)
+
 #### Senior devs
 - [How I Actually Create React Applications](https://youtu.be/MHQ1Ly__X_Q)
 - [How To Debug React Apps Like A Senior Developer](https://youtu.be/l8knG0BPr-o)
@@ -890,6 +896,7 @@
 
 #### Flutter/ Dart
 - [Modern Budget Tracker Home Screen Design | Flutter UI Tutorial](https://youtu.be/38KlWN8hJ_s)
+- [10 Minutes Onboarding Screen in Flutter | Flutter UI Tutorial](https://youtu.be/4czK7rNDlTM)
 - [How to Add Firebase to Any Flutter Project Under 10 minutes | Complete Setup Guide 2025](https://youtu.be/f1jbsmUBddg)
 - [Flutter Crash Course](https://youtu.be/j_rCDc_X-k8?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
@@ -1025,6 +1032,7 @@
 - [What is Apache Spark?](https://youtu.be/KAuIvccwbPY)
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
 - [Data Analytics Free Course for Data Analyst Jobs | Data Analyst Free Course | Intellipaat](https://youtu.be/Dnch98Zf2ks)
+- [Power BI Course FREE | Power BI Full Course For Beginners | Intellipaat](https://youtu.be/Oa83OX1gwjw)
 
 ## Automation
 - [Python Automation Crash Course (2025): Automate Your Life With Python!](https://youtu.be/4AEsblWWdQg)
@@ -1293,6 +1301,7 @@
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
 - [How to Create Full Stack AI Website Generator App with Nextjs, React, Typescript, ImageKit](https://youtu.be/tKDPE219kCE)
 - [Build & Deploy AI Agent Builder Platform using NextJs, React, Convex, Arcjet](https://youtu.be/-AVtkiG0laE)
+- [Build Full Stack E-Learning Coding Platform using NextJs, React, Neon, CodeRabbit](https://youtu.be/rdaSPdCkoFQ)
 
 #### Becodemy
 - [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
@@ -1301,6 +1310,7 @@
 - [Build an AI-Powered Meditation App with React Native](https://youtu.be/JdvHMzlKssI)
 
 #### Codesistency
+
 
 #### Simon Grimm
 - [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
@@ -1318,7 +1328,7 @@
 - [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
 
 #### JS Masterty Good projects
-
+- [Build and Deploy a MacOS style Portfolio with React, GSAP & Tailwind](https://youtu.be/j9ZD_hlyHOA)
 - [Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://youtu.be/6biMWgD6_JY)
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://youtu.be/dCLhUialKPQ)
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
