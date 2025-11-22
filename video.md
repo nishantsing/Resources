@@ -110,6 +110,9 @@
       - [Transformers.js: State-of-the-art Machine Learning for the web](https://youtu.be/n18Lrbo8VU8)
       - [Vision Transformer from Scratch Tutorial](https://youtu.be/4XgDdxpXHEQ)
    
+  - LiteRT.js
+      - [LiteRT.js, Google’s high performance WebAI runtime](https://youtu.be/HAjotVloAvI)
+   
   - Assistant
       - [Python AI Voice Agent Tutorial - Full Developer Guide (Deepgram, Twilio, Function Calling)](https://youtu.be/hDKBREokidU)
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
