@@ -25,6 +25,7 @@
 
   - AI Agents
       - [Build a Python AI Agent in 10 Minutes](https://youtu.be/gaGaPpnexxA)
+      - [Build & Deploy a Python AI Agent in 20 Minutes](https://youtu.be/eSbeub2ZeNk)
       - [How to Build AI Agents in Python](https://youtu.be/OKwDzKY_WN8)
       - [How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)](https://youtu.be/B0TJC4lmzEM)
       - [Getting Started with AI Agents](https://youtu.be/leWuDQoDaYY)
