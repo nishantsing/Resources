@@ -995,6 +995,12 @@
 - [Build REST APIs with Spring Boot - 2](https://youtu.be/EWd3_I4X32g)
 - [Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)](https://youtu.be/tXC9DQRWHUQ)
 - [Enterprise Level SaaS Multi-Tenant POS Application | Java Spring Boot, React, Redux Full Course](https://youtu.be/3Iui4-vkgbw)
+- 
+
+## Desktop Application
+
+#### Electron
+- [Build a Markdown Notes app with Electron, React, Typescript, Tailwind and Jotai](https://youtu.be/t8ane4BDyC8)
 
 ## Microservices
 
@@ -1297,6 +1303,9 @@
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
 - [React Native Projects](https://youtu.be/Q1xQuCpYIFE?list=PLKWMD009Q4qSHIMF6Swy4VQs5z6U97LJm)
+
+#### Code With Gionatha
+- [All Builds - Desktop to Mobile](https://youtu.be/t8ane4BDyC8?list=PLwBOMXP2JlCOxQm3z4YGzxozCKbLbC7B5)
 
 #### Hitesh
 - [Building a stackoverflow clone with Nextjs and Appwrite](https://youtu.be/VQ3HhyQCbMA?list=PLRAV69dS1uWRJcxXk1omgcMI07ygMxSRl)
