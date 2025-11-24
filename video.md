@@ -354,6 +354,7 @@
 - [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
+- [Learn CSS Subgrid for Perfect Alignment](https://youtu.be/APxt2mKOsss)
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
 - [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
 - [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
