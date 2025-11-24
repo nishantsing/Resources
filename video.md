@@ -353,6 +353,7 @@
 - [How to set custom error messages for your HTML forms](https://youtu.be/h5qqmE83Tes)
 - [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
 - [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
+- [CSS Flexbox Tutorial for Beginners](https://youtu.be/nbsz6muQRT4)
 - [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
 - [Learn CSS Subgrid for Perfect Alignment](https://youtu.be/APxt2mKOsss)
 - [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
