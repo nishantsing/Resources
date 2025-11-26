@@ -400,6 +400,7 @@
 - [JavaScript Execution Context Explained Deeply - Engine, Call Stack, JIT & Scope](https://youtu.be/Efqj3FV2vjE)
 
 ## TypeScript
+- [TypeScript is actually really powerful.](https://youtu.be/2wunki7VOAI)
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 - [TypeScript Full Course 2025 | Learn TypeScript in One Video](https://youtu.be/W3G4DuchKFY)
 - [TypeScript Full Course - From Beginner to Advanced](https://youtu.be/iJkaAJUzeWQ)
@@ -913,7 +914,9 @@
 
 #### Expo
 - [Expo Maps Deep Dive | Learn how to build with the new expo-maps library](https://youtu.be/jDCuaIQ9vd0)
-  
+
+##### Mobile css (NativeWind, Uniwind)
+- [Uniwind - Fastest Tailwind for React Native?](https://youtu.be/s_XQkonh7JM)
 
 #### Jet Pack/ Compose
 - [Introduction to Android, Jetpack Compose, CMP, KMP ](https://youtu.be/EP3kRiLJ9-s)
@@ -1148,6 +1151,9 @@
 
 #### Nginx / Apache used earlier
 - [Nginx (Engine-X) Crash Course 0 to Production](https://youtu.be/8e42N6AfMzQ)
+- 
+
+#### Ngrok / Twingate
 
 ## Production
 - [Build a Production-Ready MERN Stack Project | URL Shortener](https://youtu.be/ENmBjeLImt4)
@@ -1230,6 +1236,9 @@
 #### Sanskrit
 - [Sanskrit for Beginners by Ashok](https://youtu.be/giDplHSKeoE?list=PL8hlzSD3smGgf8BA3XcWMUlgB1tsoYyD-)
 - [Learn Sanskrit : Be Modern !](https://youtu.be/HTrDZ_5YXow?list=PLNsppmbLKJ8JRS9YDUImL8KetHiB-6CQ9)
+
+#### French
+- [Complete French Language Beginners Course – Learn A1 Level French](https://youtu.be/_coTZxZ-H5Q)
 
 ## How it works
 - [THIS Is Where the Internet Lives](https://youtu.be/v477fvbj3rk)
