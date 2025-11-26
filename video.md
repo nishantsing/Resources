@@ -220,6 +220,7 @@
 ##### Git and Github
 - [Never* use git pull](https://youtu.be/xN1-2p06Urc)
 - [Git & GitHub Crash Course 2025](https://youtu.be/vA5TTz6BXhY)
+- [Git & GitHub Crash Course for Beginners | Complete Guide from Scratch](https://youtu.be/wNrbaAGE2PY)
 - [Lazygit in a nutshell](https://youtu.be/4mgxvcSbwz0)
   
 ##### Project Ideas
@@ -644,6 +645,9 @@
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
   - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
+ 
+###### React Flow
+- [Creating a trading bot in 5 hours like N8N](https://youtu.be/NYCUMKUBcXM)
 
 ###### State Management React
 - [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
@@ -658,6 +662,7 @@
 - [End To End Authentication System in Node.js🚀 | JavaScript | TypeScript | Backend](https://youtu.be/SBupj0azhBo)
 - [Build Advanced MERN Auth with Nodejs, 2FA, Email Verification, Cookies, Sessions, JWT & Nextjs](https://youtu.be/2LRLsMracAY)
 - [Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails](https://youtu.be/pmvEgZC55Cg)
+- [Two Factor Authentication from scratch](https://youtu.be/72rrvpRl8pU?list=PLEyL54o6DAlnI07yBYzxL2DIib1lD04Ed)
 
 #### Authorization
 - [How to Build a Permission System that Scales to Enterprise](https://youtu.be/gL3BJ8_5Jz8)
@@ -668,6 +673,7 @@
 - [React 19 Project Tutorial – AI Code Explainer](https://youtu.be/W4M-g9wsEC4)
 
 #### TanStack
+- [Tanstack Start is Better than Next.js](https://youtu.be/KsHbs5RMVYU)
 - [TanStack Start Is Shockingly Good (100% Typesafe!)](https://youtu.be/qrqlHdevfOc)
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
 - [React Compiler 1.0 with TanStack Start!](https://youtu.be/-3-17PRN7jg)
@@ -880,6 +886,7 @@
 ## Mobile Development
 
 #### React Native
+- [7 Tips to Make Your React Native App Blazing Fast!](https://youtu.be/rSym-q9soFk)
 - [Build Your Own AI Caption Editor with React Native (Convex, ElevenLabs, NativeWind, Expo)](https://youtu.be/Snw0b-PMhsU)
 - [Pocket clone with react native and sqlite, auth](https://youtu.be/GSs4Dnz274k?si=ZkMrTJ64rLEdWBUj)
 - [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://youtu.be/G1XiiXTQHSE?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
@@ -1139,6 +1146,9 @@
 - [How to Dockerize a Node.js App (in under 5 minutes)](https://youtu.be/6RdLX7kgCN8)
 - [Docker Tutorial](https://youtu.be/31ieHmcTUOk?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 
+#### Nginx / Apache used earlier
+- [Nginx (Engine-X) Crash Course 0 to Production](https://youtu.be/8e42N6AfMzQ)
+
 ## Production
 - [Build a Production-Ready MERN Stack Project | URL Shortener](https://youtu.be/ENmBjeLImt4)
 - [Must Know PRODUCTION - PRACTICES for every Developers 🔥| Coder BB | Node JS](https://youtu.be/OVp16VmkFxQ)
@@ -1149,6 +1159,7 @@
 
 ## Testing
 - [JavaScript Unit Testing Tutorial for Beginners](https://youtu.be/zuKbR4Q428o)
+- [Unit Testing Vitest](https://youtu.be/XdDZKeM5_pQ?list=PL4cUxeGkcC9iyuClsf48SSgsJPBStHo7F)
 
 #### React Testing Library
 - [React Testing Library Tutorial](https://youtu.be/7dTTFW7yACQ?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
