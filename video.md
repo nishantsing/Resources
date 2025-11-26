@@ -339,6 +339,7 @@
 
 ## HTML
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
+- [Create a reusable Web Component from scratch](https://youtu.be/b_x3kzapvcI)
 
 ## CSS
 - [How To Make Amazing Range Inputs With CSS](https://youtu.be/AvvXZL3mKhc)
@@ -367,6 +368,7 @@
 - [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 - [View Transition API Tutorial | New CSS Animation Power](https://youtu.be/Fb-RNqiDoiw)
+- [Can You Build A Swipe UI With Only CSS?](https://youtu.be/WjuqAGpj6DM)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -430,6 +432,18 @@
 
 #### DSA in python
 - [Fundamentals of Data Structures and Algorithms - Caleb](https://youtu.be/kyUPU_Tpoq4?list=PL_c9BZzLwBRLpDEpYRFXKBN-2ZCsAx0ps)
+
+#### Algorithms
+- [Algorithms](https://youtu.be/M9azY7YyMqI?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd)
+
+#### Graph
+- [Graph DS](https://youtu.be/fPl8TOOaOuw)
+
+#### Heaps
+- [Heaps DS](https://youtu.be/pLIajuc31qk?list=PL3edoBgC7ScWhy0mlNvLPssa_sDGnyUcb)
+
+#### Problems
+- [Coding Problems](https://youtu.be/gQGCiMPrnaY?list=PL3edoBgC7ScW_CBHbMc0FtdXfzgpBOGIb)
 
 
 ## Time Complexity
