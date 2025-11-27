@@ -119,6 +119,7 @@
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
   - n8n
+      - [FREE n8n Self-Hosting: Unlimited Workflows & Internet Access with Docker & Cloudflare Tunnels](https://youtu.be/TuRze68eA2I)
       - [How To Automate Workflows (Full Tutorial) | n8n + Hostinger](https://youtu.be/MtYaqjX0UnA)
       - [n8n Crash Course for Beginners | Webhook → AI Agent → Google Sheets | Full Workflow Tutorial](https://youtu.be/iWFAykxJh94)
       - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://youtu.be/UtXzdmpysmU)
@@ -149,6 +150,7 @@
 - [Demystifying LLMs: What Happens When You Chat with AI](https://m.youtube.com/watch?v=KZGOrJxxIrA)
 - [You've Been Using AI the Hard Way (Use This Instead) - LLM in terminal](https://youtu.be/MsQACpcuTkU)
 - [How are LLMs built?](https://youtu.be/GQGFqWPl9lQ)
+- [Running Google's Gemma LLMs in the browser with MediaPipe Web](https://youtu.be/UC5jUqNBVkI)
 
 ## Diffusion Models
 - [Diffusion Models Just Beat Large Language Models?](https://youtu.be/Yu4ZWy1GjlE)
@@ -653,7 +655,10 @@
 ###### State Management React
 - [State Management in React Will Never Be the Same](https://youtu.be/HaRFUEuLIk4)
 
-#### Stripe
+
+#### Payment
+- [AI agents are paying each other now](https://youtu.be/S6wc6yvoZLY)
+###### Stripe
 - [Ultimate Stripe Tutorial for Beginners in 5 HOURS - Subscriptions, Payments, Emails](https://youtu.be/_YCC9Osq6y4)
 
 #### Authentication
@@ -823,6 +828,7 @@
 - [Redis for Beginners](https://youtu.be/8sHCdz_tOjk?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
 
 #### SQLite
+- [Offline vector search with SQLite and EmbeddingGemma](https://youtu.be/sobPBztQTtU)
 
 #### GraphQL
 - [GraphQL Crash Course](https://youtu.be/xMCnDesBggM?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
