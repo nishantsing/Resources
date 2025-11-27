@@ -1361,6 +1361,10 @@
 #### Codesistency
 
 
+#### Time to Program
+- [Build MERN Stack Projects: Beginner to Advance](https://youtu.be/iaAdWmAu0TE?list=PLbRpkalMD_hxM8lBsTiRetKkrd-QyDxEQ)
+
+
 #### Simon Grimm
 - [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
 - [Building a Food Delivery App with React Native | Expo, Git, Maps, Reanimated | Wolt Clone](https://youtu.be/aYftPYZJsy8)
