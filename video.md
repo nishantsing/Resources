@@ -413,6 +413,7 @@
 
 ## DSA
 - [Visualize Data Structures in VS Code](https://youtu.be/3O6BFlOiFRg)
+- [Data Structures - Full Course for Beginners](https://youtu.be/J2fol8eWo64)
 - [Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours](https://youtu.be/xwI5OBEnsZU)
 - [Complete DSA course - 50 hours to master technical interviews - Part 1](https://youtu.be/hwpNzen0z0w)
 - [Complete DSA Course – 50 hours to master technical interviews - Part 2](https://youtu.be/bsgmEfNJx64)
