@@ -209,6 +209,7 @@
 
 ## Data Engineer
 - [Databricks Data Engineer Associate Certification Course – Pass the Exam!](https://youtu.be/0Hd5vYqin7w)
+- [End to End Data Engineering Project using Databricks Free Edition | FMCG Domain](https://youtu.be/U6ZUKWdfSLY)
 
 ## Tensorflow
 - [TensorFlow Crash Course for Beginners (2025) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
@@ -372,6 +373,7 @@
 - [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
 - [View Transition API Tutorial | New CSS Animation Power](https://youtu.be/Fb-RNqiDoiw)
 - [Can You Build A Swipe UI With Only CSS?](https://youtu.be/WjuqAGpj6DM)
+- [Responsive Design Web Design Tutorial](https://youtu.be/ITwD8Iq_ahs)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -836,6 +838,7 @@
 - [2 HOURS to code Zillow Property App with Google MAP API + Next.js](https://youtu.be/ToaPZ5j9dUA)
 
 #### SQL
+- [Launching FREE Chai SQLab for everyone](https://youtu.be/MhLycECL_Ec)
 - [Harvard CS50’s Intro to Databases with SQL – Full University Course](https://youtu.be/WXk7yDqsKxs)
 
 ### Backend AS a Service
@@ -1375,7 +1378,8 @@
 #### Simon Grimm
 - [Build a React Native Mental Health App with Stream Chat & Video Call](https://youtu.be/A8gJFybTPr0)
 - [Building a Food Delivery App with React Native | Expo, Git, Maps, Reanimated | Wolt Clone](https://youtu.be/aYftPYZJsy8)
-- [React Native Godot Games](https://youtu.be/eDcOXpRPprU)
+- [React Native Godot Games](https://youtu.be/eDcOXpRPprU)\
+- [I Built a Mobile Farming Game in 6 Days (with AI + Expo)](https://youtu.be/MJRUidWJOdw)
 
 #### Code with Beto 
 - [Build a Modern Multi-User Chat App with React Native, Expo, Clerk & Appwrite (Real-Time)](https://youtu.be/HKJdqJIDtMs)
