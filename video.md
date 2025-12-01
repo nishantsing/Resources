@@ -1272,6 +1272,7 @@
 - [Discrete Mathematics Course for Beginners](https://youtu.be/G9JxuWk7BDA)
 
 ## Low / No Code / Lovable / Bolt / Base44
+- [WordPress Full Course for Beginners to PRO (2026) - Build No-Code Website](https://youtu.be/Kb1P0fnrt_g?si=pC0AaqwBj0L0M9bL)
 - [Vibe Coding just got an upgrade - Replit Agent 3 Released](https://youtu.be/nPHkv6Kb028)
 - [Coding is Changing… The Most Advanced AI Tool Yet](https://youtu.be/1y_VE_3_320)
 - [Stop Making Fake Netflix Clones - Here's How to Build a REAL One (Warp Code + Next.js Tutorial)](https://m.youtube.com/watch?v=tjYJyDwIfbw)
@@ -1369,6 +1370,7 @@
 - [Build an AI-Powered Meditation App with React Native](https://youtu.be/JdvHMzlKssI)
 
 #### Codesistency
+- [Build a Massive E-Commerce Store with React Native](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
 
 
 #### Time to Program
