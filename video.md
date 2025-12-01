@@ -820,6 +820,7 @@
 
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
+- [Designing a Production-Ready Database Starting from a Simple Idea (ERD)](https://youtu.be/2pS0KgQtO8Y?si=dvoNZ7PKlSYAhJ4m)
 
 #### MongoDB
 - [MongoDB Crash Course 2026 (with Handbook)](https://youtu.be/M1dKYQ7GsTg)
