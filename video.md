@@ -1247,6 +1247,7 @@
 #### Flutter
 - [Build a Professional Banking App Home UI in Flutter 2025](https://youtu.be/JQIes2er5ds)
 - [Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod](https://youtu.be/9gpAtzQhYkY)
+- [Build a STUNNING Budget Tracker Analysis Screen in Flutter!](https://youtu.be/4vgitzPUIu4?si=Iw3ykA6c7hse4y_u)
 
 #### Sanskrit
 - [Sanskrit for Beginners by Ashok](https://youtu.be/giDplHSKeoE?list=PL8hlzSD3smGgf8BA3XcWMUlgB1tsoYyD-)
