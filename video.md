@@ -1391,7 +1391,7 @@
 #### PedroTech
 - [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
 - [Modern React Full Course For Beginners | 3 React Projects in 4 Hours](https://youtu.be/r47C9c4qCqE)
-- [Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma](https://youtu.be/W4N_FJ0ANbs?si=DSdkNUAg_hYPSOjC) 
+- [Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma](https://youtu.be/g09PoiCob4Y?si=tzt9IF-gS9NKOqcV) 
 
 #### GreatStack
 - [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
