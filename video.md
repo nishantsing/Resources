@@ -598,6 +598,7 @@
 ### Frontend Library
 
 #### Astro
+- [Ultimate Content Collections Overview](https://youtu.be/DbPc6YP-oR4?si=E3W_nMKGu-0cw9Q8)
 - [Lesson 1 — Introduction to Astro](https://youtu.be/HZ4pCYg9Rws)
 - [Rebuild My Site with Me in 🚀 Astro](https://youtu.be/GVO4e-DoC-I)
 - [Figma and Astro Static Site build](https://youtu.be/jyjScZWgzIg?list=PL4cUxeGkcC9hZm9NYpd4G-jhoeEk0ls--)
@@ -742,6 +743,9 @@
 
 ###### State Management
 - [The easiest way to manage state in NextJs](https://youtu.be/Wj0Lz6mgU-k)
+
+#### Nest
+- [NestJS Course for Beginners - Build Server-Side Applications](https://youtu.be/21_I-12f5JE?si=drKlLvfLVk7AV4ru)
 
 ## FullStack
 - [Build Your First Full Stack Project with Cursor AI + TestSprite | Step-by-Step Node.js Tutorial](https://youtu.be/fRTECEtMW74)
