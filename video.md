@@ -1231,6 +1231,9 @@
 #### Java
 - [Now is the best time to learn Java](https://youtu.be/lvHR2Xc9LMU)
 
+#### R
+- [Harvard CS50’s Intro to R Programming – Full University Course](https://youtu.be/g_3IKHG-rfA?si=ampmZvZXv8Noh2y_)
+
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 - [Rust Course](https://youtu.be/jAm7xrRxEUE?list=PL_c9BZzLwBRIymgB73pHXIgazpB-uszKU)
