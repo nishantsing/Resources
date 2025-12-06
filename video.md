@@ -5,6 +5,7 @@
 - [The Best AI Coding Tools for Developers in 2025 (That I Actually Use)](https://youtu.be/YESrXVkcCHY)
 
 ## AI
+- [Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers](https://youtu.be/wu8npoU37cI?si=DiLrkKxElqy2qzRZ)
 - [20 AI Concepts Explained in 40 Minutes](https://youtu.be/OYvlznJ4IZQ)
 - [AI Engineering: A Realistic Roadmap for Beginners](https://youtu.be/d_LbQwoWI7I)
 - [AI Course for Developers – Build AI-Powered Apps with React](https://m.youtube.com/watch?v=PtETUYa3i2Q)
@@ -71,6 +72,7 @@
       - [EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://youtu.be/pTaSDVz0gok)
   
   - RAG / Vector
+      - [Build Advanced Retrieval-Augmented Generation (RAG) with MongoDB Vector Search](https://youtu.be/FepDo-0DrSo?si=0F3bnbZOAicwOMpt)
       - [Is JSON Dead? TOON is the new JSON](https://youtu.be/1WrLLEO50gw)
       - [Local AI on Your Data A Complete RAG Tutorial! (Stop AI Hallucinations)](https://youtu.be/TqeOznAcXXU)
       - [Complete RAG Crash Course With Langchain In 2 Hours](https://youtu.be/o126p1QN_RI)
@@ -130,6 +132,8 @@
       - [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)](https://youtu.be/ONgECvZNI3o)
       - [n8n Now Runs My ENTIRE Homelab](https://youtu.be/budTmdQfXYU)
       - [I built my own Sora 2 video generation workflow with n8n](https://youtu.be/p3lFCY4nTjI)
+      - [Amazon Bedrock AgentCore Tutorial | Build, Deploy, Operate AI Agents using AgentCore](https://youtu.be/cTBGIKAckKE?si=akFXUYalJgIsjRzD)
+      - [How to Automate EMAIL MARKETING with AI (Full Project)](https://youtu.be/640JrKbsgFs?si=HIKbCSg96vO2jz56)
    
   - zapier
       - [Build Your First AI Agent in 20 Minutes (No Coding Required)](https://youtu.be/Jekzc6BM5_w)
@@ -374,6 +378,7 @@
 - [View Transition API Tutorial | New CSS Animation Power](https://youtu.be/Fb-RNqiDoiw)
 - [Can You Build A Swipe UI With Only CSS?](https://youtu.be/WjuqAGpj6DM)
 - [Responsive Design Web Design Tutorial](https://youtu.be/ITwD8Iq_ahs)
+- [Getting started with CSS Nesting](https://youtu.be/h4Xp1QgNkhU?si=0Ff1YpmsGnaQshGx)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -402,8 +407,10 @@
 - [Firebase Studio: AI-Powered JavaScript Development | iJS](https://youtu.be/bL1kiMtguDk)
 - [Closures in JavaScript Explained with Examples — Master This Interview Concept](https://youtu.be/JVT_d9Qx_ro)
 - [JavaScript Execution Context Explained Deeply - Engine, Call Stack, JIT & Scope](https://youtu.be/Efqj3FV2vjE)
+- [Master JavaScript Memoization - Closure + Higher Order Function](https://youtu.be/xRpzY_skepM?si=n6Ei2fwe2uzbtr1z)
 
 ## TypeScript
+- [Chai aur Typescript](https://youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&si=D6wf4B7gm4qGHJIB)
 - [TypeScript is actually really powerful.](https://youtu.be/2wunki7VOAI)
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 - [TypeScript Full Course 2025 | Learn TypeScript in One Video](https://youtu.be/W3G4DuchKFY)
@@ -540,6 +547,9 @@
 - [FULL PRODUCT DESIGN COURSE (FREE) - SideBling](https://youtu.be/g0QzRi9cKC0?list=PL0lNJEnwfVVOtkC5b_2ukwfEuzEpmGevk)
 - [UI UX Design Full Course (2025) | Intellipaat](https://youtu.be/2icljqpaddk)
 
+###### Motion
+- [Motion Design Crash Course: Learn Figma, Smart Animate & UI Animations](https://youtu.be/0RP1PDu2di0?si=BXoutgrHnGpEZGaN)
+
 #### UX Pilot
 - [You don't have to Prototype UI/UX anymore. Here's how](https://youtu.be/YjL7iO5HNQs)
 
@@ -653,6 +663,8 @@
   - [MERN Stack Full Course - ECommerce App with Admin Panel : React, Redux Toolkit, Tailwind, MongoDB](https://youtu.be/_4CPp670fK4)
   - [MERN Stack LMS: React JS, Tailwind CSS, Express, MongoDB, Shadcn UI | MERN Stack Udemy Clone](https://youtu.be/OkKbAuQXFcM)
   - [React Projects for Resume: Why These 10 Will Get You Hired](https://youtu.be/rxPfVrqjW5k)
+
+
  
 ###### React Flow
 - [Creating a trading bot in 5 hours like N8N](https://youtu.be/NYCUMKUBcXM)
@@ -708,6 +720,7 @@
 
 #### Nextjs
 - [Next.js 15 Tutorial for React Devs (Fullstack Crash Course)](https://youtu.be/O5TJYsqwR94)
+- [Next.js 16 Full Stack Course (8+ Hours) | Auth, Caching, Server Actions & Much More](https://youtu.be/MZbwu3-uz3Y?si=Nm3zqKzuRHjAaYrc)
 - [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI)
 - [Next js 16 Cache Component](https://youtu.be/pHRPwBT53P0)
 - [Next.js Live Tutorial – Start Your Next.js Journey Here [Part-1]](https://youtu.be/12NDVrqybWc)
@@ -1133,6 +1146,8 @@
 - [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
 - [AWS Full Course 2026 FREE | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/dcahqWJ6tKc)
+- [AWS Full Course 2026 | AWS Training FREE | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/BiBu96zE92w?si=zekbf-tCk74QLAcy)
+
 
 #### Coding With Tushar
 - [What is AWS & IAM Policies Explained | Complete AWS IAM Tutorial for Beginners - 1](https://youtu.be/Ny0WOwDGero)
