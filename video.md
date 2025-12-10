@@ -351,6 +351,7 @@
 - [Create a reusable Web Component from scratch](https://youtu.be/b_x3kzapvcI)
 
 ## CSS
+- [Stop using so many Media Queries - Use clamp() instead!](https://youtu.be/pYW3O0AxpI8?si=uvqPF_tcfgymscGE)
 - [How To Make Amazing Range Inputs With CSS](https://youtu.be/AvvXZL3mKhc)
 - [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
 - [CSS Combinators you need to know (and a selector too)](https://youtu.be/rndMS4pEKP8)
@@ -409,6 +410,7 @@
 - [Closures in JavaScript Explained with Examples — Master This Interview Concept](https://youtu.be/JVT_d9Qx_ro)
 - [JavaScript Execution Context Explained Deeply - Engine, Call Stack, JIT & Scope](https://youtu.be/Efqj3FV2vjE)
 - [Master JavaScript Memoization - Closure + Higher Order Function](https://youtu.be/xRpzY_skepM?si=n6Ei2fwe2uzbtr1z)
+- [Javascript ASYNC/AWAIT Explained in 9 Minutes!](https://youtu.be/djhsM74K19U?si=LSlCIz265wr4hkzs)
 
 ## TypeScript
 - [Chai aur Typescript](https://youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&si=D6wf4B7gm4qGHJIB)
