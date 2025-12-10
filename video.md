@@ -91,6 +91,7 @@
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
    
   - LangGraph
+      - [Build Serverless AI Agents with Langbase](https://youtu.be/BMt-qvrEcFY?si=hC2AMZITpIFubyFo)
       - [Agentic AI Project in LangGraph | Build Loveable Clone](https://m.youtube.com/watch?v=SP-b_G74Nuk&pp=0gcJCRsBo7VqN5tD)
       - [Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial](https://youtu.be/9tANiA0LKn4)
       - [How to Build an Advanced AI Agent with Search (LangGraph, Python, Bright Data & More)](https://m.youtube.com/watch?v=cUC-hyjpNxk)
@@ -419,6 +420,7 @@
 - [Learn Advanced TypeScript In 25 Minutes (infer, extends, ternaries)](https://youtu.be/bnTAOB3P6nM)
 - [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
 - [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
+- [Branded Types are a Must Know TypeScript Feature for Large Projects](https://youtu.be/aP6w2OzidYM?si=Y0JiOmeZAjsNJDs1)
 
 ## DSA
 - [Visualize Data Structures in VS Code](https://youtu.be/3O6BFlOiFRg)
@@ -627,6 +629,8 @@
 - [Learn Vue.js – Tutorial for Beginners](https://youtu.be/Kt2E8nblvXU)
 
 #### React
+- [React JS Full Course 2026 | Beginner to Advanced by Shiva Sir](https://youtu.be/iNua1Je4H2U?si=8yLXz6QKZvtfuxk5)
+- [React Animation Course - Learn React Animation using Motion](https://youtu.be/9-fO_2xTpgY?si=N8ePc2OTai8xw2uk)
 -[Stop Writing React Code Like This](https://youtu.be/Ubbb1RK7iFs?si=7xPOxckNcEdIiyPC)
 - [React JS Full Course | Redux Toolkit, Vitest Unit Testing & React Router](https://youtu.be/YvwgdlesdPw?si=uRcgGWJ8xGoj54zg)
 - [Build and Deploy a Modern Website in ReactJS and Tailwind CSS | Fully Responsive React UI / UX](https://youtu.be/yS7B1W2SwaU)
@@ -941,6 +945,7 @@
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/WDunoPNBxKA)
 - [React Native Full Course for Beginners | Build Your First Mobile App in 4 Hours!](https://youtu.be/JKccS9k56_I)
 - [Build a Threads Clone with React Native (Convex, Clerk, Sentry, Expo) - Simon Grimm](https://youtu.be/D-DUZNeVlRE)
+- [Build your own App Builder with React Native and InstantDB](https://youtu.be/HRACNTmikZI?si=LTfN5Eh1O-Js0ZZi)
 
 #### Expo
 - [Expo Maps Deep Dive | Learn how to build with the new expo-maps library](https://youtu.be/jDCuaIQ9vd0)
@@ -1000,6 +1005,8 @@
 - [Monkey Type](https://monkeytype.com/)
 
 ## Chat App
+- [Build a Complete Real-Time Chat with Next.js 16, Redis, Tailwind (2025)](https://youtu.be/D8CLV-MRH0k?si=nVVVrxF0LKTc6-_M)
+- [Build a Realtime Chat App with Notifications | Next.js, Clerk, Socket.io, Postgres | Node JS Part 5](https://youtu.be/8pFQsM4Tf4s?si=PqTnrQZy4QhsaMkQ)
 - [Build and Deploy a Realtime Chat App with React, Node.js, Socket.io](https://youtu.be/bR4b_Io8shE)
 - [Can an AI Chatapp be complex ?](https://youtu.be/DkSRe5bUEDM)
 - [Building a complex AI chat app with Agents and Stream](https://youtu.be/4Uo2cYcxvJs)
@@ -1120,6 +1127,7 @@
 - [Whack-a-Mole in your browser - Is it possible!?](https://youtu.be/lUHN48dhACY)
 
 ## Debugging
+- [Modern web vitals explained](https://youtu.be/xYoTbKJGSLE?si=ezIhPPC7tu-FsYSp)
 - [The hidden chrome performance tools](https://youtu.be/8cshn2IIkbY)
 - [How To Use CSS Dev Tools Like a Senior Developer](https://youtu.be/Qf_5zmxrxzE)
 - [Create Professional CSS Animations with This Dev Tool](https://youtu.be/PqDfILvhAtM)
@@ -1157,6 +1165,7 @@
 - [AWS Load Balancer and Auto Scaling Group: A Beginner’s Guide - 5](https://youtu.be/rDsmWCxSbAs)
 - [AWS Basics - Coding With Tushar](https://youtu.be/rDsmWCxSbAs?list=PL-MEZzrKlTU2TFPJjQRNc3LYOQvp9uk9G)
 - [AWS EC2 + GitHub Actions CI/CD | Zero-Downtime Deployment for Node.js Applications](https://youtu.be/FCM1FhnMbGs)
+- [SST crash course automate your deployment (code as Infra)](https://youtu.be/nYfTiPyp-ro?si=rLMKSTDday-TJ7UF)
 
 ###### AWS Sagemaker
 - [AI Engineering with AWS SageMaker: Crash Course for Beginners!](https://youtu.be/Ld2oTLY47sA)
@@ -1290,6 +1299,9 @@
 ## AI Products
 - [How I Made a Viral Ad in 2 Minutes With AI! | Topview.Ai](https://youtu.be/ZF1MqYxfXSw)
 
+## PWA
+- [PWA Make Your Website a Native App on Mobile Devices and Desktop](https://youtu.be/2NRspEpk8w0?si=EDKLqG78Vb3NTe7o)
+
 ## Random
 - [How To Build Anything | Art of Reverse Engineering](https://youtu.be/EiOvxYja8GU)
 - [GSOC 2025 Complete Roadmap: Step by Step Guide](https://youtu.be/5JYJlQpni6o)
@@ -1382,6 +1394,7 @@
 #### Hitesh
 - [Building a stackoverflow clone with Nextjs and Appwrite](https://youtu.be/VQ3HhyQCbMA?list=PLRAV69dS1uWRJcxXk1omgcMI07ygMxSRl)
 - [Lets build an AI powered SAAS with Nextjs and Cloudinary](https://youtu.be/moAQiDvzCwY?list=PLF8LumSOX3y-YHOwDTAbNmj8-bFtuBja-)
+- [Roadmap to Mobile Development with a mini project](https://youtu.be/HihtPkCWdNw?si=9AfOemc1TsC8rbiK)
 
 #### Tube Guruji YouTube
 - [Build Full Stack SaaS Multi-AI Chat App with Next.js, React, CodeRabbit, ArcJet](https://youtu.be/saoW6BaNamc)
