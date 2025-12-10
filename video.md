@@ -35,6 +35,7 @@
       - [The Future Of Coding Is With AI Agents](https://m.youtube.com/watch?v=5AfJ0N3MvpA&pp=0gcJCRsBo7VqN5tD)
       - [Build an AI Coding Agent in Python – Full Course for Beginners](https://m.youtube.com/watch?v=YtHdaXuOAks)
       - [This AI Summarizes Any Public YouTube Video For You](https://m.youtube.com/watch?v=Rm1pCbKDRPw)
+      - [This New Voice AI Agent is INSANE](https://youtu.be/MmRnvne2zZw?si=OzVvi85Bje9xt5YI)
       - [Automated PR Code Reviews with AI](https://m.youtube.com/watch?v=jKLDQbluu_A)
       - [Agentic AI With Autogen Crash Course](https://youtu.be/yDpV_jgO93c)
       - [Build AI agents with Cloud Run and Firebase Genkit](https://youtu.be/CfmG32Jvme8)
@@ -49,6 +50,7 @@
       - [ChatGPT Operator is expensive....use this instead (FREE + Open Source)](https://youtu.be/sxTNACldK3Y)
       - [How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING](https://youtu.be/G5djZjdxVvo)
       - [Build & Deploy Full stack in Minutes with Chef By Convex | Ultimate AI Tools](https://youtu.be/I01VsMCdGkQ)
+
    
   - Gen AI
       - [Google Generative AI Leader Certification Course – Pass the Exam!](https://youtu.be/30diF8dKpAY)
@@ -1145,6 +1147,7 @@
 
 ## Networking
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
+- [The Home Server / Synology Show](https://youtu.be/AVXFadE8Q9A?si=2EUuizh6tVNauqpp)
 
 #### AWS
 - [skillbuilder AWS](https://skillbuilder.aws/)
@@ -1264,6 +1267,9 @@
 
 #### R
 - [Harvard CS50’s Intro to R Programming – Full University Course](https://youtu.be/g_3IKHG-rfA?si=ampmZvZXv8Noh2y_)
+
+#### WASM
+- [WASM + React... Easily build video editing software with JS & FFmpeg](https://youtu.be/-OTc0Ki7Sv0?si=WfpAg_Z-mclTmboC)
 
 #### RUST
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
@@ -1389,6 +1395,10 @@
 - [I Built a Trading Bot with AI & It Actually Worked?](https://youtu.be/Mi0QycA81go)
 - [Build & Deploy Full Stack Nextjs App using React, Typescript, Imagekit, Strapi](https://youtu.be/PdVSn-w419g)
 - [React Native Projects](https://youtu.be/Q1xQuCpYIFE?list=PLKWMD009Q4qSHIMF6Swy4VQs5z6U97LJm)
+
+
+## YT Projects
+- [Build a Mini CodeRabbit (AI Code Reviewer) | Next.js16, Convex, Inngest, Github API, Clerk, Tailwind](https://youtu.be/z6aTzkV9B2Q?si=lUNSfJb95kerzd98)
 
 #### Code With Gionatha
 - [All Builds - Desktop to Mobile](https://youtu.be/t8ane4BDyC8?list=PLwBOMXP2JlCOxQm3z4YGzxozCKbLbC7B5)
