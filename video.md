@@ -124,6 +124,7 @@
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
   - n8n
+      - [n8n Tutorial – Zero to Hero Course](https://youtu.be/UIf-SlmMays?si=L8T5QZznel38jlcg)
       - [FREE n8n Self-Hosting: Unlimited Workflows & Internet Access with Docker & Cloudflare Tunnels](https://youtu.be/TuRze68eA2I)
       - [How To Automate Workflows (Full Tutorial) | n8n + Hostinger](https://youtu.be/MtYaqjX0UnA)
       - [n8n Crash Course for Beginners | Webhook → AI Agent → Google Sheets | Full Workflow Tutorial](https://youtu.be/iWFAykxJh94)
@@ -657,6 +658,7 @@
 - [THE BIGGEST REACT.JS COURSE ON THE INTERNET  PART 1](https://youtu.be/qnwFpjIqsrA)
     - React State Management
     - Redux Toolkit
+        - [React Redux Complete Tutorial](https://youtu.be/mqEWYFv0fUs?si=BzCJ4yn6RUVSPO_H)
     - Context API
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
