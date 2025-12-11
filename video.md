@@ -124,6 +124,7 @@
       - [Why This Boring AI business Idea Makes Money](https://youtu.be/vcM84VxSXAM)
 
   - n8n
+      - [n8n Tutorial – Zero to Hero Course](https://youtu.be/UIf-SlmMays?si=dIhfxQB6WLVaGDkg)
       - [n8n Tutorial – Zero to Hero Course](https://youtu.be/UIf-SlmMays?si=L8T5QZznel38jlcg)
       - [FREE n8n Self-Hosting: Unlimited Workflows & Internet Access with Docker & Cloudflare Tunnels](https://youtu.be/TuRze68eA2I)
       - [How To Automate Workflows (Full Tutorial) | n8n + Hostinger](https://youtu.be/MtYaqjX0UnA)
