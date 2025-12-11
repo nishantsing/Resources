@@ -125,6 +125,7 @@
 
   - n8n
       - [n8n Tutorial – Zero to Hero Course](https://youtu.be/UIf-SlmMays?si=dIhfxQB6WLVaGDkg)
+      - [I'll never use n8n the same......](https://youtu.be/s96JeuuwLzc?si=oVIrmeeZk8mi7E1U)
       - [n8n Tutorial – Zero to Hero Course](https://youtu.be/UIf-SlmMays?si=L8T5QZznel38jlcg)
       - [FREE n8n Self-Hosting: Unlimited Workflows & Internet Access with Docker & Cloudflare Tunnels](https://youtu.be/TuRze68eA2I)
       - [How To Automate Workflows (Full Tutorial) | n8n + Hostinger](https://youtu.be/MtYaqjX0UnA)
