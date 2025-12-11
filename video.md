@@ -385,6 +385,7 @@
 - [Can You Build A Swipe UI With Only CSS?](https://youtu.be/WjuqAGpj6DM)
 - [Responsive Design Web Design Tutorial](https://youtu.be/ITwD8Iq_ahs)
 - [Getting started with CSS Nesting](https://youtu.be/h4Xp1QgNkhU?si=0Ff1YpmsGnaQshGx)
+- [3 powerful CSS nesting tricks](https://youtu.be/hiwvjsmD2iY?si=_S9HNWWCbSKf-U79)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
