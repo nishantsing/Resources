@@ -1447,6 +1447,7 @@
 
 #### GreatStack
 - [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
+- [Build Your Own AI Website Builder Using PERN Stack | Full Stack React JS Project Tutorial](https://youtu.be/kfcnYB0sQbM?si=vEJwNQISJksVvcdb)
 
 #### JS Masterty Good projects
 - [Build and Deploy a MacOS style Portfolio with React, GSAP & Tailwind](https://youtu.be/j9ZD_hlyHOA)
