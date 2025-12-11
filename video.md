@@ -839,6 +839,7 @@
 #### Postman
 - [Api Design Crash Course](https://youtu.be/FPM1v4g1b4s)
 - [Postman + TanStack = Amazing MCP!](https://youtu.be/Aaj6Ru1Lt0k)
+- [Stop Using Postman! This API Client Is 10x Better (Requestly)](https://youtu.be/GE42Uu8BElc?si=pek4wLcy_SMhncH8)
 
 #### Serverless Function
 - [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API](https://youtu.be/V0P3Opf-zUs)
