@@ -415,6 +415,7 @@
 - [JavaScript Execution Context Explained Deeply - Engine, Call Stack, JIT & Scope](https://youtu.be/Efqj3FV2vjE)
 - [Master JavaScript Memoization - Closure + Higher Order Function](https://youtu.be/xRpzY_skepM?si=n6Ei2fwe2uzbtr1z)
 - [Javascript ASYNC/AWAIT Explained in 9 Minutes!](https://youtu.be/djhsM74K19U?si=LSlCIz265wr4hkzs)
+- [Learn Regular Expressions Fast - JavaScript Regex Tutorial for Developers](https://youtu.be/4awL2LjSpUs?si=jxyL1ugFY4KywKvY)
 
 ## TypeScript
 - [Chai aur Typescript](https://youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&si=D6wf4B7gm4qGHJIB)
