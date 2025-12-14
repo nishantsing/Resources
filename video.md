@@ -387,6 +387,7 @@
 - [Responsive Design Web Design Tutorial](https://youtu.be/ITwD8Iq_ahs)
 - [Getting started with CSS Nesting](https://youtu.be/h4Xp1QgNkhU?si=0Ff1YpmsGnaQshGx)
 - [3 powerful CSS nesting tricks](https://youtu.be/hiwvjsmD2iY?si=_S9HNWWCbSKf-U79)
+- [Inverted Corners in CSS? New corner-shape Property!](https://youtu.be/kmfBt1gBAXQ)
 
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -638,6 +639,7 @@
 - [Learn Vue.js – Tutorial for Beginners](https://youtu.be/Kt2E8nblvXU)
 
 #### React
+- [Build a Stunning React Portfolio Website with Tailwind CSS | Modern Developer Portfolio Tutorial](https://youtu.be/UQVB8fe_b4E)
 - [React JS Full Course 2026 | Beginner to Advanced by Shiva Sir](https://youtu.be/iNua1Je4H2U?si=8yLXz6QKZvtfuxk5)
 - [React Animation Course - Learn React Animation using Motion](https://youtu.be/9-fO_2xTpgY?si=N8ePc2OTai8xw2uk)
 -[Stop Writing React Code Like This](https://youtu.be/Ubbb1RK7iFs?si=7xPOxckNcEdIiyPC)
@@ -1076,6 +1078,7 @@
 - [Build a Markdown Notes app with Electron, React, Typescript, Tailwind and Jotai](https://youtu.be/t8ane4BDyC8)
 
 ## Microservices
+- [Master Micro-service based Architecture](https://youtu.be/gem_722nztc)
 
 #### Bundlers
 - [Webpack vs Vite vs Parcel vs esbuild – Best Bundler for Beginners](https://youtu.be/i9Xq8aExZr4)
