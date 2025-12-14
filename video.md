@@ -639,6 +639,7 @@
 - [Learn Vue.js – Tutorial for Beginners](https://youtu.be/Kt2E8nblvXU)
 
 #### React
+- [i’m gonna crash out (react2shell vulnerability) - Nov 2025](https://youtu.be/kmlMNtjFgoY)
 - [Build a Stunning React Portfolio Website with Tailwind CSS | Modern Developer Portfolio Tutorial](https://youtu.be/UQVB8fe_b4E)
 - [React JS Full Course 2026 | Beginner to Advanced by Shiva Sir](https://youtu.be/iNua1Je4H2U?si=8yLXz6QKZvtfuxk5)
 - [React Animation Course - Learn React Animation using Motion](https://youtu.be/9-fO_2xTpgY?si=N8ePc2OTai8xw2uk)
@@ -980,6 +981,7 @@
 - [Dart Crash Course](https://youtu.be/QGqMJzywasg?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
 - [Flutter UI Design - Firebase](https://youtu.be/cFUTyKgQklo?list=PLcPRzKku40wkyMiyGBAp7OYX9uHotkQlO)
 - [Build a Beautiful Coffee Shop App UI in Flutter | Complete Tutorial 2025](https://youtu.be/le96Gt6UHxk?si=pf_LGGgR11JbYcuo)
+- [🔥 Flutter Full Course: Build a Complete Ecommerce App for Beginners | Step-by-Step Tutorial](https://youtu.be/cXz8EVQsDF0)
 
 ##### Flutter Guys
 - [Complete Flutter E-commerce App - Bloc, Clean Architecture, Firebase](https://youtu.be/OTdRkmmE_Vw)
@@ -1429,6 +1431,8 @@
 
 #### Code with Beto
 - [Build an AI-Powered Meditation App with React Native](https://youtu.be/JdvHMzlKssI)
+- [Build a Modern Multi-User Chat App with React Native, Expo, Clerk & Appwrite (Real-Time)](https://youtu.be/HKJdqJIDtMs)
+- [What’s New in React Native 0.83, React 19.2, New DevTools features](https://youtu.be/jDQT2Rw6i6Q)
 
 #### Codesistency
 - [Build a Massive E-Commerce Store with React Native](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
@@ -1443,9 +1447,6 @@
 - [Building a Food Delivery App with React Native | Expo, Git, Maps, Reanimated | Wolt Clone](https://youtu.be/aYftPYZJsy8)
 - [React Native Godot Games](https://youtu.be/eDcOXpRPprU)\
 - [I Built a Mobile Farming Game in 6 Days (with AI + Expo)](https://youtu.be/MJRUidWJOdw)
-
-#### Code with Beto 
-- [Build a Modern Multi-User Chat App with React Native, Expo, Clerk & Appwrite (Real-Time)](https://youtu.be/HKJdqJIDtMs)
   
 #### PedroTech
 - [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
