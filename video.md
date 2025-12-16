@@ -25,6 +25,7 @@
 - [ArtificiaI Intelligence Full Course (2025) | Free AI Course | Intellipaat](https://youtu.be/sQmUuG_ol4Y)
 
   - AI Agents
+      - [Production-Grade AI Agent - Full Tutorial w/ Python, Inngest, BrightData & More](https://youtu.be/6UZtdTS4Pjo)
       - [Build a Python AI Agent in 10 Minutes](https://youtu.be/gaGaPpnexxA)
       - [Build & Deploy a Python AI Agent in 20 Minutes](https://youtu.be/eSbeub2ZeNk)
       - [How to Build AI Agents in Python](https://youtu.be/OKwDzKY_WN8)
@@ -1184,6 +1185,10 @@
 ## Network Chuck
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
+- [stop trusting cloud cameras!! (here's what I use instead)](https://youtu.be/tbCKWX34_G4)
+- [Raspberry PI](https://youtu.be/vbaJcRxASo0?list=PLIhvC56v63IJzZZpe4SLlzWIWRnxUU5lD)
+- [Docker Compose will BLOW your MIND!! (a tutorial)](https://youtu.be/DM65_JyGxCo)
+- [Home Assistant](https://youtu.be/k02P5nghmfs?list=PLIhvC56v63ILr2oFbK-Yj9jnIdqSLwCFU)
 
 ## Cybersecurity
 - [Intro to PowerShell: Hunting Network Activity.](https://youtu.be/SQpewCGwXL0)
@@ -1368,7 +1373,7 @@
 - [What’s New in React Native 0.83, React 19.2, New DevTools features](https://youtu.be/jDQT2Rw6i6Q)
 
 #### Codesistency
-- [Build a Massive E-Commerce Store with React Native](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
+- [Build a Full Stack E-Commerce Mobile App with React Native | Beginner Friendly Course](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
 
 
 #### Time to Program
