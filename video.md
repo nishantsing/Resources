@@ -820,6 +820,7 @@
 - [Supabase | A 9 Billion dollar company](https://youtu.be/sAJyhErLAio)
 - [Auth & backend so simple even this CSS dev gets it](https://youtu.be/STqtxe7y0jo)
 - [Build the Ultimate Realtime Chat Project](https://youtu.be/5MQb6pVkQHA)
+- [Intro to Supabase – Full Tutorial for Beginners](https://youtu.be/Q7P20fHJlm4)
 
 #### Appwrite
 - [Appwrite DB](https://youtu.be/HGlBpna17LQ?list=PL4cUxeGkcC9gXxY0nrh9N4CYHtwnoHjV2)
