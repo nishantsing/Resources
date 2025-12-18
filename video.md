@@ -352,6 +352,46 @@
 
 ## Clean Code
 - [JavaScript Clean Code Course – Fix Code Smells & Refactor](https://youtu.be/626BcUO84og)
+
+#### HTML
+- [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
+- [Create a reusable Web Component from scratch](https://youtu.be/b_x3kzapvcI)
+
+#### CSS
+- [Stop using so many Media Queries - Use clamp() instead!](https://youtu.be/pYW3O0AxpI8?si=uvqPF_tcfgymscGE)
+- [How To Make Amazing Range Inputs With CSS](https://youtu.be/AvvXZL3mKhc)
+- [Build Layouts with CSS Grid #1 - CSS Grid Basics](https://youtu.be/xPuYbmmPdEM?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4)
+- [CSS Combinators you need to know (and a selector too)](https://youtu.be/rndMS4pEKP8)
+- [CSS attribute selectors are more powerful than you think](https://youtu.be/TWqpa-hfIdw)
+- [Use for Prototypes - CSS Without Classes! Styled Apps By Default](https://youtu.be/SmmLeWZ9S5g)
+- [@container Queries Containment Module CSS Tutorial](https://youtu.be/r9oB4OolaAs)
+- [Don't sleep on grid-template-areas](https://youtu.be/vbdSH9c4hn0)
+- [Responsive Web Development Complete Guide for Beginners (Project Included)](https://m.youtube.com/watch?v=J_r6hBo9lO4)
+- [HTML & CSS form tutorial / Frontend Mentor](https://m.youtube.com/watch?v=jJgNgNNHqjk&pp=0gcJCRsBo7VqN5tD)
+- [How to set custom error messages for your HTML forms](https://youtu.be/h5qqmE83Tes)
+- [CSS Debugging Tips](https://youtu.be/2ThuIqMMJJc)
+- [Flexbox Alignment & Justification Without the Guesswork](https://youtu.be/uIzaU98Ak1k)
+- [CSS Flexbox Tutorial for Beginners](https://youtu.be/nbsz6muQRT4)
+- [CSS Grid Alignment & Justification Without the Guesswork](https://youtu.be/WvoYYok1Ddo)
+- [Learn CSS Subgrid for Perfect Alignment](https://youtu.be/APxt2mKOsss)
+- [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI)
+- [Make this fun effect that follows your cursor (pure CSS)](https://youtu.be/8_NQ7ARXz8c)
+- [Mouse-tracking button effect with CSS-only](https://youtu.be/bjw0ka0raMA)
+- [Learn how to use Media queries & Container queries](https://youtu.be/2rlWBZ17Wes)
+- [Responsive layout practice for beginners](https://youtu.be/JFbxl_VmIx0)
+- [The Ultimate Guide to Tailwind CSS](https://youtu.be/g03Yldh9Nkw)
+- [Learn Tailwind CSS: Build a Responsive Product Card](https://youtu.be/cG2rf7hTvsw)
+- [Modern CSS for sites: View transitions, scroll effects, and more!](https://youtu.be/oXSFwix7eR8)
+- [How To Handle CSS Colors Like A Senior Dev](https://youtu.be/Acs-tJV4iAo)
+- [Tailwind CSS Setup using vite - asmrprog](https://youtu.be/bqMhRO351ps)
+- [View Transition API Tutorial | New CSS Animation Power](https://youtu.be/Fb-RNqiDoiw)
+- [Can You Build A Swipe UI With Only CSS?](https://youtu.be/WjuqAGpj6DM)
+- [Responsive Design Web Design Tutorial](https://youtu.be/ITwD8Iq_ahs)
+- [Getting started with CSS Nesting](https://youtu.be/h4Xp1QgNkhU?si=0Ff1YpmsGnaQshGx)
+- [3 powerful CSS nesting tricks](https://youtu.be/hiwvjsmD2iY?si=_S9HNWWCbSKf-U79)
+- [Inverted Corners in CSS? New corner-shape Property!](https://youtu.be/kmfBt1gBAXQ)
+- [Scroll-Triggered Animations | Web UX Re-Imagined](https://youtu.be/d8J0vs-bEPE)
+- [Stop using the legacy color syntax](https://youtu.be/Uynb7Ci8JMg)
   
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
