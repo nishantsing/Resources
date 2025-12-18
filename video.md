@@ -442,6 +442,7 @@
 
 ## TypeScript
 - [Chai aur Typescript](https://youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&si=D6wf4B7gm4qGHJIB)
+- [Typescript Course in 1 Shot in Hindi](https://youtu.be/kvP6hDXWy88)
 - [TypeScript is actually really powerful.](https://youtu.be/2wunki7VOAI)
 - [Typescript Crash Course](https://youtu.be/VGu1vDAWNTg?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 - [TypeScript Full Course 2025 | Learn TypeScript in One Video](https://youtu.be/W3G4DuchKFY)
