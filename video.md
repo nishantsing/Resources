@@ -5,6 +5,7 @@
 - [The Best AI Coding Tools for Developers in 2025 (That I Actually Use)](https://youtu.be/YESrXVkcCHY)
 
 ## AI
+- [A Deepdive on the Personal AI Infrastructure Project](https://youtu.be/Le0DLrn7ta0)
 - [Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers](https://youtu.be/wu8npoU37cI?si=DiLrkKxElqy2qzRZ)
 - [20 AI Concepts Explained in 40 Minutes](https://youtu.be/OYvlznJ4IZQ)
 - [AI Engineering: A Realistic Roadmap for Beginners](https://youtu.be/d_LbQwoWI7I)
@@ -472,6 +473,9 @@
 - [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
 - [This is how Google Analytics works.](https://youtu.be/w684GdpFZrU)
 
+#### Destination FAANG
+- [System design](https://youtu.be/WerKAsw-b3k?list=PL_EB_bIOCNYmVhFKeRuI6nn4Mw7pHmvsM)
+
 ## Design
 
 #### Affinity 3
@@ -561,6 +565,7 @@
 
 #### Svelte
 - [SvelteKit Tutorial](https://youtu.be/9OlLxkaeVvw?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+- [Modern Svelte Kit - Complete Svelte Kit Course for Beginners](https://youtu.be/vkXxFfGwPao)
 
 #### Gatsby
 - [Gatsby Tutorial](https://youtu.be/Qms4k6y7OgI?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
@@ -651,6 +656,7 @@
 - [TanStack Start Is Shockingly Good (100% Typesafe!)](https://youtu.be/qrqlHdevfOc)
 - [tRPC vs oRPC: Typesafe API battle!](https://youtu.be/_oHJUxkAM1w)
 - [React Compiler 1.0 with TanStack Start!](https://youtu.be/-3-17PRN7jg)
+- [NEW Tanstack AI Library is Amazing!](https://youtu.be/quoNVa88XfE)
 
 
 #### Three.js
@@ -940,6 +946,7 @@
 - [Unity 101 Crash Course For Beginners: Start Building Your Own Game!](https://youtu.be/BJt0wsRfUmA)
 - [14 Hours of Python Game Development - from Beginner to Advanced](https://youtu.be/RuTmd4g5K8Q)
 - [Learn JavaScript to Make Games + Kaplay Library Course](https://youtu.be/KHxX0CgMGs4)
+- [Unity 2D Pixel Art Game Tutorial](https://youtu.be/dSIVVX0vAsY)
 
 ## Home Automation
 - [home automation](https://youtu.be/k02P5nghmfs)
@@ -1207,6 +1214,10 @@
 - [Build Your Own Wi-Fi Hacking Tool (ESP32 Marauder)](https://youtu.be/lcokJQMivwY)
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 - [Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)](https://youtu.be/kb_scuDUHls)
+- [Dumb mistakes that compromise your app](https://youtu.be/U_tsCjOrcK4)
+
+## Freelancing
+- [How to Start FREELANCING & Earn Money (AI Automation)](https://youtu.be/BhEcalM-Egg)
 
 ## Languages
 
@@ -1364,6 +1375,7 @@
 - [How to Create Full Stack AI Website Generator App with Nextjs, React, Typescript, ImageKit](https://youtu.be/tKDPE219kCE)
 - [Build & Deploy AI Agent Builder Platform using NextJs, React, Convex, Arcjet](https://youtu.be/-AVtkiG0laE)
 - [Build Full Stack E-Learning Coding Platform using NextJs, React, Neon, CodeRabbit](https://youtu.be/rdaSPdCkoFQ)
+- [Build & Deploy FullStack Next.js & React Google Analytics Clone using Coderabbit, Neon, Kuberns](https://youtu.be/Tol6p9kYhy4)
 
 #### Becodemy
 - [Let's build a multi vendor ecommerce mobile app with expo react native | Node JS | ImageKit](https://youtu.be/AN9gVROEgzU)
