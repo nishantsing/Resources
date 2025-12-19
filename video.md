@@ -350,6 +350,7 @@
 
 ## Browser
 - [Understanding CORS](https://youtu.be/qRp4AepVjl4)
+- [Who Can STUMP a Web Developer](https://youtu.be/OhidZpiA8os)
 
 ## Clean Code
 - [JavaScript Clean Code Course – Fix Code Smells & Refactor](https://youtu.be/626BcUO84og)
@@ -393,6 +394,8 @@
 - [Inverted Corners in CSS? New corner-shape Property!](https://youtu.be/kmfBt1gBAXQ)
 - [Scroll-Triggered Animations | Web UX Re-Imagined](https://youtu.be/d8J0vs-bEPE)
 - [Stop using the legacy color syntax](https://youtu.be/Uynb7Ci8JMg)
+- [Build truly reusable components!](https://youtu.be/XVasJ3shTYo)
+- [Modern CSS features you probably don't know](https://youtu.be/pAEqVdnER84)
   
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -1206,6 +1209,9 @@
 - [Performance optimization Pitstop](https://youtu.be/3haeDqv7Dzc)
 - [Developer Tooling Tips](https://youtu.be/3haeDqv7Dzc?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
 
+#### New in Dev Tool
+- [What’s new in DevTools 142 - 144](https://youtu.be/2rOeZ98AOb8)
+
 ## Networking
 - [Computer Networking Full Course - Internet Explained Step by Step (Real-Life Examples)](https://youtu.be/RY32wSQDekE)
 - [The Home Server / Synology Show](https://youtu.be/AVXFadE8Q9A?si=2EUuizh6tVNauqpp)
@@ -1385,6 +1391,7 @@
 - [I built a phone system because no one answers me](https://youtu.be/fdM1V98iIQI)
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 - [Discrete Mathematics Course for Beginners](https://youtu.be/G9JxuWk7BDA)
+- [Everything you should know about US investment from India | Detailed guide for US investment](https://youtu.be/T_zXohkWDwA)
 
 ## Low / No Code / Lovable / Bolt / Base44
 - [WordPress Full Course for Beginners to PRO (2026) - Build No-Code Website](https://youtu.be/Kb1P0fnrt_g?si=pC0AaqwBj0L0M9bL)
