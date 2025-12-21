@@ -247,6 +247,7 @@
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
 
 ## Python
+- [Roadmap Automation and Devops](https://youtu.be/JMJZn2PfP8s)
 - [How to Write Production Python Code](https://youtu.be/qU3Rc6_B9es)
 - [My top 5 python programming course recommendations](https://youtu.be/KjkFed4B5r8)
 - [The Next Step After Learning Python Basics](https://youtu.be/LcXDhUn9nkg)
@@ -256,6 +257,7 @@
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
 - [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
+
 
 #### Numpy
 - [Learn NumPy in 1 hour! 🔢](https://youtu.be/VXU4LSAQDSc)
@@ -1328,6 +1330,7 @@
 - [Access ANY Network (remotely)](https://youtu.be/1lZ3FQSv-wI)
 - [Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)](https://youtu.be/kb_scuDUHls)
 - [Dumb mistakes that compromise your app](https://youtu.be/U_tsCjOrcK4)
+- [IoT Hacking for Beginners - Learn Hardware Fundamentals in 9+ Hours](https://youtu.be/j8SqZLr64NA)
 
 ## Freelancing
 - [How to Start FREELANCING & Earn Money (AI Automation)](https://youtu.be/BhEcalM-Egg)
