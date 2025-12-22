@@ -458,6 +458,7 @@
 - [TypeScript Interview Questions (Junior & Mid)](https://youtu.be/1UY8WBhPnlY)
 - [Will I Survive These Advanced TypeScript Challenges?](https://youtu.be/dyiVsjLTFv0)
 - [Branded Types are a Must Know TypeScript Feature for Large Projects](https://youtu.be/aP6w2OzidYM?si=Y0JiOmeZAjsNJDs1)
+- [5 Typescript tips you NEED to know](https://youtu.be/KvbH6-kCHCY)
 
 ## DSA
 - [Visualize Data Structures in VS Code](https://youtu.be/3O6BFlOiFRg)
@@ -1332,6 +1333,7 @@
 - [Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)](https://youtu.be/kb_scuDUHls)
 - [Dumb mistakes that compromise your app](https://youtu.be/U_tsCjOrcK4)
 - [IoT Hacking for Beginners - Learn Hardware Fundamentals in 9+ Hours](https://youtu.be/j8SqZLr64NA)
+- [RayHunter : DIY Gadget That Proves You’re Being Monitored](https://youtu.be/Z93pw1ddDMg)
 
 ## Freelancing
 - [How to Start FREELANCING & Earn Money (AI Automation)](https://youtu.be/BhEcalM-Egg)
