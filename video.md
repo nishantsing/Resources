@@ -1176,6 +1176,7 @@
 - [Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure](https://youtu.be/wQQR60KtnFY)
 - [Data Analytics Free Course for Data Analyst Jobs | Data Analyst Free Course | Intellipaat](https://youtu.be/Dnch98Zf2ks)
 - [Power BI Course FREE | Power BI Full Course For Beginners | Intellipaat](https://youtu.be/Oa83OX1gwjw)
+- [Power BI Dashboard For Beginners | End-to-End Data Analyst Project](https://youtu.be/L2dvMzLlAqQ)
 
 ## Automation
 - [Python Automation Crash Course (2025): Automate Your Life With Python!](https://youtu.be/4AEsblWWdQg)
@@ -1505,6 +1506,8 @@
 #### Codesistency
 - [Build a Full Stack E-Commerce Mobile App with React Native | Beginner Friendly Course](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
 
+#### Tech With Emma
+- [Build an AI Mobile App Design Agent with Next.js 16, MongoDB, Inngest, Gemini & Kinde](https://youtu.be/WluV9LeDzwo)
 
 #### Time to Program
 - [Build MERN Stack Projects: Beginner to Advance](https://youtu.be/iaAdWmAu0TE?list=PLbRpkalMD_hxM8lBsTiRetKkrd-QyDxEQ)
