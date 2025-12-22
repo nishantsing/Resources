@@ -94,6 +94,7 @@
   - LangChain / HuggingFace/ ModelZero
       - [HuggingFace + Langchain | Run 1,000s of FREE AI Models Locally](https://youtu.be/1h6lfzJ0wZw)
       - [Combine MULTIPLE LLMs to build an AI API! (super simple!!!) Langflow   LangChain   Groq   OpenAI](https://youtu.be/5lFChDglhmI)
+      - [Updated Langchain Version V1 Crash Course- Build Autonomous Agents](https://youtu.be/vzJOAnwIokM)
    
   - LangGraph
       - [Build Serverless AI Agents with Langbase](https://youtu.be/BMt-qvrEcFY?si=hC2AMZITpIFubyFo)
@@ -257,6 +258,7 @@
 - [Build 5 Real World Python Projects With 3 Senior Developers](https://youtu.be/RyaPmwrjrpY)
 - [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
+- [Master Python Requests In 15 Minutes. Call Any API](https://youtu.be/Xnbef8F_Yfc)
 
 
 #### Numpy
@@ -340,6 +342,7 @@
 - [Stock Market API](https://github.com/maanavshah/stock-market-india)
 - [Open Source Projects to contribute](https://www.wearedevelopers.com/en/magazine/265/open-source-projects-for-developers-to-contribute)
 - [Hiring without white boards](https://github.com/poteto/hiring-without-whiteboards)
+- [Launching Complete AI/ML, Web3 and Web Dev Bootcamp](https://youtu.be/cxMqXPAVag8)
 
 ###### Interview Qns
 - [50 JavaScript Interview Questions Solved in 1 Hour](https://youtu.be/qTszFuibDEg)
@@ -353,6 +356,7 @@
 ## Browser
 - [Understanding CORS](https://youtu.be/qRp4AepVjl4)
 - [Who Can STUMP a Web Developer](https://youtu.be/OhidZpiA8os)
+- [2025 Browser Ready Features](https://youtu.be/jg8gJz82kZg)
 
 ## Clean Code
 - [JavaScript Clean Code Course – Fix Code Smells & Refactor](https://youtu.be/626BcUO84og)
@@ -989,6 +993,7 @@
 ## Mobile Development
 
 #### React Native
+- [Stop Writing Old React Native Code: 5 Tips for 2026](https://youtu.be/zMM0d1d1_X4)
 - [7 Tips to Make Your React Native App Blazing Fast!](https://youtu.be/rSym-q9soFk)
 - [Build Your Own AI Caption Editor with React Native (Convex, ElevenLabs, NativeWind, Expo)](https://youtu.be/Snw0b-PMhsU)
 - [Pocket clone with react native and sqlite, auth](https://youtu.be/GSs4Dnz274k?si=ZkMrTJ64rLEdWBUj)
@@ -1178,6 +1183,7 @@
 - [Data Analytics Free Course for Data Analyst Jobs | Data Analyst Free Course | Intellipaat](https://youtu.be/Dnch98Zf2ks)
 - [Power BI Course FREE | Power BI Full Course For Beginners | Intellipaat](https://youtu.be/Oa83OX1gwjw)
 - [Power BI Dashboard For Beginners | End-to-End Data Analyst Project](https://youtu.be/L2dvMzLlAqQ)
+- [Business Analyst Full Course FREE | Business Analyst Tutorial For Beginners 2026 | Intellipaat](https://youtu.be/CHlHApBxLBk)
 
 ## Automation
 - [Python Automation Crash Course (2025): Automate Your Life With Python!](https://youtu.be/4AEsblWWdQg)
