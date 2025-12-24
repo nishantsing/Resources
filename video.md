@@ -1362,6 +1362,9 @@
 - [Complete Rust Marathon in 6 hours](https://youtu.be/joCFbTJt0o0)
 - [Rust Course](https://youtu.be/jAm7xrRxEUE?list=PL_c9BZzLwBRIymgB73pHXIgazpB-uszKU)
 
+#### Bash
+- [The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell](https://youtu.be/Sx9zG7wa4FA)
+
 #### Validators
 - [Zod VS Valibot: JS/TS Validator Battle!](https://youtu.be/6P-2urhScwk)
 
@@ -1390,6 +1393,7 @@
 ## Stock Market
 - [Stock Market Course for FREE 2024 (Hindi) | Stock Market for Beginners | How to Invest | Harsh Goela](https://youtu.be/lAcbHp1Qlpk)
 - [Stock Market Course in Hindi 2025 (Absolutely FREE ✅) | Investing for Beginners](https://youtu.be/uzJFWYbYfIc)
+- [When to sell your Stocks/Gold/other assets? (And, rebuy at lower prices?) | Akshat Shrivastava](https://youtu.be/lYuzeLumcA4)
 
 ## AI Products
 - [How I Made a Viral Ad in 2 Minutes With AI! | Topview.Ai](https://youtu.be/ZF1MqYxfXSw)
@@ -1530,7 +1534,8 @@
 #### PedroTech
 - [React Native Full Course 2025 | Become a React Native Pro in 4 Hours](https://youtu.be/J50gwzwLvAk)
 - [Modern React Full Course For Beginners | 3 React Projects in 4 Hours](https://youtu.be/r47C9c4qCqE)
-- [Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma](https://youtu.be/g09PoiCob4Y?si=tzt9IF-gS9NKOqcV) 
+- [Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma](https://youtu.be/g09PoiCob4Y?si=tzt9IF-gS9NKOqcV)
+- [Build and Deploy a Modern Personal Portfolio with ReactJS and TailwindCSS | React Tailwind Tutorial](https://youtu.be/cIYdiRDFWQw)
 
 #### GreatStack
 - [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
