@@ -157,6 +157,7 @@
 
 #### AI SDK Vercel
 - [Don't sleep on AI SDK Component Library](https://youtu.be/DDg6NtD1SsQ)
+- [Build a Support Agent with Vercel AI SDK – Full Tutorial](https://youtu.be/WKIjkxxNH0c)
 
 ## LLM's 
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
@@ -402,6 +403,7 @@
 - [Stop using the legacy color syntax](https://youtu.be/Uynb7Ci8JMg)
 - [Build truly reusable components!](https://youtu.be/XVasJ3shTYo)
 - [Modern CSS features you probably don't know](https://youtu.be/pAEqVdnER84)
+- [Build smarter color systems with relative colors](https://youtu.be/QBrle8VvCkw)
   
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -659,6 +661,7 @@
 - [Build Your UI Component Library in React & Next.js   ShadCN UI for Beginners](https://youtu.be/v0_AT8zaLo8)
 - [Build shadcn forms faster](https://youtu.be/PM3FuM2HX0I)
 - [How I Built My Own Shadcn Library](https://youtu.be/2NV1w1m9cTY)
+- [Everyone Is Missing What Makes NEW Shadcn Update Amazing](https://youtu.be/SQTij8_Kwl4)
 
 #### Chakra UI
 - [Chakra UI Crash Course](https://youtu.be/iXsM6NkEmFc?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
@@ -1560,6 +1563,9 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
 - [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
+
+#### WsCubeTech
+- [Create Realistic AI Influencer Videos for FREE (No Camera, No Model)](https://youtu.be/-RkzE61fI9s)
 
 #### AI SaaS
 - [Let's build an AI Automation SaaS with Next JS | Neon | Inngest | Better Auth | Cryptomus (Part 1/2)](https://youtu.be/F2aJfxROY9Y)
