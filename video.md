@@ -361,6 +361,7 @@
 
 ## Clean Code
 - [JavaScript Clean Code Course – Fix Code Smells & Refactor](https://youtu.be/626BcUO84og)
+- [Write code good enough to deploy rockets](https://youtu.be/qNAbffRoEcI)
 
 #### HTML
 - [Make Your Site 200% Faster With One Simple Image Feature](https://youtu.be/qpbcLKlL0RM)
@@ -591,6 +592,7 @@
 - [Apache Kafka in 15 minutes](https://youtu.be/hNDjd9I_VGA)
 - [Apache Spark: Deep Dive into internal architecture](https://youtu.be/I-PwfcNurWo)
 - [This is how Google Analytics works.](https://youtu.be/w684GdpFZrU)
+- [The Internal Architecture of Amazon S3](https://youtu.be/M2jYafYJovo)
 
 #### Destination FAANG
 - [System design](https://youtu.be/WerKAsw-b3k?list=PL_EB_bIOCNYmVhFKeRuI6nn4Mw7pHmvsM)
@@ -1141,6 +1143,9 @@
 
 #### Electron
 - [Build a Markdown Notes app with Electron, React, Typescript, Tailwind and Jotai](https://youtu.be/t8ane4BDyC8)
+
+#### Tauri
+- [Tauri Tutorial: Build Your First Desktop App with Rust & JavaScript (2026)](https://youtu.be/eE9SZ4T5pMQ)
 
 ## Microservices
 - [Master Micro-service based Architecture](https://youtu.be/gem_722nztc)
