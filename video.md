@@ -727,6 +727,7 @@
     - React State Management
     - Redux Toolkit
         - [React Redux Complete Tutorial](https://youtu.be/mqEWYFv0fUs?si=BzCJ4yn6RUVSPO_H)
+        - [Redux Toolkit Complete Course 2026 | Beginner to Advanced with Project](https://youtu.be/Q5TqsetwCoE)
     - Context API
     - Zustand
         - [React state management crash course | Zustand](https://youtu.be/KCr-UNsM3vA?list=PLF8LumSOX3y_3WL0emyKZkokMAgp01oRe)
@@ -1568,6 +1569,7 @@
 - [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ)
 - [Build and Deploy a Full Stack Real Time AI Voice Agent Interview Platform](https://youtu.be/8GK8R77Bd7g)
 - [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
+- [Build and Deploy a Real Time Crypto Screener & Dashboard App | WebSockets with Next.js](https://youtu.be/-vsh_GxC-vg)
 
 #### WsCubeTech
 - [Create Realistic AI Influencer Videos for FREE (No Camera, No Model)](https://youtu.be/-RkzE61fI9s)
