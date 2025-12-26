@@ -1204,6 +1204,7 @@
 
 ## Cloud Computing
 - [Cloud Computing Explained: The Most Important Concepts To Know](https://youtu.be/ZaA0kNm18pE)
+- [Cloud Computing Course FREE | Intellipaat](https://youtu.be/p5PhwRCjo7g)
 
 
 ## Create extension
