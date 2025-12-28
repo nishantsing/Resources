@@ -1331,6 +1331,7 @@
 #### ESP32
 - [ESP32 = Public Web Server! - Port Forwarding](https://youtu.be/CmaFU1Y7FJc)
 - [Install ESP32 Marauder on ESP32-WROOM-32 - Build Portable Hacking Device](https://youtu.be/MXmMG3ZiYYQ)
+- [Bluetooth LED Control App with MIT App Inventor - STEP By STEP](https://youtu.be/w5LgLsCumFI?si=07PO9v1kmBNDM565)
 
 ## Raspberry pi
 - [World’s Smallest & Cheapest Hacking Computer using Raspberry Pi](https://youtu.be/iB-YtR9-vjw)
