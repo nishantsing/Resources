@@ -1,13 +1,21 @@
 # General Info
 
 
+### Can I use port forwarding on my home router to make my physical machine accessible on the internet like a machine on hostinger(Docker compose)?
+- Yes, but with important limitations. Dynamic IP, CG-NAT, ISP Port Blocking, Security Risks.
+- CG-NAT
+  - Open router admin → WAN / Internet IP
+  - Compare with whatismyip
+  - Same IP	You have real public IP, Different IP	🚨 CG-NAT (no port forwarding possible)
+- http://<your-public-ip>:8080 - nothing should be visible as no service is running and if you forward the port then -> 
+
 ## Hosting your site.
 - You can host your site using various sites like(netlify, vercel, github, render) and others.
 - Vscode portforwarding can also be used.
 - Github codespaces can also be used.
 - In cmd "ngrok http <port>" - port of localhost where you app is running can be used.
 
-#### Using ngrok/ Cloudflare Tunnel
+#### Using ngrok/ Cloudflare Tunnel / Tailscale / ZeroTier
 - Install ngrok
 - Connect ngrok to your account
 - Start local server
