@@ -1418,6 +1418,7 @@
 - [You NEED to try ASCII ANIMATIONS](https://youtu.be/dUV8pobjZII)
 - [Discrete Mathematics Course for Beginners](https://youtu.be/G9JxuWk7BDA)
 - [Everything you should know about US investment from India | Detailed guide for US investment](https://youtu.be/T_zXohkWDwA)
+- [Block Ads on ALL DEVICES (Smart TVs) — Simplest Pi-hole Tutorial](https://youtu.be/d_3h5n9mPdI)
 
 ## Low / No Code / Lovable / Bolt / Base44
 - [WordPress Full Course for Beginners to PRO (2026) - Build No-Code Website](https://youtu.be/Kb1P0fnrt_g?si=pC0AaqwBj0L0M9bL)
