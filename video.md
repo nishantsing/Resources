@@ -1328,6 +1328,10 @@
 
 #### ESP32
 - [ESP32 = Public Web Server! - Port Forwarding](https://youtu.be/CmaFU1Y7FJc)
+- [Install ESP32 Marauder on ESP32-WROOM-32 - Build Portable Hacking Device](https://youtu.be/MXmMG3ZiYYQ)
+
+## Raspberry pi
+- [World’s Smallest & Cheapest Hacking Computer using Raspberry Pi](https://youtu.be/iB-YtR9-vjw)
 
 ## Network Chuck
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
