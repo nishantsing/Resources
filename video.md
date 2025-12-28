@@ -261,6 +261,7 @@
 - [How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)](https://youtu.be/wqBlmAWqa6A)
 - [How To Build a FastAPI & React Full Stack App | Clerk, Databases, LLMs & More](https://youtu.be/13tMEW8r6C0)
 - [Master Python Requests In 15 Minutes. Call Any API](https://youtu.be/Xnbef8F_Yfc)
+- [Creating a Game Without Using a Game Engine!](https://youtu.be/ApiVG_kmpF8?si=CAm6x1vjtI8QhVSr)
 
 
 #### Numpy
