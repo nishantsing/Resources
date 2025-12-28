@@ -244,6 +244,7 @@
 ##### Project Ideas
 - [Sentiment Analysis Code Sample](https://youtu.be/4SJv8YxGho4)
 - [The 4 Projects That Get You Out of Web Dev](https://youtu.be/CwznNoeiCRg?list=TLPQMjMxMDIwMjUZHsSDvcEaFQ)
+- [15 INSANE CSE Projects That’ll Make You DANGEROUSLY Smart](https://youtu.be/nfIX0Z9K3Q4)
 
 ## W3
 - [create your own Solana Token...in the terminal ](https://youtu.be/L4ASwqLZVV0)
