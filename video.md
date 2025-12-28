@@ -919,8 +919,8 @@
 
 ## DataBase
 - [Build your OWN Database Programming Interface!! GraphQL   REST API   Neurelo](https://youtu.be/SmyV-yJxgIM)
-
 - [Designing a Production-Ready Database Starting from a Simple Idea (ERD)](https://youtu.be/2pS0KgQtO8Y?si=dvoNZ7PKlSYAhJ4m)
+- [AI-Powered Database Schema Design](https://youtu.be/9luadpdoF-g)
 
 #### MongoDB
 - [MongoDB Crash Course 2026 (with Handbook)](https://youtu.be/M1dKYQ7GsTg)
@@ -1319,9 +1319,15 @@
 ## GSOC
 - [I contributed to Google Deepmind for GSoC 2025](https://youtu.be/qeEqqLWG2fY)
 
-## Arduino
+
+## Microcontrollers
+
+#### Arduino
 - [Arduino MASTERCLASS | Full Programming Workshop in 90 Minutes!](https://youtu.be/BLrHTHUjPuw)
 - [Computer Vision with Arduino Tutorial – 2 Projects](https://m.youtube.com/watch?v=Q5U-b6gRTaY)
+
+#### ESP32
+- [ESP32 = Public Web Server! - Port Forwarding](https://youtu.be/CmaFU1Y7FJc)
 
 ## Network Chuck
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
