@@ -4,6 +4,13 @@
 ## AI Tools For Developer
 - [The Best AI Coding Tools for Developers in 2025 (That I Actually Use)](https://youtu.be/YESrXVkcCHY)
 
+#### NotebookLM
+- [Master NotebookLM in 14 Minutes!🤯[FREE AI Tool by Google]](https://youtu.be/ny2yB7dnWzE)
+- [Learn 80% of NotebookLM in Under 13 Minutes!](https://youtu.be/EOmgC3-hznM)
+
+#### Notion
+- [Notion](https://youtu.be/c7LY9Um2el4)
+
 ## AI
 - [A Deepdive on the Personal AI Infrastructure Project](https://youtu.be/Le0DLrn7ta0)
 - [Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers](https://youtu.be/wu8npoU37cI?si=DiLrkKxElqy2qzRZ)
@@ -1247,7 +1254,6 @@
 - [AWS Project Tutorial: Build Your Portfolio on AWS Cloud | AWS Project For Beginners | Intellipaat](https://youtu.be/yhaaWKJjC54)
 - [🔥AWS Full Course 2025 | AWS Training For Beginners | Intellipaat](https://youtu.be/6_R1ZUVz7FU)
 - [data-science-on-aws](https://github.com/aws-samples/data-science-on-aws)
-- [AWS Full Course 2026 FREE | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/dcahqWJ6tKc)
 - [AWS Full Course 2026 | AWS Training FREE | AWS Tutorial for Beginners | Intellipaat](https://youtu.be/BiBu96zE92w?si=zekbf-tCk74QLAcy)
 
 
@@ -1564,6 +1570,7 @@
 #### GreatStack
 - [How To Build Full Stack Social Media Marketplace App Using React JS | Listing Website Using PERN](https://youtu.be/okGhie_1wPo)
 - [Build Your Own AI Website Builder Using PERN Stack | Full Stack React JS Project Tutorial](https://youtu.be/kfcnYB0sQbM?si=vEJwNQISJksVvcdb)
+- [Build an AI Thumbnail Generator App using React | MERN Stack + Gemini API (Full Tutorial)](https://youtu.be/LpHfmr1CKEI)
 
 #### JS Masterty Good projects
 - [Build and Deploy a MacOS style Portfolio with React, GSAP & Tailwind](https://youtu.be/j9ZD_hlyHOA)
