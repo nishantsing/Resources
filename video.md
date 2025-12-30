@@ -1551,6 +1551,7 @@
 
 #### Codesistency
 - [Build a Full Stack E-Commerce Mobile App with React Native | Beginner Friendly Course](https://youtu.be/FaXe__AxzNU?si=tMc696jM-qDwefUZ)
+- [Full Stack Course: Build a Product Store with React and Postgres](https://youtu.be/y7kvxIQQxtQ)
 
 #### Tech With Emma
 - [Build an AI Mobile App Design Agent with Next.js 16, MongoDB, Inngest, Gemini & Kinde](https://youtu.be/WluV9LeDzwo)
