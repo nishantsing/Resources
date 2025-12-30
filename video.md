@@ -499,6 +499,7 @@
 - [DSAOne Course #1](https://youtu.be/N89PN_uyelU?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 - [Data Structures and Algorithms (DSA) in Java 2024](https://youtu.be/4_HOnhB64Dg)
 - [Data Structures and Algorithms Crash Course](https://youtu.be/Ndvm7Ge4pic)
+- [The ONLY Maths For DSA & CP Guide You Need](https://youtu.be/BD0PiKn5-3k)
 
 #### DSA in python
 - [Fundamentals of Data Structures and Algorithms - Caleb](https://youtu.be/kyUPU_Tpoq4?list=PL_c9BZzLwBRLpDEpYRFXKBN-2ZCsAx0ps)
@@ -1237,6 +1238,7 @@
 - [Pixel Pirate](https://youtu.be/n0bzBBaZhUQ)
 - [Performance optimization Pitstop](https://youtu.be/3haeDqv7Dzc)
 - [Developer Tooling Tips](https://youtu.be/3haeDqv7Dzc?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
+- [New APIs and exciting capabilities from Chrome Extensions in 2025](https://youtu.be/nOfyMlIu4jc)
 
 #### New in Dev Tool
 - [What’s new in DevTools 142 - 144](https://youtu.be/2rOeZ98AOb8)
@@ -1285,6 +1287,7 @@
 - [Host your Github Connected Website on AWS Amplify Hosting in Minutes | Amazon Web Services](https://youtu.be/hYxUemQRf3k)
 - [How to Deploy MERN Stack App | Complete Guide with Render, Vercel | Deploy Website In 10 Minutes](https://youtu.be/S2WhxW8xkHw)
 - [Deploying a Node.js App with Kubernetes, Docker & GitHub Actions](https://youtu.be/NI4XEDjGJsU)
+- [How To Deploy A NextJS App To Vercel (Simple)](https://youtu.be/kXtWjQowvVw)
 
 #### Docker
 - [How to Dockerize a Node.js App (in under 5 minutes)](https://youtu.be/6RdLX7kgCN8)
@@ -1341,6 +1344,7 @@
 
 ## Raspberry pi
 - [World’s Smallest & Cheapest Hacking Computer using Raspberry Pi](https://youtu.be/iB-YtR9-vjw)
+- [Top 25 Raspberry Pi Projects of 2024 ](https://youtu.be/Vv9Ouf_QH5s)
 
 ## Network Chuck
 - [the END of VPNs?!](https://youtu.be/IYmXPF3XUwo)
