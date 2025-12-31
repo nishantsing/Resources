@@ -415,6 +415,7 @@
 - [Modern CSS features you probably don't know](https://youtu.be/pAEqVdnER84)
 - [Build smarter color systems with relative colors](https://youtu.be/QBrle8VvCkw)
 - [I Love the NEW CSS Functions](https://youtu.be/bP8mrNdR-hs)
+- [Stop fighting with CSS Grid!](https://youtu.be/7OrtUkPgHLA)
   
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
