@@ -414,6 +414,7 @@
 - [Build truly reusable components!](https://youtu.be/XVasJ3shTYo)
 - [Modern CSS features you probably don't know](https://youtu.be/pAEqVdnER84)
 - [Build smarter color systems with relative colors](https://youtu.be/QBrle8VvCkw)
+- [I Love the NEW CSS Functions](https://youtu.be/bP8mrNdR-hs)
   
 ## JS
 - [Better JS - What Is The Best Way To Pad A String In JavaScript?](https://youtu.be/Wy37r57b-1Q)
@@ -882,6 +883,7 @@
 - [How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)](https://youtu.be/cy6EAp4iNN4)
 - [How to Create a FastAPI & React Project - Python Backend + React Frontend](https://youtu.be/aSdVU9-SxH4)
 - [FastAPI for Beginners | Learn by Building Project]([https://youtu.be/Rf9jbnzt2UU](https://m.youtube.com/watch?v=Lu8lXXlstvM))
+- [FastAPI + React B2B SaaS Full Project Build - Orgs, Users, Billing, Roles & More...](https://youtu.be/BvsBJynm64k)
 
 #### PHP
 - [Secure PHP Apps with Symfony & MongoDB – Full Course for Beginners](https://youtu.be/UuknxVdqzb4)
@@ -900,6 +902,7 @@
 - [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://youtu.be/rOpEN1JDaD0)
 - [Node JS Full Course 2024 | Complete Backend Development Course | Part 1](https://youtu.be/MIJt9H69QVc)
 - [Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2](https://youtu.be/_f7h6xQXiLA)
+- [Backend- Harkirat Singh](https://youtu.be/Cg8vLb4Qkro)
 
 #### Express
 - [End To End Node JS Production Setup 🚀 | Backend | Mongo DB | Express JS | Coder BB](https://youtu.be/txPIJR8lTVI)
